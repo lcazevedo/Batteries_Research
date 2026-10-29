@@ -1,0 +1,501 @@
+challenges_label,count,cluster,class_name
+Mixed Phase Product,1,0,Mass Transport Limitation Behavior
+Dynamic Species Distribution,1,0,Mass Transport Limitation Behavior
+Limited Thermodynamic Data,15,0,Mass Transport Limitation Behavior
+Space-Confined Reactor Limitations,1,0,Mass Transport Limitation Behavior
+Uncharacterized Diffusion Barriers,1,0,Mass Transport Limitation Behavior
+Limited Activation Energy,3,0,Mass Transport Limitation Behavior
+Restored Diffusion Pathways,1,0,Mass Transport Limitation Behavior
+Localized State Dynamics,1,0,Mass Transport Limitation Behavior
+Preferential Growth Mode,1,0,Mass Transport Limitation Behavior
+Diffusion Pathway Limitation,13,0,Mass Transport Limitation Behavior
+Ultra-Stable Separator Performance,1,0,Mass Transport Limitation Behavior
+Scalable Nanoporous Synthesis,1,0,Mass Transport Limitation Behavior
+Phase Boundary Formation,5,0,Mass Transport Limitation Behavior
+Limited Flame Speed,1,0,Mass Transport Limitation Behavior
+Reversibility of Phase Transformations,1,0,Mass Transport Limitation Behavior
+Reversible Bond Length Change,1,0,Mass Transport Limitation Behavior
+Variable Gasification Performance,1,0,Mass Transport Limitation Behavior
+Slow Kinetics of Phase Transition,1,0,Mass Transport Limitation Behavior
+Particle Aggregation,15,0,Mass Transport Limitation Behavior
+Volume Expansion of Material,1,0,Mass Transport Limitation Behavior
+Reversible Ionic Migration,1,0,Mass Transport Limitation Behavior
+Limited Coolant Capacity,1,0,Mass Transport Limitation Behavior
+Limited Volume Change Buffering,1,0,Mass Transport Limitation Behavior
+Random Atomic Configuration,1,0,Mass Transport Limitation Behavior
+Expanding Energy System Application,1,0,Mass Transport Limitation Behavior
+Poor Energy Density & Scale-Up,1,0,Mass Transport Limitation Behavior
+Nanoparticle Growth Complexity,1,0,Mass Transport Limitation Behavior
+Phase Characterization,1,0,Mass Transport Limitation Behavior
+Complex Equilibration Processes,1,0,Mass Transport Limitation Behavior
+Microscopic Process Variability,1,0,Mass Transport Limitation Behavior
+Complex Microfluidic Design,2,0,Mass Transport Limitation Behavior
+Loosely Aggregated Particles,1,0,Mass Transport Limitation Behavior
+Slurry Casting Method,1,0,Mass Transport Limitation Behavior
+Critical Property Dependence,1,0,Mass Transport Limitation Behavior
+Poor Microsphere Uniformity,1,0,Mass Transport Limitation Behavior
+Specific Energy Limit,1,0,Mass Transport Limitation Behavior
+Kinetically Metastable State,1,0,Mass Transport Limitation Behavior
+Dependence on Lithiation,1,0,Mass Transport Limitation Behavior
+Understanding Debonding Mechanisms,1,0,Mass Transport Limitation Behavior
+Maintaining Porosity During Increase,1,0,Mass Transport Limitation Behavior
+Complex Biomass Structure,1,0,Mass Transport Limitation Behavior
+High Restoration Capability,1,1,Long-Term Stability Degradation Issues
+Mechanical Membrane Stability,1,1,Long-Term Stability Degradation Issues
+Decreased Heat Capacity,1,1,Long-Term Stability Degradation Issues
+Inaccurate SOC/SOP/SOH Prediction,1,1,Long-Term Stability Degradation Issues
+Inconsistent Failure Criteria,1,1,Long-Term Stability Degradation Issues
+Thermodynamic Instability Prediction,3,1,Long-Term Stability Degradation Issues
+Poor N-Atom Stability,1,1,Long-Term Stability Degradation Issues
+Severe Thermal Runaway Risk,3,1,Long-Term Stability Degradation Issues
+Poor Precipitation Quality,1,1,Long-Term Stability Degradation Issues
+Corrosion Degradation Performance,1,1,Long-Term Stability Degradation Issues
+Unreliable Cycling Prediction,1,1,Long-Term Stability Degradation Issues
+Inconsistent Heat Treatment,1,1,Long-Term Stability Degradation Issues
+Rapid Degradation Detection,1,1,Long-Term Stability Degradation Issues
+Physical Damage Mitigation,1,1,Long-Term Stability Degradation Issues
+"High Energy Density, Stability",1,1,Long-Term Stability Degradation Issues
+Reduced Temperature Impact,1,1,Long-Term Stability Degradation Issues
+Poor Crystal Control,6,1,Long-Term Stability Degradation Issues
+Poor Oxide Stability,17,1,Long-Term Stability Degradation Issues
+High-Voltage Stability Requirement,1,1,Long-Term Stability Degradation Issues
+Predicted Stability Uncertainty,1,1,Long-Term Stability Degradation Issues
+Long Life Span,9,1,Long-Term Stability Degradation Issues
+Multi-component Device Stability,1,1,Long-Term Stability Degradation Issues
+Unreliable Dynamic Conditions,1,1,Long-Term Stability Degradation Issues
+Unpredictable Self-Healing,1,1,Long-Term Stability Degradation Issues
+Mechanical Tolerance Requirement,1,1,Long-Term Stability Degradation Issues
+Poor Stability,170,1,Long-Term Stability Degradation Issues
+Residual Stress Measurement,1,1,Long-Term Stability Degradation Issues
+Understanding Degradation Limitations,1,1,Long-Term Stability Degradation Issues
+Practicality at Extreme Temps,1,1,Long-Term Stability Degradation Issues
+Acceptable Experimental Precision,1,1,Long-Term Stability Degradation Issues
+Elevated Operating Conditions,1,1,Long-Term Stability Degradation Issues
+Limited Operational Lifespan,10,1,Long-Term Stability Degradation Issues
+Unstable Current Peaks,1,1,Long-Term Stability Degradation Issues
+Variable Degradation Challenges,1,1,Long-Term Stability Degradation Issues
+Reduced Thermal Sensitivity,2,1,Long-Term Stability Degradation Issues
+High Thermostability Requirement,1,1,Long-Term Stability Degradation Issues
+Sensitivity to Environmental Factors,9,1,Long-Term Stability Degradation Issues
+Moisture Stability Limitations,1,1,Long-Term Stability Degradation Issues
+Insufficient Degradation Data,1,1,Long-Term Stability Degradation Issues
+Data Variability Across Temperatures,1,1,Long-Term Stability Degradation Issues
+Reliability Sizing Challenge,1,1,Long-Term Stability Degradation Issues
+Complex Model Discretization,1,2,Model Complexity Limitations
+By-product Analysis Complexity,1,2,Model Complexity Limitations
+Unspecified Model Limitations,1,2,Model Complexity Limitations
+Network Perception Limitations,1,2,Model Complexity Limitations
+Multiple Vacancy Tracking,1,2,Model Complexity Limitations
+Comparison to Standard Method,1,2,Model Complexity Limitations
+Model Fidelity,2,2,Model Complexity Limitations
+Optimal Occupancy Determination,1,2,Model Complexity Limitations
+Complex Characterization Requirement,2,2,Model Complexity Limitations
+Mechanism/Morphology Complexity,1,2,Model Complexity Limitations
+Standard Characterization Methods,24,2,Model Complexity Limitations
+Morphological Similarity,1,2,Model Complexity Limitations
+Complex Parameter Control,8,2,Model Complexity Limitations
+Difficult Simultaneous Assembly,1,2,Model Complexity Limitations
+Variable Feature Efficacy,1,2,Model Complexity Limitations
+Cost-Efficiency Synthetic Challenges,1,2,Model Complexity Limitations
+Unoptimized Synthesis Process,2,2,Model Complexity Limitations
+High Reproducibility Challenge,2,2,Model Complexity Limitations
+Inefficient Initial Extraction,1,2,Model Complexity Limitations
+Limited Methodology,5,2,Model Complexity Limitations
+Spatial Separation Limitations,1,2,Model Complexity Limitations
+Optimized Mixture Formulation,1,2,Model Complexity Limitations
+Limited OCV Characterization,2,2,Model Complexity Limitations
+Improved SOH Estimation Accuracy,1,2,Model Complexity Limitations
+DFT Simulation Limitations,1,2,Model Complexity Limitations
+Data Collection Method,3,2,Model Complexity Limitations
+Dynamic Focus Selection,1,2,Model Complexity Limitations
+Realistic Conditions Challenge,1,2,Model Complexity Limitations
+Complex Process Estimation,1,2,Model Complexity Limitations
+Data Dependence on Surface Area,1,2,Model Complexity Limitations
+Limited Data Variety,4,2,Model Complexity Limitations
+Multiscale Data Analysis,5,2,Model Complexity Limitations
+Multi-technique Verification Complexity,1,2,Model Complexity Limitations
+Catalyzed Reaction Complexity,1,2,Model Complexity Limitations
+Continuous Monitoring Complexity,1,2,Model Complexity Limitations
+Data Input/Computational Burden,1,2,Model Complexity Limitations
+Early Recognition Performance,1,2,Model Complexity Limitations
+Dynamic Distortion Complexity,1,2,Model Complexity Limitations
+Strict Size Control Needed,1,2,Model Complexity Limitations
+Theoretical Curve Limitations,1,2,Model Complexity Limitations
+Multi-faceted Data Processing,1,2,Model Complexity Limitations
+Limited Redox Optimization,1,3,Poor Chemical Reaction Stability
+Reduced Activation Energy,19,3,Poor Chemical Reaction Stability
+Complex Reaction Solving,1,3,Poor Chemical Reaction Stability
+Atomic-Level Investigation Limitation,1,3,Poor Chemical Reaction Stability
+Weak Reaction Mechanism,1,3,Poor Chemical Reaction Stability
+Limited Sodium Resources,9,3,Poor Chemical Reaction Stability
+Complex Alkali Interactions,1,3,Poor Chemical Reaction Stability
+Aggravated Reaction Kinetics,1,3,Poor Chemical Reaction Stability
+Avoiding Harsh Chemicals,1,3,Poor Chemical Reaction Stability
+Improved Membrane Properties,19,3,Poor Chemical Reaction Stability
+Limited Solvent Variety,1,3,Poor Chemical Reaction Stability
+Positive Synergistic Effect,6,3,Poor Chemical Reaction Stability
+Exacerbated Li Extraction,1,3,Poor Chemical Reaction Stability
+Unclear Exfoliation Mechanism,1,3,Poor Chemical Reaction Stability
+Insufficient Salt Anion Research,1,3,Poor Chemical Reaction Stability
+Poor Li-kinetics,1,3,Poor Chemical Reaction Stability
+Reduced Reaction Probability,1,3,Poor Chemical Reaction Stability
+Reduced Precipitation Rate,1,3,Poor Chemical Reaction Stability
+Analytical Challenge: Radical Species,1,3,Poor Chemical Reaction Stability
+Poor Reaction Reversibility,22,3,Poor Chemical Reaction Stability
+Unexplored Metal-Solvent Interactions,1,3,Poor Chemical Reaction Stability
+Uncontrolled Hetero-Atom Exposure,1,3,Poor Chemical Reaction Stability
+Trace Organic Additives,1,3,Poor Chemical Reaction Stability
+Optimizing Anion-Solvent Interactions,1,3,Poor Chemical Reaction Stability
+Confined Catalyst Performance,1,3,Poor Chemical Reaction Stability
+Limited Carbon Modification Methods,1,3,Poor Chemical Reaction Stability
+Suppressed Corrosion Stability,1,3,Poor Chemical Reaction Stability
+Weakened Reduction Peaks,1,3,Poor Chemical Reaction Stability
+Anomalous Redox Peaks,1,3,Poor Chemical Reaction Stability
+Degradation of Active Material,2,3,Poor Chemical Reaction Stability
+Poor Phosphorus Performance,1,3,Poor Chemical Reaction Stability
+Unclear Covalency Mechanism,1,3,Poor Chemical Reaction Stability
+Gelatin Conversion Process,1,3,Poor Chemical Reaction Stability
+Limited Reagent Use,2,3,Poor Chemical Reaction Stability
+Selective Precipitation Extraction,1,3,Poor Chemical Reaction Stability
+Limited Solvent Mitigation,1,3,Poor Chemical Reaction Stability
+ultrastable cyclability,1,3,Poor Chemical Reaction Stability
+Limited Acid Diversity,1,3,Poor Chemical Reaction Stability
+Detrimental Byproduct Release,1,3,Poor Chemical Reaction Stability
+Irreversible Zn2+ Capture,1,3,Poor Chemical Reaction Stability
+Fast Redox Conversion,2,3,Poor Chemical Reaction Stability
+Reduced Growth Rate,3,4,Realized Performance Bottlenecks
+Impression Capacity Limitations,1,4,Realized Performance Bottlenecks
+Maximized Performance Challenges,1,4,Realized Performance Bottlenecks
+Rate Sensitivity,1,4,Realized Performance Bottlenecks
+High Capacity Storage,3,4,Realized Performance Bottlenecks
+Recovery Efficiency Limitations,21,4,Realized Performance Bottlenecks
+Scalability of Na Storage,1,4,Realized Performance Bottlenecks
+Improved Storage Protocol,1,4,Realized Performance Bottlenecks
+Poor H2 Performance,1,4,Realized Performance Bottlenecks
+Limited Capacity Source,5,4,Realized Performance Bottlenecks
+Performance Degradation During Cycling,1,4,Realized Performance Bottlenecks
+Limited LTO Performance,1,4,Realized Performance Bottlenecks
+Unresolved Performance Challenges,2,4,Realized Performance Bottlenecks
+Fluctuating Secondary Demand,1,4,Realized Performance Bottlenecks
+Additive Performance Evaluation,4,4,Realized Performance Bottlenecks
+Optimized Conditions Still Limited,5,4,Realized Performance Bottlenecks
+Endurance Limitations,1,4,Realized Performance Bottlenecks
+Limited Analytical Speed,2,4,Realized Performance Bottlenecks
+Limited Capacity Checks,1,4,Realized Performance Bottlenecks
+Suboptimal Process Performance,1,4,Realized Performance Bottlenecks
+Scale-Up Production Limitation,1,4,Realized Performance Bottlenecks
+Reduced System Capacity,1,4,Realized Performance Bottlenecks
+Logistical Collection Bottleneck,1,4,Realized Performance Bottlenecks
+Decreasing Yield Strength,1,4,Realized Performance Bottlenecks
+Performance Limitations due Water,1,4,Realized Performance Bottlenecks
+Improved Tracking Performance,1,4,Realized Performance Bottlenecks
+Reverse Performance Trend,1,4,Realized Performance Bottlenecks
+Production Quality Bottleneck,1,4,Realized Performance Bottlenecks
+Growth Rate Variability,1,4,Realized Performance Bottlenecks
+High-Rate Operation Limitation,1,4,Realized Performance Bottlenecks
+Desirable Performance Limitation,1,4,Realized Performance Bottlenecks
+Transient Performance,2,4,Realized Performance Bottlenecks
+Low-Cost Performance Challenges,1,4,Realized Performance Bottlenecks
+Variable AI Performance,1,4,Realized Performance Bottlenecks
+Enhanced Retention Rate,1,4,Realized Performance Bottlenecks
+Improved Capacity Performance,62,4,Realized Performance Bottlenecks
+High AM Loading,1,4,Realized Performance Bottlenecks
+Unexpected Interconnection Complexity,1,4,Realized Performance Bottlenecks
+High-Performance ZIBs Development,1,4,Realized Performance Bottlenecks
+Methodological Assessment Bottleneck,1,4,Realized Performance Bottlenecks
+High Performance Limit,2,4,Realized Performance Bottlenecks
+Strong Interaction Limitation,4,5,High Conductivity Bottleneck Challenges
+Morphology-Limited Lithium Transport,1,5,High Conductivity Bottleneck Challenges
+In Situ TEM Monitoring,1,5,High Conductivity Bottleneck Challenges
+Electrostatic Shielding Enhancement,1,5,High Conductivity Bottleneck Challenges
+Poor Current Collector Adhesion,1,5,High Conductivity Bottleneck Challenges
+Diffusion-Limited Ion Transport,2,5,High Conductivity Bottleneck Challenges
+Improved Initial Coulombic Efficiency,3,5,High Conductivity Bottleneck Challenges
+Limited Valence State Control,1,5,High Conductivity Bottleneck Challenges
+Low Average Voltage,9,5,High Conductivity Bottleneck Challenges
+Compromised Ductility/Conductivity,1,5,High Conductivity Bottleneck Challenges
+Limited Band Structure Investigation,1,5,High Conductivity Bottleneck Challenges
+Zr Doping Effects,1,5,High Conductivity Bottleneck Challenges
+Low Energy Barrier,34,5,High Conductivity Bottleneck Challenges
+Limited Halide Conductivity Development,1,5,High Conductivity Bottleneck Challenges
+Variable Current Rate Effects,1,5,High Conductivity Bottleneck Challenges
+Novel Probe Development,2,5,High Conductivity Bottleneck Challenges
+Concentration Overvoltage Control,1,5,High Conductivity Bottleneck Challenges
+Limited Dendrite Suppression,2,5,High Conductivity Bottleneck Challenges
+Excessive Activation Voltage,1,5,High Conductivity Bottleneck Challenges
+Conducting Matrix Limitations,1,5,High Conductivity Bottleneck Challenges
+Large Internal Resistance,1,5,High Conductivity Bottleneck Challenges
+Good Ionic Transmission,1,5,High Conductivity Bottleneck Challenges
+Anion Sublattice Instability,1,5,High Conductivity Bottleneck Challenges
+Nanoscale Heterogeneity,2,5,High Conductivity Bottleneck Challenges
+Decreasing Transfer Resistance,2,5,High Conductivity Bottleneck Challenges
+Improved Accuracy at High Currents,1,5,High Conductivity Bottleneck Challenges
+Complex Resistance Increase,1,5,High Conductivity Bottleneck Challenges
+Unusual Electronic Structure,1,5,High Conductivity Bottleneck Challenges
+Unstable F- Ions,1,5,High Conductivity Bottleneck Challenges
+Energy Loss/Attenuation,1,5,High Conductivity Bottleneck Challenges
+Membrane Transport Limitations,1,5,High Conductivity Bottleneck Challenges
+Free Ion Permeation,1,5,High Conductivity Bottleneck Challenges
+Optimized Conductivity Achievement,2,5,High Conductivity Bottleneck Challenges
+Limited Fe(II) Efficiency,1,5,High Conductivity Bottleneck Challenges
+Voltage Hysteresis Mitigation,3,5,High Conductivity Bottleneck Challenges
+Enhanced Conductivity Achievement,21,5,High Conductivity Bottleneck Challenges
+Inconsistent Metal Valency,1,5,High Conductivity Bottleneck Challenges
+Unproven Conductivity,1,5,High Conductivity Bottleneck Challenges
+Limited Understanding of d-Electron,1,5,High Conductivity Bottleneck Challenges
+Electrostatic Potential Interference,1,5,High Conductivity Bottleneck Challenges
+Charging Kinetics Limitation,1,5,High Conductivity Bottleneck Challenges
+Diminishing Battery Performance,6,6,Battery Performance Bottleneck Challenges
+Battery Charging Speed,1,6,Battery Performance Bottleneck Challenges
+Lithium Storage Properties,1,6,Battery Performance Bottleneck Challenges
+Inefficient Anode Cycling,1,6,Battery Performance Bottleneck Challenges
+Poor Lithium Ion Stability,4,6,Battery Performance Bottleneck Challenges
+Developing Battery Supply Chain,1,6,Battery Performance Bottleneck Challenges
+Rate-Dependent Charge Storage,1,6,Battery Performance Bottleneck Challenges
+Long-term Battery Safety,1,6,Battery Performance Bottleneck Challenges
+Developing Lithium Recycling,1,6,Battery Performance Bottleneck Challenges
+Variable Lithium Sources,2,6,Battery Performance Bottleneck Challenges
+Lithium Ion Redistribution,1,6,Battery Performance Bottleneck Challenges
+Battery Cell Imbalance,1,6,Battery Performance Bottleneck Challenges
+Energy Limitation of Batteries,1,6,Battery Performance Bottleneck Challenges
+Energy Storage Stability,1,6,Battery Performance Bottleneck Challenges
+Low-Cost Battery Development,31,6,Battery Performance Bottleneck Challenges
+Battery Ageing Stability,1,6,Battery Performance Bottleneck Challenges
+Market-Driven Battery Development,1,6,Battery Performance Bottleneck Challenges
+Rapid Charging Time,5,6,Battery Performance Bottleneck Challenges
+High-Energy Storage Limitations,2,6,Battery Performance Bottleneck Challenges
+Manual Battery Disassembly,1,6,Battery Performance Bottleneck Challenges
+Reduced Cell Capacity,7,6,Battery Performance Bottleneck Challenges
+High Charge/Discharge Regime,1,6,Battery Performance Bottleneck Challenges
+Poor Charge Speed,1,6,Battery Performance Bottleneck Challenges
+Stable Charge Capacity,7,6,Battery Performance Bottleneck Challenges
+Battery Degradation Classification,1,6,Battery Performance Bottleneck Challenges
+Limited State-of-Charge Cycling,1,6,Battery Performance Bottleneck Challenges
+Novel Battery Design Challenges,1,6,Battery Performance Bottleneck Challenges
+Rapid Battery Failure,1,6,Battery Performance Bottleneck Challenges
+Low Li Occupancy,1,6,Battery Performance Bottleneck Challenges
+High Initial Charge Capacity,14,6,Battery Performance Bottleneck Challenges
+Low-Rate Discharge Performance,1,6,Battery Performance Bottleneck Challenges
+Underdeveloped Battery Materials,1,6,Battery Performance Bottleneck Challenges
+Dynamic Charging Adaptation,1,6,Battery Performance Bottleneck Challenges
+Safety of Lithium Batteries,2,6,Battery Performance Bottleneck Challenges
+Reduced Li-ion Mobility,2,6,Battery Performance Bottleneck Challenges
+Poor Performance in Battery,1,6,Battery Performance Bottleneck Challenges
+Mainstream Power Source,1,6,Battery Performance Bottleneck Challenges
+Temperature Fluctuations in Batteries,1,6,Battery Performance Bottleneck Challenges
+Ignoring Battery Aging,2,6,Battery Performance Bottleneck Challenges
+Multiple Battery Degradation Issues,1,6,Battery Performance Bottleneck Challenges
+Ultrafast Lithium Storage,1,6,Battery Performance Bottleneck Challenges
+Template-Dependent Surface Area,1,7,Material Fabrication Challenges
+Material Stability,68,7,Material Fabrication Challenges
+Interconnected Nanowall Formation,1,7,Material Fabrication Challenges
+FFF Manufacturing Limitations,3,7,Material Fabrication Challenges
+Promising Material Development,312,7,Material Fabrication Challenges
+Inelastic Material Behavior,1,7,Material Fabrication Challenges
+Scalable Mesoscale Fabrication,1,7,Material Fabrication Challenges
+Unstable Surface Structures,1,7,Material Fabrication Challenges
+Complex Surface Functionalization,3,7,Material Fabrication Challenges
+Thick SEI Layer Formation,1,7,Material Fabrication Challenges
+Nanostructure Fabrication Challenge,1,7,Material Fabrication Challenges
+Point Defect Introduction,1,7,Material Fabrication Challenges
+Disordered Structure Formation,14,7,Material Fabrication Challenges
+Near-Future Material Challenges,1,7,Material Fabrication Challenges
+Tunable Porous Material,1,7,Material Fabrication Challenges
+Preventing Nanoparticle Aggregation,11,7,Material Fabrication Challenges
+Lack of Plane-Selective Modification,1,7,Material Fabrication Challenges
+Disordered Microstructure/Defects,1,7,Material Fabrication Challenges
+Limited Ball Milling,1,7,Material Fabrication Challenges
+Complex Material Coupling,4,7,Material Fabrication Challenges
+Limited Non-Destructive Characterization,1,7,Material Fabrication Challenges
+Material Thermal Performance,1,7,Material Fabrication Challenges
+Facile Scalable Fabrication,1,7,Material Fabrication Challenges
+Solid-State Synthesis Limitation,5,7,Material Fabrication Challenges
+Morphology Change Variability,1,7,Material Fabrication Challenges
+Limited Surface Area Exploration,1,7,Material Fabrication Challenges
+Structural Distortion During Lithiation,1,7,Material Fabrication Challenges
+Scalable Nanofabrication Method,1,7,Material Fabrication Challenges
+Critical Material Design,2,7,Material Fabrication Challenges
+High Melting Point,1,7,Material Fabrication Challenges
+Large Crystallite Size,5,7,Material Fabrication Challenges
+Sophisticated Fabrication Process,1,7,Material Fabrication Challenges
+Reduced Surface Degradation,1,7,Material Fabrication Challenges
+Reduced Defect Formation,4,7,Material Fabrication Challenges
+Unpredictable Material Expansion,3,7,Material Fabrication Challenges
+Changes in Material States,1,7,Material Fabrication Challenges
+Limited Alloy Compatibility,2,7,Material Fabrication Challenges
+Limited Anodization Time,1,7,Material Fabrication Challenges
+Controlled Nanowire Fabrication,1,7,Material Fabrication Challenges
+Stabilization of Material Phase,1,7,Material Fabrication Challenges
+Inconsistent Material Properties,24,7,Material Fabrication Challenges
+Complex Electrolyte Landscape,1,8,Electrode-Electrolyte Stability Limitations
+Bulk Electrolyte Stability,1,8,Electrode-Electrolyte Stability Limitations
+Morphological Variability in Electrolytes,1,8,Electrode-Electrolyte Stability Limitations
+Electrolyte Potential Challenge,1,8,Electrode-Electrolyte Stability Limitations
+Limited Anode Utilization,7,8,Electrode-Electrolyte Stability Limitations
+Poor Electrolyte Diffusivity,1,8,Electrode-Electrolyte Stability Limitations
+Exploring Suitable Electrode Materials,1,8,Electrode-Electrolyte Stability Limitations
+Excellent Electrochemical Durability,1,8,Electrode-Electrolyte Stability Limitations
+Lack of Reference Electrode,2,8,Electrode-Electrolyte Stability Limitations
+Complex Electrochemical Model,2,8,Electrode-Electrolyte Stability Limitations
+Diverse Electrolyte Types,3,8,Electrode-Electrolyte Stability Limitations
+Monitoring Lithium Redistribution,1,8,Electrode-Electrolyte Stability Limitations
+Cracked Electrode Degradation,1,8,Electrode-Electrolyte Stability Limitations
+Increased Electrode Loading,2,8,Electrode-Electrolyte Stability Limitations
+Electrode-Electrolyte Instability,2,8,Electrode-Electrolyte Stability Limitations
+Inconsistent Cathode Performance,3,8,Electrode-Electrolyte Stability Limitations
+Challenges in Electrode Development,1,8,Electrode-Electrolyte Stability Limitations
+Lithium-Metal Anode Challenges,1,8,Electrode-Electrolyte Stability Limitations
+Uncertain Solid-Electrolyte Interphase,1,8,Electrode-Electrolyte Stability Limitations
+Developing Li Metal Anodes,1,8,Electrode-Electrolyte Stability Limitations
+Effective Sn Anode Fabrication,1,8,Electrode-Electrolyte Stability Limitations
+Unsafe Lithium Anode,1,8,Electrode-Electrolyte Stability Limitations
+Limited Electrolyte/Interphase Engineering,1,8,Electrode-Electrolyte Stability Limitations
+Optimization of Electrode Formulation,1,8,Electrode-Electrolyte Stability Limitations
+Complex Electrochemical Optimization,3,8,Electrode-Electrolyte Stability Limitations
+Variable Electrode Material Optimization,1,8,Electrode-Electrolyte Stability Limitations
+Electrochemical Reaction Pathway,1,8,Electrode-Electrolyte Stability Limitations
+Developing Stable Zn Anodes,1,8,Electrode-Electrolyte Stability Limitations
+Comparative Ion Storage Mechanisms,1,8,Electrode-Electrolyte Stability Limitations
+Electrolyte Ion Partitioning,1,8,Electrode-Electrolyte Stability Limitations
+Feasible Electrolyte Additive Usage,1,8,Electrode-Electrolyte Stability Limitations
+Promising Electrochemical Behaviour,1,8,Electrode-Electrolyte Stability Limitations
+Probing Electrolyte Decomposition,1,8,Electrode-Electrolyte Stability Limitations
+Variable Electrode Production,1,8,Electrode-Electrolyte Stability Limitations
+Improved Electrode Density,1,8,Electrode-Electrolyte Stability Limitations
+Poor Electrolyte Extraction,1,8,Electrode-Electrolyte Stability Limitations
+Achieving Desired Electrolyte Properties,1,8,Electrode-Electrolyte Stability Limitations
+Stable Oxide Cathodes,1,8,Electrode-Electrolyte Stability Limitations
+Reduced Electrochemical Stability,5,8,Electrode-Electrolyte Stability Limitations
+Deficient Electrolyte Properties,1,8,Electrode-Electrolyte Stability Limitations
+Improve Electrochemical Performance,4,8,Electrode-Electrolyte Stability Limitations
+Limited Biodegradability,1,9,Material Resource Reduction Bottlenecks
+Recyclable Catalyst Limitations,1,9,Material Resource Reduction Bottlenecks
+"High Cost, Toxic Materials",2,9,Material Resource Reduction Bottlenecks
+"High Energy, Low Cost",1,9,Material Resource Reduction Bottlenecks
+Resource Abundance & Safety,1,9,Material Resource Reduction Bottlenecks
+Urgent Industrial Need,1,9,Material Resource Reduction Bottlenecks
+Waste Management Scaling,1,9,Material Resource Reduction Bottlenecks
+Lack of Pyrolysis Processing,1,9,Material Resource Reduction Bottlenecks
+Circular Economy Achievement,1,9,Material Resource Reduction Bottlenecks
+Integrated Material Utilization,1,9,Material Resource Reduction Bottlenecks
+Inefficient Metal Reduction,2,9,Material Resource Reduction Bottlenecks
+Inefficient Desolventization,1,9,Material Resource Reduction Bottlenecks
+Waste LIB Processing,1,9,Material Resource Reduction Bottlenecks
+Sustainable Development Considerations,1,9,Material Resource Reduction Bottlenecks
+Suboptimal Leaching Rates,1,9,Material Resource Reduction Bottlenecks
+Unexplored Biomass Potential,1,9,Material Resource Reduction Bottlenecks
+Low-Yield Synthesis,3,9,Material Resource Reduction Bottlenecks
+Cryogel Production Method,1,9,Material Resource Reduction Bottlenecks
+Unusable Feedstocks,1,9,Material Resource Reduction Bottlenecks
+Limited Resource Feedstock,2,9,Material Resource Reduction Bottlenecks
+Waste Management & Performance,1,9,Material Resource Reduction Bottlenecks
+End-of-Life Material Management,2,9,Material Resource Reduction Bottlenecks
+Lost Material Recovery,1,9,Material Resource Reduction Bottlenecks
+Temporary Material Benefit,1,9,Material Resource Reduction Bottlenecks
+Inefficient Lignin Extraction,1,9,Material Resource Reduction Bottlenecks
+Reduced Drying Energy,1,9,Material Resource Reduction Bottlenecks
+Suitable Leaching Agent Selection,1,9,Material Resource Reduction Bottlenecks
+Urgent Need for Materials,2,9,Material Resource Reduction Bottlenecks
+Secondary Material Feedstocks,1,9,Material Resource Reduction Bottlenecks
+Economical Material Development,1,9,Material Resource Reduction Bottlenecks
+Low Material Availability,2,9,Material Resource Reduction Bottlenecks
+Environmental Pressure Reduction,1,9,Material Resource Reduction Bottlenecks
+Reduced Manual Effort,4,9,Material Resource Reduction Bottlenecks
+Environmental Binder Production,1,9,Material Resource Reduction Bottlenecks
+Economic Mass Flow,1,9,Material Resource Reduction Bottlenecks
+"High Cost, Complex Processes",1,9,Material Resource Reduction Bottlenecks
+Sustainable Precursor Integration,1,9,Material Resource Reduction Bottlenecks
+Cost-Effectiveness & Efficiency,1,9,Material Resource Reduction Bottlenecks
+"Costly, Complex Hydrometallurgy",1,9,Material Resource Reduction Bottlenecks
+"Energy-Intensive, Polluting Process",1,9,Material Resource Reduction Bottlenecks
+High Degradation Efficiency,1,9,Material Resource Reduction Bottlenecks
+Research Opportunities at Scale,1,10,Technological Potential Limitations Scope
+Research Investigation Initiation,1,10,Technological Potential Limitations Scope
+Early-Stage Process Development,1,10,Technological Potential Limitations Scope
+Improved Industrial Feasibility,1,10,Technological Potential Limitations Scope
+Novel Strategy Validation,1,10,Technological Potential Limitations Scope
+Theoretical Limits Achieved,1,10,Technological Potential Limitations Scope
+Limited Fe Site Occupation,1,10,Technological Potential Limitations Scope
+New Application Scope,1,10,Technological Potential Limitations Scope
+Increased Research Interest,2,10,Technological Potential Limitations Scope
+Technological Exploration Needed,1,10,Technological Potential Limitations Scope
+Unclear Future Targets,1,10,Technological Potential Limitations Scope
+New Process Evaluation,1,10,Technological Potential Limitations Scope
+Real-world Application Limitations,4,10,Technological Potential Limitations Scope
+Cost Effectiveness Limitation,3,10,Technological Potential Limitations Scope
+Multi-paper Research Series,1,10,Technological Potential Limitations Scope
+Future Commercialization Hurdles,4,10,Technological Potential Limitations Scope
+New Pathway Development,2,10,Technological Potential Limitations Scope
+Recovery Challenges,2,10,Technological Potential Limitations Scope
+"High Cost, Complex Protocols",1,10,Technological Potential Limitations Scope
+Limited Benefit Increase,2,10,Technological Potential Limitations Scope
+Proprietary Licensing,10,10,Technological Potential Limitations Scope
+Progress Impediments,1,10,Technological Potential Limitations Scope
+Expanding SIBs Scope,1,10,Technological Potential Limitations Scope
+Process Safety Design,1,10,Technological Potential Limitations Scope
+Method Performance Assessment,1,10,Technological Potential Limitations Scope
+Proof of Concept Needed,1,10,Technological Potential Limitations Scope
+Cr Migration Risk,1,10,Technological Potential Limitations Scope
+Large-Scale Development Challenge,1,10,Technological Potential Limitations Scope
+Limited Technique Options,1,10,Technological Potential Limitations Scope
+Market Adoption Barrier,20,10,Technological Potential Limitations Scope
+Limited Accessibility of Sites,1,10,Technological Potential Limitations Scope
+Limited Interface Access,1,10,Technological Potential Limitations Scope
+Limited Theoretical Approach,1,10,Technological Potential Limitations Scope
+Scalability and Multifunctionality Challenges,1,10,Technological Potential Limitations Scope
+Limited Health Assessment,2,10,Technological Potential Limitations Scope
+Emerging Category Adoption,1,10,Technological Potential Limitations Scope
+Limited Compatibility Enhancement,1,10,Technological Potential Limitations Scope
+Design & Preparation Challenges,1,10,Technological Potential Limitations Scope
+Limited Scope of Studies,12,10,Technological Potential Limitations Scope
+Conventional Manufacturing Limitations,5,10,Technological Potential Limitations Scope
+Broad System Integration,2,10,Technological Potential Limitations Scope
+Current SPE Route Issues,1,11,Insufficient Experimental Data Analysis
+Lack of Practical Experience,1,11,Insufficient Experimental Data Analysis
+Unresolved Prior Problems,3,11,Insufficient Experimental Data Analysis
+Poor Active Retention,1,11,Insufficient Experimental Data Analysis
+Unclear Challenges,11,11,Insufficient Experimental Data Analysis
+Magnitude Mismatch Challenge,1,11,Insufficient Experimental Data Analysis
+Strong Alignment Required,1,11,Insufficient Experimental Data Analysis
+Unrelated Parameters,1,11,Insufficient Experimental Data Analysis
+Poor SOC Detection,1,11,Insufficient Experimental Data Analysis
+Lack of Physical Process Understanding,1,11,Insufficient Experimental Data Analysis
+Complex Structural Explanation,1,11,Insufficient Experimental Data Analysis
+Confirmation of Introduction,1,11,Insufficient Experimental Data Analysis
+Mitigation of Problem,1,11,Insufficient Experimental Data Analysis
+Lack of specific findings,1,11,Insufficient Experimental Data Analysis
+Unaddressed Scientific Problems,2,11,Insufficient Experimental Data Analysis
+Poor Dispersion Quality,7,11,Insufficient Experimental Data Analysis
+SOC Inconsistency,1,11,Insufficient Experimental Data Analysis
+Poor Experimental Observation,1,11,Insufficient Experimental Data Analysis
+Scientific Problem Definition,1,11,Insufficient Experimental Data Analysis
+Data Corpus Variability,1,11,Insufficient Experimental Data Analysis
+Inconsistent Mesh Size,1,11,Insufficient Experimental Data Analysis
+Unknown Na+ Content,1,11,Insufficient Experimental Data Analysis
+Unsolved Experimental Data,1,11,Insufficient Experimental Data Analysis
+Poor Precursor Transformation,1,11,Insufficient Experimental Data Analysis
+Inaccurate Initial Data,3,11,Insufficient Experimental Data Analysis
+Model Inaccuracy Due to Structure,1,11,Insufficient Experimental Data Analysis
+Low Prediction Precision,1,11,Insufficient Experimental Data Analysis
+Unpredictable Model Behavior,1,11,Insufficient Experimental Data Analysis
+Reverse Trend Observed,1,11,Insufficient Experimental Data Analysis
+Inaccurate Spatial Description,1,11,Insufficient Experimental Data Analysis
+Inaccurate Modeling of Phenomena,1,11,Insufficient Experimental Data Analysis
+Novelty Verification,1,11,Insufficient Experimental Data Analysis
+Poor TMD Suppression,1,11,Insufficient Experimental Data Analysis
+Inconsistent Sample Properties,1,11,Insufficient Experimental Data Analysis
+Low Lattice Mismatch,3,11,Insufficient Experimental Data Analysis
+Unresolved SSE Issues,1,11,Insufficient Experimental Data Analysis
+Desirable but Not Realized,3,11,Insufficient Experimental Data Analysis
+Theory-Experiment Discrepancy,1,11,Insufficient Experimental Data Analysis
+Orientation Change Challenge,1,11,Insufficient Experimental Data Analysis
+Established Correlation,2,11,Insufficient Experimental Data Analysis
+Limited Correlation,4,11,Insufficient Experimental Data Analysis
+Unmet Material Properties,2,7,Material Fabrication Challenges
+Feasibility of New Concepts,1,10,Technological Potential Limitations Scope
+Limited Nanocrystal Performance,1,7,Material Fabrication Challenges
+Inconsistent Results Across Fields,1,11,Insufficient Experimental Data Analysis
+Persistent Mesoporosity,1,11,Insufficient Experimental Data Analysis
+Superior Performance Needed,118,4,Realized Performance Bottlenecks
+Limited Li Incorporation,1,2,Model Complexity Limitations
+Mechanical Degradation of Electrodes,1,8,Electrode-Electrolyte Stability Limitations

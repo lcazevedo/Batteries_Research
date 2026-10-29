@@ -1,0 +1,101 @@
+sample_id,doc_key,extracted_label,predicted_category,expert_category
+1,10.1149/1945-7111/ac0bf7_phrase_6,Limited Device Performance,Realized Performance Bottlenecks,Realized Performance Bottlenecks
+2,10.1016/j.ssi.2013.10.007_phrase_0,Computational Material Screening,Material Fabrication Challenges,Electrode-Electrolyte Stability Limitations
+3,10.1007/s11581-017-2104-z_phrase_1,Characterization Limitations,Model Complexity Limitations,Mass Transport Limitation Behavior
+4,10.1007/s11664-020-08658-x_phrase_5,Uneven Precipitation Aggregation,Mass Transport Limitation Behavior,Mass Transport Limitation Behavior
+5,10.1021/nl903183n_phrase_0,Poor Diffusion Control,Mass Transport Limitation Behavior,Mass Transport Limitation Behavior
+6,10.1002/smll.202203347_phrase_0,Poor Temperature Performance,Long-Term Stability Degradation Issues,Technological Potential Limitations Scope
+7,10.1021/jacs.4c03029_phrase_1,Poorly Understood Passivation Properties,High Conductivity Bottleneck Challenges,Electrode-Electrolyte Stability Limitations
+8,10.1016/j.jallcom.2019.151828_phrase_3,Reduced Capacity Performance,Realized Performance Bottlenecks,Realized Performance Bottlenecks
+9,10.1021/acsami.1c16296_phrase_2,Poor Electrolyte Compatibility,Electrode-Electrolyte Stability Limitations,Poor Chemical Reaction Stability
+10,10.1115/1.4049237_phrase_0,Poor Battery Performance,Battery Performance Bottleneck Challenges,Battery Performance Bottleneck Challenges
+11,10.1016/j.energy.2021.122486_phrase_3,Negligible Depth-of-Discharge Effect,High Conductivity Bottleneck Challenges,Battery Performance Bottleneck Challenges
+12,10.1016/j.mtener.2022.101184_phrase_4,Unclear Functionality,Insufficient Experimental Data Analysis,Insufficient Experimental Data Analysis
+13,10.1021/acsanm.3c06286_phrase_2,Limited Preparation Techniques,Poor Chemical Reaction Stability,Technological Potential Limitations Scope
+14,10.1002/slct.201900663_phrase_1,Poor Material Stability,Long-Term Stability Degradation Issues,Realized Performance Bottlenecks
+15,10.1039/d3nj05154d_phrase_6,Promising but Unproven,Technological Potential Limitations Scope,Battery Performance Bottleneck Challenges
+16,10.22146/ijc.24893_phrase_3,Poor Battery Stability,Battery Performance Bottleneck Challenges,Battery Performance Bottleneck Challenges
+17,10.1016/j.nanoen.2020.105142_phrase_8,Complex Redox Chemistry,Poor Chemical Reaction Stability,Poor Chemical Reaction Stability
+18,10.1016/j.nantod.2014.06.004_phrase_7,Structural/Chemical Stability,Poor Chemical Reaction Stability,Poor Chemical Reaction Stability
+19,10.3390/polym11010185_phrase_0,Novel Polymer Electrolyte Synthesis,Electrode-Electrolyte Stability Limitations,Model Complexity Limitations
+20,10.1080/03067319.2023.2198643_phrase_2,Lack of Standardization,Insufficient Experimental Data Analysis,Material Fabrication Challenges
+21,10.1039/d2nj06264j_phrase_8,Increased Surface Defects,Material Fabrication Challenges,Poor Chemical Reaction Stability
+22,10.1016/j.est.2024.114317_phrase_11,Cost-Effectiveness Improvement,Technological Potential Limitations Scope,Long-Term Stability Degradation Issues
+23,10.1149/1.1837257_phrase_0,"Extensive Study, Limited Novelty",Insufficient Experimental Data Analysis,Insufficient Experimental Data Analysis
+24,10.1016/j.jpowsour.2019.04.027_phrase_1,Stable Layer Structure,Mass Transport Limitation Behavior,High Conductivity Bottleneck Challenges
+25,10.1002/app.48303_phrase_3,Complex Synthesis Method,Model Complexity Limitations,Material Fabrication Challenges
+26,10.1016/S0378-7753(02)00166-0_phrase_0,Limited Electrochemical Window,Electrode-Electrolyte Stability Limitations,High Conductivity Bottleneck Challenges
+27,10.1016/j.wasman.2025.02.036_phrase_5,Limited Precipitation Efficiency,Mass Transport Limitation Behavior,Mass Transport Limitation Behavior
+28,10.1016/j.ensm.2024.103243_phrase_6,Lack of Comprehensive Understanding,Insufficient Experimental Data Analysis,Insufficient Experimental Data Analysis
+29,10.1039/c7ta08236c_phrase_4,Limited Anode Capacity,Electrode-Electrolyte Stability Limitations,Realized Performance Bottlenecks
+30,10.1016/j.est.2022.105336_phrase_7,Simple Preparation Method,Poor Chemical Reaction Stability,Poor Chemical Reaction Stability
+31,10.1149/2.1131606jes_phrase_0,Electrolyte Degradation,Electrode-Electrolyte Stability Limitations,Electrode-Electrolyte Stability Limitations
+32,10.1016/j.electacta.2024.145390_phrase_8,Variable Heat Sources,Mass Transport Limitation Behavior,Realized Performance Bottlenecks
+33,10.1021/acssuschemeng.9b04944_phrase_4,Poor Capacity Retention,Realized Performance Bottlenecks,Realized Performance Bottlenecks
+34,10.1039/c9qm00415g_phrase_2,Lack of Comprehensive Review,Insufficient Experimental Data Analysis,Material Fabrication Challenges
+35,10.1016/j.mineng.2025.109312_phrase_5,Market Growth Projection,Technological Potential Limitations Scope,Technological Potential Limitations Scope
+36,10.1016/j.electacta.2019.134646_phrase_4,High Discharge Capacity,Battery Performance Bottleneck Challenges,Material Resource Reduction Bottlenecks
+37,10.1002/sstr.202500269_phrase_0,Complex Synthesis Method,Model Complexity Limitations,Electrode-Electrolyte Stability Limitations
+38,10.1007/s12598-022-02051-9_phrase_1,Multiple Polymorphic Forms,Model Complexity Limitations,Model Complexity Limitations
+39,10.1016/j.energy.2024.131285_phrase_6,Non-Constant Periodicity Noise,Long-Term Stability Degradation Issues,Model Complexity Limitations
+40,10.1002/cctc.201700437_phrase_6,Limited Absorption Bandwidth,High Conductivity Bottleneck Challenges,Mass Transport Limitation Behavior
+41,10.1021/acsenergylett.7b00921_phrase_1,Complex Structure Formation,Material Fabrication Challenges,Material Fabrication Challenges
+42,10.1002/adfm.202513098_phrase_6,Long Cycle Stability,Long-Term Stability Degradation Issues,Long-Term Stability Degradation Issues
+43,10.1021/acsami.9b20129_phrase_0,Scalable Energy Storage,Battery Performance Bottleneck Challenges,Battery Performance Bottleneck Challenges
+44,10.4271/07-12-01-0001_phrase_6,Limited Functional Range,Technological Potential Limitations Scope,Technological Potential Limitations Scope
+45,10.3791/4104_phrase_8,Lack of Established Protocol,Insufficient Experimental Data Analysis,Insufficient Experimental Data Analysis
+46,10.1002/aenm.202302126_phrase_3,Fast Zinc Ion Transfer,High Conductivity Bottleneck Challenges,Realized Performance Bottlenecks
+47,10.1002/celc.202500245_phrase_7,Poor Capacity Retention,Realized Performance Bottlenecks,Realized Performance Bottlenecks
+48,10.1016/j.jpowsour.2021.229827_phrase_5,Methodological Investigation,Insufficient Experimental Data Analysis,Insufficient Experimental Data Analysis
+49,10.1016/j.matt.2020.10.027_phrase_5,Limited Recycling Methods,Material Resource Reduction Bottlenecks,Material Resource Reduction Bottlenecks
+50,10.1021/nl202088h_phrase_6,Poor Electrode Stability,Electrode-Electrolyte Stability Limitations,Insufficient Experimental Data Analysis
+51,10.1002/ente.202300437_phrase_9,Lack of Characterization,Insufficient Experimental Data Analysis,Material Fabrication Challenges
+52,10.1002/cssc.201500910_phrase_3,Poor Battery Stability,Battery Performance Bottleneck Challenges,Battery Performance Bottleneck Challenges
+53,10.1007/s11581-024-05561-x_phrase_6,High Voltage Stability,High Conductivity Bottleneck Challenges,Electrode-Electrolyte Stability Limitations
+54,10.1002/aenm.202404080_phrase_1,Poor Material Stability,Long-Term Stability Degradation Issues,Long-Term Stability Degradation Issues
+55,10.3390/ma9080696_phrase_6,Limited Electrochemical Performance,Electrode-Electrolyte Stability Limitations,Poor Chemical Reaction Stability
+56,10.1109/TEC.2021.3136769_phrase_3,Analytical Solution Achieved,Poor Chemical Reaction Stability,Poor Chemical Reaction Stability
+57,10.1016/j.ceramint.2019.05.216_phrase_0,Poor Battery Stability,Battery Performance Bottleneck Challenges,Battery Performance Bottleneck Challenges
+58,10.1021/acsami.9b00265_phrase_0,Complex Synthesis Method,Model Complexity Limitations,Model Complexity Limitations
+59,10.1016/j.ceramint.2021.01.215_phrase_7,Poor Catalyst Stability,Long-Term Stability Degradation Issues,Realized Performance Bottlenecks
+60,10.1016/j.ensm.2025.104449_phrase_2,Practical Application Challenges,Technological Potential Limitations Scope,Technological Potential Limitations Scope
+61,10.1016/j.jiec.2023.12.013_phrase_2,Environmental Pollution & Waste,Material Resource Reduction Bottlenecks,Material Resource Reduction Bottlenecks
+62,10.1021/acsami.3c15484_phrase_2,Complex Material Modification,Material Fabrication Challenges,Material Fabrication Challenges
+63,10.1016/j.ssi.2013.10.013_phrase_2,Material Fabrication Complexity,Material Fabrication Challenges,Mass Transport Limitation Behavior
+64,10.1002/ente.202100072_phrase_7,Self-Divergent Cell Performance,Mass Transport Limitation Behavior,Material Fabrication Challenges
+65,10.1002/sstr.202300369_phrase_7,Reduced Material Performance,Material Fabrication Challenges,Material Fabrication Challenges
+66,10.1002/aenm.201803158_phrase_1,Facile Synthesis Method,Model Complexity Limitations,Model Complexity Limitations
+67,10.1016/j.electacta.2023.142629_phrase_7,Inhomogeneous Lithiation Process,Mass Transport Limitation Behavior,Mass Transport Limitation Behavior
+68,10.1016/j.est.2024.115188_phrase_10,Limited Estimation Accuracy,Model Complexity Limitations,Model Complexity Limitations
+69,10.1016/j.jclepro.2020.123006_phrase_7,Uncertainties in Life Cycle Assessment,Material Resource Reduction Bottlenecks,Long-Term Stability Degradation Issues
+70,10.1007/s10008-012-1894-1_phrase_2,Improved Separator Performance,Realized Performance Bottlenecks,Electrode-Electrolyte Stability Limitations
+71,10.1039/c5ra17258f_phrase_2,Controlled Reaction Conditions,Poor Chemical Reaction Stability,Model Complexity Limitations
+72,10.1016/j.ensm.2017.11.008_phrase_5,Complex Kinetics Mechanism,Mass Transport Limitation Behavior,Mass Transport Limitation Behavior
+73,10.3390/app8071176_phrase_7,High Cost,Material Resource Reduction Bottlenecks,Battery Performance Bottleneck Challenges
+74,10.1134/S0020168512050159_phrase_0,Material Stability Challenge,Material Fabrication Challenges,Mass Transport Limitation Behavior
+75,10.1039/c4ta03933e_phrase_4,Poor Capacity Retention,Realized Performance Bottlenecks,Realized Performance Bottlenecks
+76,10.1039/d3gc02180g_phrase_3,Inefficient Metal Leaching,Material Resource Reduction Bottlenecks,Material Resource Reduction Bottlenecks
+77,10.1016/j.arabjc.2017.12.013_phrase_3,Unclear Mechanism of Action,Poor Chemical Reaction Stability,Poor Chemical Reaction Stability
+78,10.1016/j.apenergy.2016.02.094_phrase_4,Poor Cycle Stability,Long-Term Stability Degradation Issues,Long-Term Stability Degradation Issues
+79,10.1002/cphc.201300783_phrase_4,Limited Template Availability,Technological Potential Limitations Scope,Material Fabrication Challenges
+80,10.1016/j.hydromet.2019.105162_phrase_2,High Leaching Efficiency,Material Resource Reduction Bottlenecks,Material Resource Reduction Bottlenecks
+81,10.1039/d0ee03914d_phrase_2,Inefficient Regeneration Procedures,Material Resource Reduction Bottlenecks,Material Resource Reduction Bottlenecks
+82,10.1007/s11367-014-0788-0_phrase_15,Resource Acquisition Bottleneck,Realized Performance Bottlenecks,Realized Performance Bottlenecks
+83,10.1016/j.jclepro.2022.134991_phrase_6,Poor Material Stability,Long-Term Stability Degradation Issues,Long-Term Stability Degradation Issues
+84,10.1016/j.jclepro.2022.133130_phrase_4,Lack of Empirical Data,Insufficient Experimental Data Analysis,Insufficient Experimental Data Analysis
+85,10.1515/eng-2022-0051_phrase_1,Suitable Battery Type,Battery Performance Bottleneck Challenges,Battery Performance Bottleneck Challenges
+86,10.1016/j.jtice.2019.07.014_phrase_2,Novel Material Synthesis,Material Fabrication Challenges,Battery Performance Bottleneck Challenges
+87,10.1016/j.electacta.2015.05.079_phrase_1,Limited Heterostructure Size,High Conductivity Bottleneck Challenges,High Conductivity Bottleneck Challenges
+88,10.1002/cssc.202202361_phrase_0,Growing Battery Waste,Battery Performance Bottleneck Challenges,Battery Performance Bottleneck Challenges
+89,10.1088/1361-6528/ac622c_phrase_0,Limited Voltage Window,High Conductivity Bottleneck Challenges,Battery Performance Bottleneck Challenges
+90,10.1016/j.jcis.2021.06.141_phrase_7,High Performance Gap,Realized Performance Bottlenecks,Material Resource Reduction Bottlenecks
+91,10.1007/s11581-025-06348-4_phrase_1,Limited Candidate Status,Technological Potential Limitations Scope,Technological Potential Limitations Scope
+92,10.1021/acsmaterialslett.4c00268_phrase_5,Altered Redox Potential,Poor Chemical Reaction Stability,Electrode-Electrolyte Stability Limitations
+93,10.1149/2.1161904jes_phrase_2,Interface Dependence Performance,Realized Performance Bottlenecks,Electrode-Electrolyte Stability Limitations
+94,10.3390/en14051248_phrase_3,Performance Degradation Limitations,Realized Performance Bottlenecks,Realized Performance Bottlenecks
+95,10.1002/adma.202206754_phrase_2,High Overpotential Hinders,High Conductivity Bottleneck Challenges,High Conductivity Bottleneck Challenges
+96,10.1039/d3gc04166b_phrase_0,Inefficient Hydrometallurgical Recycling,Material Resource Reduction Bottlenecks,Material Resource Reduction Bottlenecks
+97,10.1088/2053-1591/aad5bc_phrase_8,Synergistic Effect Complexity,Model Complexity Limitations,Model Complexity Limitations
+98,10.1016/j.ceramint.2016.07.112_phrase_2,Poor Electrode Stability,Electrode-Electrolyte Stability Limitations,High Conductivity Bottleneck Challenges
+99,10.1016/j.resconrec.2024.107943_phrase_4,Inadequate Regulatory Framework,Technological Potential Limitations Scope,Battery Performance Bottleneck Challenges
+100,10.1016/j.cej.2021.130780_phrase_4,Uniform Li Deposition,Material Fabrication Challenges,Material Fabrication Challenges

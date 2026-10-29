@@ -1,0 +1,24 @@
+topic,Battery Performance Bottleneck Challenges,Electrode-Electrolyte Stability Limitations,High Conductivity Bottleneck Challenges,Insufficient Experimental Data Analysis,Long-Term Stability Degradation Issues,Mass Transport Limitation Behavior,Material Fabrication Challenges,Material Resource Reduction Bottlenecks,Model Complexity Limitations,Poor Chemical Reaction Stability,Realized Performance Bottlenecks,Technological Potential Limitations Scope
+2D materials for metal-ion battery anodes,0.0299,0.0699,0.0788,0.0514,0.0997,0.0593,0.1469,0.0229,0.1568,0.0494,0.1205,0.1145
+Advanced anode materials for Li-ion batteries,0.0205,0.0774,0.045,0.0333,0.1476,0.0451,0.1208,0.0186,0.2339,0.0352,0.1522,0.0703
+Antimony & bismuth battery anodes,0.0186,0.1046,0.0449,0.0326,0.1651,0.0669,0.1057,0.0215,0.1826,0.0404,0.1539,0.0632
+Aqueous Zn-ion batteries: anode/electrolyte,0.0414,0.1641,0.0522,0.0397,0.1822,0.032,0.1007,0.0246,0.1016,0.0803,0.0933,0.0879
+Carbon anode materials for ion batteries,0.0286,0.0891,0.0558,0.0475,0.1024,0.0348,0.1351,0.0487,0.1942,0.046,0.1369,0.0809
+"Electrolytes, SEI and additives for Li batteries",0.047,0.2116,0.0565,0.0646,0.115,0.0466,0.0519,0.0155,0.1405,0.1063,0.083,0.0616
+Iron oxide-based anodes for Li-ion batteries,0.0165,0.0708,0.0429,0.0343,0.1363,0.0482,0.1195,0.0223,0.2661,0.0391,0.1477,0.0564
+Layered cathodes for sodium-ion batteries,0.0212,0.0676,0.0633,0.0416,0.1775,0.0674,0.1056,0.0262,0.1628,0.0669,0.1324,0.0675
+"Li-ion battery SoH/aging, thermal & charging",0.1292,0.0246,0.0183,0.0946,0.1251,0.0345,0.0144,0.0315,0.3142,0.0127,0.1023,0.0988
+LiFePO₄ cathodes for lithium-ion batteries,0.0287,0.0695,0.0703,0.0493,0.0784,0.0625,0.1087,0.023,0.2752,0.0497,0.1318,0.053
+Lithium-ion battery cathode materials,0.0321,0.0956,0.0473,0.0477,0.1592,0.0508,0.112,0.0204,0.1915,0.0616,0.1312,0.0505
+Lithium-ion battery electrodes and modeling,0.0429,0.0806,0.0524,0.1028,0.0549,0.0675,0.0753,0.0147,0.3236,0.0263,0.067,0.092
+MoS₂ and molybdenum-based battery anodes,0.0203,0.0682,0.0557,0.0307,0.1523,0.0511,0.1251,0.0192,0.2281,0.0385,0.1458,0.0651
+Organic electrode materials for batteries,0.0415,0.0899,0.0584,0.0449,0.122,0.024,0.1173,0.036,0.1567,0.0778,0.1305,0.1011
+Polymer electrolytes & separators for batteries,0.0439,0.0876,0.0927,0.0413,0.1304,0.0283,0.1588,0.0222,0.1564,0.0432,0.118,0.0774
+Silicon anodes for lithium-ion batteries,0.03,0.1076,0.0411,0.0414,0.151,0.0684,0.1321,0.0261,0.1941,0.0282,0.1246,0.0555
+Sodium-ion batteries and electrolytes,0.0535,0.1511,0.0769,0.0623,0.0993,0.0389,0.0794,0.045,0.1022,0.0625,0.095,0.134
+Solid-state electrolytes for Li batteries,0.0429,0.0949,0.1167,0.0583,0.105,0.0475,0.1362,0.02,0.1655,0.0457,0.0689,0.0985
+Sustainable recycling of lithium-ion batteries,0.0463,0.026,0.0141,0.0525,0.0533,0.036,0.0473,0.2888,0.1563,0.0956,0.0762,0.1076
+TiO₂/LTO anode materials for Li/Na batteries,0.027,0.082,0.0699,0.0407,0.1166,0.0512,0.1274,0.0168,0.2246,0.0368,0.1524,0.0546
+Tin-based anode materials for ion batteries,0.0172,0.0898,0.0406,0.0347,0.1514,0.0646,0.1234,0.0153,0.2305,0.036,0.1468,0.0498
+Vanadium cathode materials for batteries,0.026,0.0688,0.0769,0.0402,0.1281,0.0489,0.113,0.0193,0.219,0.0477,0.151,0.0611
+Vanadium-based cathodes for aqueous ZIBs,0.0238,0.0914,0.0639,0.0331,0.1836,0.0464,0.1146,0.0221,0.1639,0.0436,0.1405,0.0731

@@ -1,0 +1,19 @@
+campo,coluna,n,pct,tabela2
+Sources,Publication Name,128675,100.0,True
+Abstracts,Abstract,128127,99.57,True
+Affiliation,Author Address,128562,99.91,True
+Author(s),Author Full Name,128675,100.0,True
+DOI,DOI,128675,100.0,True
+Keywords - Authors,Author Keywords,98190,76.31,True
+Keywords - Plus,Keywords Plus®,122733,95.38,True
+References,Cited References,128624,99.96,True
+Year,Year Published,128675,100.0,True
+Title,Document Title,128675,100.0,False
+Times cited,Total Times Cited Count,128675,100.0,False
+Impact factor,journal_if,102554,79.7,False
+Country (first author),first_country,128675,100.0,False
+Institution (first author),first_institution,128675,100.0,False
+Document type,Document Type,128675,100.0,False
+Language,Language,128675,100.0,False
+WoS categories,WOS Categories,128674,100.0,False
+Research areas,Research Areas,128674,100.0,False

@@ -1,0 +1,27 @@
+CPY = stored column citations_per_year
+Citations: Total Times Cited Count | IF: journal_if (JCR year: VERIFY)
+Non-finite CPY (e.g., year 2026 with denominator 0): 0 docs, excluded from quadrants
+
+==============================================================================
+FULL CORPUS: 128,675 documents
+==============================================================================
+With IF: 102,554 | without IF: 26,121 (20.30%)
+Without IF by document type: {'Article': 23070, 'Review': 1799, 'Article; Proceedings Paper': 742, 'Article; Early Access': 250, 'Article; Book Chapter': 170, 'Review; Book Chapter': 26, 'Article; Data Paper': 25, 'Review; Early Access': 24}
+Median IF = 6.500 | median CPY = 3.750 (n = 102,554)
+Recalculated quadrants: {'Star': '35,092 (34.2%)', 'Long Tail': '34,987 (34.1%)', 'Coattail': '16,238 (15.8%)', 'Hidden Gem': '16,237 (15.8%)'}
+Agreement with stored category_group: 98.65% of 102,554 docs
+Stored category_group: {'Star': 35651, 'Long Tail': 34166, 'Hidden Gem': 17058, 'Coattail': 15679}
+Recalculated vs. stored JNIF: max |diff| = 0.000000
+JNIF: Q1 <= 1.03 < Q2 <= 3.16 < Q3 <= 7.27 < Q4 | mean 6.61
+
+==============================================================================
+PERIOD 1993-2024: 114,208 documents
+==============================================================================
+With IF: 90,003 | without IF: 24,205 (21.19%)
+Without IF by document type: {'Article': 21508, 'Review': 1595, 'Article; Proceedings Paper': 742, 'Article; Book Chapter': 170, 'Article; Early Access': 121, 'Review; Book Chapter': 26, 'Article; Data Paper': 24, 'Article; Retracted Publication': 8}
+Median IF = 6.300 | median CPY = 4.250 (n = 90,003)
+Recalculated quadrants: {'Star': '32,907 (36.6%)', 'Long Tail': '30,468 (33.9%)', 'Coattail': '14,415 (16.0%)', 'Hidden Gem': '12,213 (13.6%)'}
+Agreement with stored category_group: 90.26% of 90,003 docs
+Stored category_group: {'Star': 33700, 'Long Tail': 29728, 'Hidden Gem': 16744, 'Coattail': 9831}
+Recalculated vs. stored JNIF: max |diff| = 0.000000
+JNIF: Q1 <= 1.68 < Q2 <= 3.89 < Q3 <= 8.17 < Q4 | mean 7.50

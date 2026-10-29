@@ -1,0 +1,66 @@
+==============================================================================
+CHALLENGES: 100 sentences reviewed
+==============================================================================
+Overall accuracy (NOT_A counts as error): 0.560
+Extraction precision: 1.000
+Macro: P=0.557 R=0.566 F1=0.553
+Category                                               Prec    Rec     F1   Sup
+Battery Performance Bottleneck Challenges              0.88   0.54   0.67    13
+Electrode-Electrolyte Stability Limitations            0.12   0.12   0.12     8
+High Conductivity Bottleneck Challenges                0.25   0.40   0.31     5
+Insufficient Experimental Data Analysis                0.67   0.86   0.75     7
+Long-Term Stability Degradation Issues                 0.50   0.67   0.57     6
+Mass Transport Limitation Behavior                     0.62   0.56   0.59     9
+Material Fabrication Challenges                        0.44   0.40   0.42    10
+Material Resource Reduction Bottlenecks                0.75   0.75   0.75     8
+Model Complexity Limitations                           0.62   0.62   0.62     8
+Poor Chemical Reaction Stability                       0.62   0.62   0.62     8
+Realized Performance Bottlenecks                       0.70   0.58   0.64    12
+Technological Potential Limitations Scope              0.50   0.67   0.57     6
+
+==============================================================================
+DIRECTIONS: 100 sentences reviewed
+==============================================================================
+Overall accuracy (NOT_A counts as error): 0.440
+Extraction precision: 1.000
+Macro: P=0.438 R=0.519 F1=0.461
+Category                                               Prec    Rec     F1   Sup
+Advanced Battery Technology Development                0.33   0.43   0.38     7
+Evaluating Existing Techniques for Development         0.12   0.17   0.14     6
+High-Performance Anode Materials Development           0.50   0.17   0.25    24
+Investigating Ion-Specific Mechanisms Interactions     0.44   0.44   0.44     9
+Mechanistic Degradation Analysis Pathways              0.38   0.60   0.46     5
+Microstructural Materials Property Characterization    0.78   1.00   0.88     7
+Nanoscale Materials Design Optimization                0.50   0.67   0.57     6
+Optimized Chemical Materials Reaction                  0.44   0.40   0.42    10
+Optimized Design for Practicality                      0.25   0.22   0.24     9
+Optimized Electrode Formulation Development            0.62   0.83   0.71     6
+Practical Performance Validation Techniques            0.50   0.80   0.62     5
+Structural Relationships Exploration Characterization   0.38   0.50   0.43     6
+
+==============================================================================
+CONTROVERSIES: 100 sentences reviewed
+==============================================================================
+Overall accuracy (NOT_A counts as error): 0.420
+Extraction precision: 1.000
+Macro: P=0.419 R=0.447 F1=0.406
+Category                                               Prec    Rec     F1   Sup
+Debate on Capacity Trade-offs                          0.62   0.36   0.45    14
+Debate on Cathode Material Performance                 0.50   0.56   0.53     9
+Debate on Lithium Storage Mechanisms                   0.38   0.50   0.43     6
+Debate on MnO2 Doping                                  0.44   0.80   0.57     5
+Debate on Novel Anode Candidates                       0.75   0.33   0.46    18
+Debate on Temperature-Induced Degradation              0.25   0.67   0.36     3
+Disagreement over Characterization Methods             0.33   0.43   0.38     7
+Disagreement over Nanoscale Effectiveness              0.25   0.33   0.29     6
+Disagreement over New Battery Materials                0.25   0.33   0.29     6
+Disagreement over Novel Material Properties            0.50   0.40   0.44    10
+Disagreement over Preparation Method                   0.62   0.45   0.53    11
+Disagreement over Redox Incorporation Mechanisms       0.12   0.20   0.15     5
+
+==============================================================================
+RESEARCH TYPE: 100 documents reviewed
+==============================================================================
+Error rate: 1.0% | accuracy 99.0%
+Computational and simulation studies          P=1.00 R=0.86 F1=0.92 Sup=7
+Experimental studies                          P=0.99 R=1.00 F1=0.99 Sup=93

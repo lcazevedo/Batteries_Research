@@ -1,0 +1,75 @@
+{
+  "n_cpy_not_finite": 0,
+  "all_years": {
+    "n_total": 128675,
+    "n_with_IF": 102554,
+    "n_without_IF": 26121,
+    "without_IF_by_doc_type": {
+      "Article": 23070,
+      "Review": 1799,
+      "Article; Proceedings Paper": 742,
+      "Article; Early Access": 250,
+      "Article; Book Chapter": 170,
+      "Review; Book Chapter": 26,
+      "Article; Data Paper": 25,
+      "Review; Early Access": 24
+    },
+    "median_IF": 6.5,
+    "median_CPY": 3.75,
+    "quadrants": {
+      "Star": 35092,
+      "Long Tail": 34987,
+      "Coattail": 16238,
+      "Hidden Gem": 16237
+    },
+    "agreement_with_stored_quadrant_pct": 98.65436745519433,
+    "stored_quadrants": {
+      "Star": 35651,
+      "Long Tail": 34166,
+      "Hidden Gem": 17058,
+      "Coattail": 15679
+    },
+    "jnif_max_abs_diff_vs_stored": 0.0,
+    "JNIF_quartiles": {
+      "P25": 1.0344827586206897,
+      "P50": 3.1645569620253164,
+      "P75": 7.272727272727273
+    }
+  },
+  "1993_2024": {
+    "n_total": 114208,
+    "n_with_IF": 90003,
+    "n_without_IF": 24205,
+    "without_IF_by_doc_type": {
+      "Article": 21508,
+      "Review": 1595,
+      "Article; Proceedings Paper": 742,
+      "Article; Book Chapter": 170,
+      "Article; Early Access": 121,
+      "Review; Book Chapter": 26,
+      "Article; Data Paper": 24,
+      "Article; Retracted Publication": 8
+    },
+    "median_IF": 6.3,
+    "median_CPY": 4.25,
+    "quadrants": {
+      "Star": 32907,
+      "Long Tail": 30468,
+      "Coattail": 14415,
+      "Hidden Gem": 12213
+    },
+    "agreement_with_stored_quadrant_pct": 90.26476895214603,
+    "stored_quadrants": {
+      "Star": 33700,
+      "Long Tail": 29728,
+      "Hidden Gem": 16744,
+      "Coattail": 9831
+    },
+    "jnif_max_abs_diff_vs_stored": 0.0,
+    "JNIF_quartiles": {
+      "P25": 1.6842105263157894,
+      "P50": 3.888888888888889,
+      "P75": 8.165680473372781
+    }
+  }
+}

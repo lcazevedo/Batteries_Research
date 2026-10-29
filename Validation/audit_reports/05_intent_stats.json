@@ -1,0 +1,755 @@
+{
+  "docs_without_key": 0,
+  "docs_duplicated_key": 0,
+  "docs_with_phrases": 128127,
+  "n_sentences": 910492,
+  "pct_sentences_categorized_in_all_three": 88.3755156552721,
+  "pct_sentences_none_in_all_three": 3.4992070221374814,
+  "boilerplate_categorized_pct_challenges": 7.408670607852054,
+  "boilerplate_categorized_pct_directions": 6.802334394421707,
+  "boilerplate_categorized_pct_controversies": 6.912232833105958,
+  "challenges": {
+    "status_by_group_column": {
+      "category": 809605,
+      "none": 100887
+    },
+    "status_by_raw_label": {
+      "category": 809605,
+      "none": 100887
+    },
+    "crosstab_label_vs_group": {
+      "category": {
+        "category": 809605,
+        "none": 0
+      },
+      "none": {
+        "category": 0,
+        "none": 100887
+      }
+    },
+    "top_raw_labels": {
+      "No Challenge": 100887,
+      "Complex Synthesis Method": 58118,
+      "Poor Material Stability": 23180,
+      "Poor Electrode Stability": 17467,
+      "Poor Capacity Retention": 11825,
+      "Poor Cycle Stability": 8224,
+      "Poor Catalyst Stability": 5467,
+      "Poor Electrode Performance": 4699,
+      "Poor Material Performance": 4681,
+      "Poor Battery Performance": 4369,
+      "Poor Battery Stability": 4088,
+      "Poor Cycling Stability": 4087,
+      "Poor Electrolyte Stability": 3551,
+      "Simple Synthesis Method": 3298,
+      "Methodological Limitations": 2535,
+      "Limited Material Performance": 2431,
+      "Limited Cycle Life": 2414,
+      "Facile Synthesis Method": 2351,
+      "Characterization Method Limitations": 2242,
+      "Poor Anode Stability": 1780,
+      "Limited Capacity Performance": 1635,
+      "Improved Material Performance": 1593,
+      "Poor Electrochemical Performance": 1591,
+      "Complex Material Synthesis": 1513,
+      "Lack of Specificity": 1512,
+      "High Material Cost": 1498,
+      "Limited Spatial Resolution": 1478,
+      "Computational Complexity": 1470,
+      "Excellent Cycling Stability": 1464,
+      "Poor Interface Stability": 1461
+    },
+    "n_distinct_raw_labels": 188881,
+    "none_label_but_categorized": 0,
+    "n_categorized_sentences": 809605,
+    "pct_categorized_of_all": 88.91950725541795,
+    "ranking": [
+      {
+        "group": "Model Complexity Limitations",
+        "sentences": 164800,
+        "pct": 20.3556055113296,
+        "documents": 90744
+      },
+      {
+        "group": "Long-Term Stability Degradation Issues",
+        "sentences": 104254,
+        "pct": 12.87714379234318,
+        "documents": 67290
+      },
+      {
+        "group": "Realized Performance Bottlenecks",
+        "sentences": 97521,
+        "pct": 12.04550367154353,
+        "documents": 66705
+      },
+      {
+        "group": "Material Fabrication Challenges",
+        "sentences": 83391,
+        "pct": 10.300208126184991,
+        "documents": 58255
+      },
+      {
+        "group": "Electrode-Electrolyte Stability Limitations",
+        "sentences": 72126,
+        "pct": 8.908788853823777,
+        "documents": 49602
+      },
+      {
+        "group": "Technological Potential Limitations Scope",
+        "sentences": 61207,
+        "pct": 7.560106471674459,
+        "documents": 44412
+      },
+      {
+        "group": "High Conductivity Bottleneck Challenges",
+        "sentences": 42649,
+        "pct": 5.26787754522267,
+        "documents": 33270
+      },
+      {
+        "group": "Insufficient Experimental Data Analysis",
+        "sentences": 41689,
+        "pct": 5.149301202438226,
+        "documents": 32117
+      },
+      {
+        "group": "Poor Chemical Reaction Stability",
+        "sentences": 39881,
+        "pct": 4.925982423527523,
+        "documents": 29868
+      },
+      {
+        "group": "Mass Transport Limitation Behavior",
+        "sentences": 38296,
+        "pct": 4.730207940909456,
+        "documents": 30392
+      },
+      {
+        "group": "Battery Performance Bottleneck Challenges",
+        "sentences": 33658,
+        "pct": 4.15733598483211,
+        "documents": 25279
+      },
+      {
+        "group": "Material Resource Reduction Bottlenecks",
+        "sentences": 30133,
+        "pct": 3.7219384761704783,
+        "documents": 20189
+      }
+    ],
+    "pct_docs_first_last_year": {
+      "2014": {
+        "Battery Performance Bottleneck Challenges": 14.2,
+        "Electrode-Electrolyte Stability Limitations": 33.74,
+        "High Conductivity Bottleneck Challenges": 21.61,
+        "Insufficient Experimental Data Analysis": 20.96,
+        "Long-Term Stability Degradation Issues": 44.84,
+        "Mass Transport Limitation Behavior": 22.59,
+        "Material Fabrication Challenges": 45.96,
+        "Material Resource Reduction Bottlenecks": 8.84,
+        "Model Complexity Limitations": 76.39,
+        "Poor Chemical Reaction Stability": 19.56,
+        "Realized Performance Bottlenecks": 50.88,
+        "Technological Potential Limitations Scope": 24.77
+      },
+      "2025": {
+        "Battery Performance Bottleneck Challenges": 24.03,
+        "Electrode-Electrolyte Stability Limitations": 40.14,
+        "High Conductivity Bottleneck Challenges": 26.82,
+        "Insufficient Experimental Data Analysis": 25.8,
+        "Long-Term Stability Degradation Issues": 61.48,
+        "Mass Transport Limitation Behavior": 23.61,
+        "Material Fabrication Challenges": 44.28,
+        "Material Resource Reduction Bottlenecks": 22.01,
+        "Model Complexity Limitations": 68.07,
+        "Poor Chemical Reaction Stability": 26.97,
+        "Realized Performance Bottlenecks": 52.94,
+        "Technological Potential Limitations Scope": 41.13
+      }
+    },
+    "momentum": [
+      {
+        "group": "Model Complexity Limitations",
+        "total_presence_2006_2025": 162015,
+        "share_2006_2015_pct": 25.144,
+        "share_2016_2025_pct": 19.549,
+        "momentum_pp": -5.594
+      },
+      {
+        "group": "Long-Term Stability Degradation Issues",
+        "total_presence_2006_2025": 102831,
+        "share_2006_2015_pct": 10.509,
+        "share_2016_2025_pct": 13.329,
+        "momentum_pp": 2.82
+      },
+      {
+        "group": "Realized Performance Bottlenecks",
+        "total_presence_2006_2025": 95950,
+        "share_2006_2015_pct": 12.857,
+        "share_2016_2025_pct": 11.922,
+        "momentum_pp": -0.935
+      },
+      {
+        "group": "Material Fabrication Challenges",
+        "total_presence_2006_2025": 81829,
+        "share_2006_2015_pct": 11.446,
+        "share_2016_2025_pct": 10.086,
+        "momentum_pp": -1.36
+      },
+      {
+        "group": "Electrode-Electrolyte Stability Limitations",
+        "total_presence_2006_2025": 70486,
+        "share_2006_2015_pct": 8.877,
+        "share_2016_2025_pct": 8.854,
+        "momentum_pp": -0.023
+      },
+      {
+        "group": "Technological Potential Limitations Scope",
+        "total_presence_2006_2025": 60511,
+        "share_2006_2015_pct": 5.674,
+        "share_2016_2025_pct": 7.93,
+        "momentum_pp": 2.256
+      },
+      {
+        "group": "High Conductivity Bottleneck Challenges",
+        "total_presence_2006_2025": 41975,
+        "share_2006_2015_pct": 5.086,
+        "share_2016_2025_pct": 5.306,
+        "momentum_pp": 0.22
+      },
+      {
+        "group": "Insufficient Experimental Data Analysis",
+        "total_presence_2006_2025": 40755,
+        "share_2006_2015_pct": 4.943,
+        "share_2016_2025_pct": 5.151,
+        "momentum_pp": 0.208
+      },
+      {
+        "group": "Poor Chemical Reaction Stability",
+        "total_presence_2006_2025": 38946,
+        "share_2006_2015_pct": 4.916,
+        "share_2016_2025_pct": 4.89,
+        "momentum_pp": -0.026
+      },
+      {
+        "group": "Mass Transport Limitation Behavior",
+        "total_presence_2006_2025": 37539,
+        "share_2006_2015_pct": 5.542,
+        "share_2016_2025_pct": 4.578,
+        "momentum_pp": -0.964
+      },
+      {
+        "group": "Battery Performance Bottleneck Challenges",
+        "total_presence_2006_2025": 33089,
+        "share_2006_2015_pct": 3.175,
+        "share_2016_2025_pct": 4.324,
+        "momentum_pp": 1.149
+      },
+      {
+        "group": "Material Resource Reduction Bottlenecks",
+        "total_presence_2006_2025": 29887,
+        "share_2006_2015_pct": 1.832,
+        "share_2016_2025_pct": 4.081,
+        "momentum_pp": 2.249
+      }
+    ],
+    "n_topics_in_topic_matrix": 23
+  },
+  "directions": {
+    "status_by_group_column": {
+      "category": 877884,
+      "none": 32608
+    },
+    "status_by_raw_label": {
+      "category": 877884,
+      "none": 32608
+    },
+    "crosstab_label_vs_group": {
+      "category": {
+        "category": 877884,
+        "none": 0
+      },
+      "none": {
+        "category": 0,
+        "none": 32608
+      }
+    },
+    "top_raw_labels": {
+      "No Research Direction": 32608,
+      "Investigate Degradation Mechanisms": 7135,
+      "Optimize Electrochemical Performance": 5292,
+      "Characterize Material Properties": 4858,
+      "Optimize Battery Performance": 4799,
+      "Evaluate Anode Performance": 4424,
+      "Optimize Electrode Performance": 4413,
+      "Evaluate Battery Performance": 4329,
+      "Evaluate Electrochemical Performance": 3859,
+      "Evaluate Material Performance": 3209,
+      "Evaluate Cycling Stability": 2874,
+      "Optimize Material Performance": 2662,
+      "Optimize Composite Performance": 2652,
+      "Evaluate Electrode Performance": 2315,
+      "Optimize Synthesis Parameters": 2285,
+      "Evaluate Long-Term Stability": 2170,
+      "Optimize Material Composition": 2165,
+      "Evaluate Cycle Stability": 2101,
+      "Develop Composite Materials": 2018,
+      "Evaluate Composite Performance": 1945,
+      "Optimize Synthesis Methods": 1899,
+      "Optimize Synthesis Methodologies": 1813,
+      "Develop Novel Anode Materials": 1718,
+      "Investigate Diffusion Mechanisms": 1633,
+      "Optimize Electrolyte Performance": 1412,
+      "Investigate Reaction Mechanisms": 1396,
+      "Investigate Doping Effects": 1362,
+      "Evaluate Anode Material Performance": 1351,
+      "Evaluate Electrolyte Performance": 1328,
+      "Improve Battery Performance": 1297
+    },
+    "n_distinct_raw_labels": 322356,
+    "none_label_but_categorized": 0,
+    "n_categorized_sentences": 877884,
+    "pct_categorized_of_all": 96.41863959265979,
+    "ranking": [
+      {
+        "group": "Optimized Electrode Formulation Development",
+        "sentences": 99018,
+        "pct": 11.279166723621799,
+        "documents": 58791
+      },
+      {
+        "group": "Nanoscale Materials Design Optimization",
+        "sentences": 92988,
+        "pct": 10.592287819347431,
+        "documents": 58852
+      },
+      {
+        "group": "Microstructural Materials Property Characterization",
+        "sentences": 84095,
+        "pct": 9.579283823375297,
+        "documents": 53587
+      },
+      {
+        "group": "Optimized Design for Practicality",
+        "sentences": 83312,
+        "pct": 9.490092085059073,
+        "documents": 57100
+      },
+      {
+        "group": "Investigating Ion-Specific Mechanisms Interactions",
+        "sentences": 79856,
+        "pct": 9.096418205594361,
+        "documents": 50200
+      },
+      {
+        "group": "Practical Performance Validation Techniques",
+        "sentences": 72468,
+        "pct": 8.254849160025698,
+        "documents": 50580
+      },
+      {
+        "group": "Advanced Battery Technology Development",
+        "sentences": 70303,
+        "pct": 8.008233434030009,
+        "documents": 44390
+      },
+      {
+        "group": "Optimized Chemical Materials Reaction",
+        "sentences": 67575,
+        "pct": 7.6974862282488345,
+        "documents": 46258
+      },
+      {
+        "group": "High-Performance Anode Materials Development",
+        "sentences": 64406,
+        "pct": 7.336504595140132,
+        "documents": 44505
+      },
+      {
+        "group": "Mechanistic Degradation Analysis Pathways",
+        "sentences": 59588,
+        "pct": 6.78768493331693,
+        "documents": 39826
+      },
+      {
+        "group": "Structural Relationships Exploration Characterization",
+        "sentences": 54994,
+        "pct": 6.264381171088663,
+        "documents": 40545
+      },
+      {
+        "group": "Evaluating Existing Techniques for Development",
+        "sentences": 49281,
+        "pct": 5.613611821151769,
+        "documents": 33138
+      }
+    ],
+    "pct_docs_first_last_year": {
+      "2014": {
+        "Advanced Battery Technology Development": 22.46,
+        "Evaluating Existing Techniques for Development": 14.6,
+        "High-Performance Anode Materials Development": 27.5,
+        "Investigating Ion-Specific Mechanisms Interactions": 34.28,
+        "Mechanistic Degradation Analysis Pathways": 24.41,
+        "Microstructural Materials Property Characterization": 52.22,
+        "Nanoscale Materials Design Optimization": 46.02,
+        "Optimized Chemical Materials Reaction": 32.73,
+        "Optimized Design for Practicality": 41.19,
+        "Optimized Electrode Formulation Development": 43.58,
+        "Practical Performance Validation Techniques": 34.58,
+        "Structural Relationships Exploration Characterization": 31.99
+      },
+      "2025": {
+        "Advanced Battery Technology Development": 42.68,
+        "Evaluating Existing Techniques for Development": 36.24,
+        "High-Performance Anode Materials Development": 37.56,
+        "Investigating Ion-Specific Mechanisms Interactions": 41.58,
+        "Mechanistic Degradation Analysis Pathways": 38.97,
+        "Microstructural Materials Property Characterization": 33.02,
+        "Nanoscale Materials Design Optimization": 45.18,
+        "Optimized Chemical Materials Reaction": 42.73,
+        "Optimized Design for Practicality": 50.5,
+        "Optimized Electrode Formulation Development": 43.94,
+        "Practical Performance Validation Techniques": 44.62,
+        "Structural Relationships Exploration Characterization": 31.17
+      }
+    },
+    "momentum": [
+      {
+        "group": "Optimized Electrode Formulation Development",
+        "total_presence_2006_2025": 96979,
+        "share_2006_2015_pct": 12.09,
+        "share_2016_2025_pct": 11.092,
+        "momentum_pp": -0.998
+      },
+      {
+        "group": "Nanoscale Materials Design Optimization",
+        "total_presence_2006_2025": 92083,
+        "share_2006_2015_pct": 11.295,
+        "share_2016_2025_pct": 10.563,
+        "momentum_pp": -0.732
+      },
+      {
+        "group": "Optimized Design for Practicality",
+        "total_presence_2006_2025": 82236,
+        "share_2006_2015_pct": 9.327,
+        "share_2016_2025_pct": 9.56,
+        "momentum_pp": 0.233
+      },
+      {
+        "group": "Microstructural Materials Property Characterization",
+        "total_presence_2006_2025": 81733,
+        "share_2006_2015_pct": 15.422,
+        "share_2016_2025_pct": 8.473,
+        "momentum_pp": -6.948
+      },
+      {
+        "group": "Investigating Ion-Specific Mechanisms Interactions",
+        "total_presence_2006_2025": 77936,
+        "share_2006_2015_pct": 9.648,
+        "share_2016_2025_pct": 8.925,
+        "momentum_pp": -0.723
+      },
+      {
+        "group": "Practical Performance Validation Techniques",
+        "total_presence_2006_2025": 71430,
+        "share_2006_2015_pct": 7.593,
+        "share_2016_2025_pct": 8.389,
+        "momentum_pp": 0.796
+      },
+      {
+        "group": "Advanced Battery Technology Development",
+        "total_presence_2006_2025": 69364,
+        "share_2006_2015_pct": 5.588,
+        "share_2016_2025_pct": 8.445,
+        "momentum_pp": 2.856
+      },
+      {
+        "group": "Optimized Chemical Materials Reaction",
+        "total_presence_2006_2025": 66473,
+        "share_2006_2015_pct": 7.482,
+        "share_2016_2025_pct": 7.737,
+        "momentum_pp": 0.256
+      },
+      {
+        "group": "High-Performance Anode Materials Development",
+        "total_presence_2006_2025": 63797,
+        "share_2006_2015_pct": 5.55,
+        "share_2016_2025_pct": 7.698,
+        "momentum_pp": 2.148
+      },
+      {
+        "group": "Mechanistic Degradation Analysis Pathways",
+        "total_presence_2006_2025": 58489,
+        "share_2006_2015_pct": 5.733,
+        "share_2016_2025_pct": 6.95,
+        "momentum_pp": 1.217
+      },
+      {
+        "group": "Structural Relationships Exploration Characterization",
+        "total_presence_2006_2025": 53828,
+        "share_2006_2015_pct": 7.242,
+        "share_2016_2025_pct": 6.068,
+        "momentum_pp": -1.175
+      },
+      {
+        "group": "Evaluating Existing Techniques for Development",
+        "total_presence_2006_2025": 48863,
+        "share_2006_2015_pct": 3.03,
+        "share_2016_2025_pct": 6.1,
+        "momentum_pp": 3.071
+      }
+    ],
+    "n_topics_in_topic_matrix": 23
+  },
+  "controversies": {
+    "status_by_group_column": {
+      "category": 865191,
+      "none": 45301
+    },
+    "status_by_raw_label": {
+      "category": 865190,
+      "none": 45301,
+      "error": 1
+    },
+    "crosstab_label_vs_group": {
+      "category": {
+        "category": 865190,
+        "error": 1,
+        "none": 0
+      },
+      "none": {
+        "category": 0,
+        "error": 0,
+        "none": 45301
+      }
+    },
+    "top_raw_labels": {
+      "No Controversy": 45301,
+      "Anode Material Performance": 3121,
+      "Synthesis Method Comparison": 2572,
+      "Synthesis Method Variability": 2016,
+      "Synthesis Method Optimization": 1057,
+      "Electrode Performance Characteristics": 1011,
+      "Electrode Performance Comparison": 991,
+      "Composite Material Performance": 905,
+      "Synthesis Method Standardization": 875,
+      "Cathode Material Performance": 875,
+      "Synthesis Method Novelty": 858,
+      "Electrode Performance Metrics": 811,
+      "Anode Material Potential": 776,
+      "Electrode Material Performance": 750,
+      "SEI Formation Mechanisms": 729,
+      "Synthesis Method Validation": 729,
+      "Battery Capacity Retention": 663,
+      "Synthesis Route Variability": 635,
+      "Synthesis Route Optimization": 606,
+      "Synthesis Method Evaluation": 601,
+      "Material Performance Characteristics": 593,
+      "Synthesis Method Debate": 583,
+      "Synthesis Method Efficacy": 562,
+      "Anode Performance Characteristics": 549,
+      "Battery Performance Metrics": 540,
+      "Cycle Stability Performance": 529,
+      "Characterization Methodologies Comparison": 509,
+      "Electrode Capacity Retention": 478,
+      "Future Research Directions": 471,
+      "Anode Performance Comparison": 457
+    },
+    "n_distinct_raw_labels": 614101,
+    "none_label_but_categorized": 0,
+    "n_categorized_sentences": 865190,
+    "pct_categorized_of_all": 95.02444832024884,
+    "ranking": [
+      {
+        "group": "Disagreement over Characterization Methods",
+        "sentences": 132840,
+        "pct": 15.353852910921301,
+        "documents": 69804
+      },
+      {
+        "group": "Disagreement over Novel Material Properties",
+        "sentences": 90019,
+        "pct": 10.404535419965557,
+        "documents": 54143
+      },
+      {
+        "group": "Disagreement over Nanoscale Effectiveness",
+        "sentences": 88399,
+        "pct": 10.217293311295785,
+        "documents": 55475
+      },
+      {
+        "group": "Disagreement over Redox Incorporation Mechanisms",
+        "sentences": 84207,
+        "pct": 9.732775459725609,
+        "documents": 53038
+      },
+      {
+        "group": "Disagreement over Preparation Method",
+        "sentences": 82466,
+        "pct": 9.531547983679886,
+        "documents": 51461
+      },
+      {
+        "group": "Debate on Capacity Trade-offs",
+        "sentences": 71905,
+        "pct": 8.310891249320958,
+        "documents": 51731
+      },
+      {
+        "group": "Debate on Temperature-Induced Degradation",
+        "sentences": 66301,
+        "pct": 7.663172251181821,
+        "documents": 43773
+      },
+      {
+        "group": "Disagreement over New Battery Materials",
+        "sentences": 63466,
+        "pct": 7.335498561009721,
+        "documents": 39635
+      },
+      {
+        "group": "Debate on Novel Anode Candidates",
+        "sentences": 54040,
+        "pct": 6.246026884268195,
+        "documents": 34045
+      },
+      {
+        "group": "Debate on MnO2 Doping",
+        "sentences": 51916,
+        "pct": 6.0005316751233835,
+        "documents": 33533
+      },
+      {
+        "group": "Debate on Lithium Storage Mechanisms",
+        "sentences": 51143,
+        "pct": 5.911187138085276,
+        "documents": 31898
+      },
+      {
+        "group": "Debate on Cathode Material Performance",
+        "sentences": 28488,
+        "pct": 3.2926871554225086,
+        "documents": 19583
+      }
+    ],
+    "pct_docs_first_last_year": {
+      "2014": {
+        "Debate on Capacity Trade-offs": 33.26,
+        "Debate on Cathode Material Performance": 10.04,
+        "Debate on Lithium Storage Mechanisms": 21.5,
+        "Debate on MnO2 Doping": 27.82,
+        "Debate on Novel Anode Candidates": 22.67,
+        "Debate on Temperature-Induced Degradation": 28.88,
+        "Disagreement over Characterization Methods": 54.32,
+        "Disagreement over Nanoscale Effectiveness": 48.79,
+        "Disagreement over New Battery Materials": 22.14,
+        "Disagreement over Novel Material Properties": 38.73,
+        "Disagreement over Preparation Method": 39.72,
+        "Disagreement over Redox Incorporation Mechanisms": 35.36
+      },
+      "2025": {
+        "Debate on Capacity Trade-offs": 48.07,
+        "Debate on Cathode Material Performance": 19.24,
+        "Debate on Lithium Storage Mechanisms": 25.39,
+        "Debate on MnO2 Doping": 23.65,
+        "Debate on Novel Anode Candidates": 25.84,
+        "Debate on Temperature-Induced Degradation": 39.91,
+        "Disagreement over Characterization Methods": 57.2,
+        "Disagreement over Nanoscale Effectiveness": 37.48,
+        "Disagreement over New Battery Materials": 37.28,
+        "Disagreement over Novel Material Properties": 40.9,
+        "Disagreement over Preparation Method": 42.9,
+        "Disagreement over Redox Incorporation Mechanisms": 46.9
+      }
+    },
+    "momentum": [
+      {
+        "group": "Disagreement over Characterization Methods",
+        "total_presence_2006_2025": 130836,
+        "share_2006_2015_pct": 15.252,
+        "share_2016_2025_pct": 15.402,
+        "momentum_pp": 0.149
+      },
+      {
+        "group": "Disagreement over Novel Material Properties",
+        "total_presence_2006_2025": 88100,
+        "share_2006_2015_pct": 10.783,
+        "share_2016_2025_pct": 10.285,
+        "momentum_pp": -0.499
+      },
+      {
+        "group": "Disagreement over Nanoscale Effectiveness",
+        "total_presence_2006_2025": 86856,
+        "share_2006_2015_pct": 13.722,
+        "share_2016_2025_pct": 9.621,
+        "momentum_pp": -4.102
+      },
+      {
+        "group": "Disagreement over Redox Incorporation Mechanisms",
+        "total_presence_2006_2025": 82635,
+        "share_2006_2015_pct": 9.001,
+        "share_2016_2025_pct": 9.834,
+        "momentum_pp": 0.833
+      },
+      {
+        "group": "Disagreement over Preparation Method",
+        "total_presence_2006_2025": 81025,
+        "share_2006_2015_pct": 10.598,
+        "share_2016_2025_pct": 9.345,
+        "momentum_pp": -1.253
+      },
+      {
+        "group": "Debate on Capacity Trade-offs",
+        "total_presence_2006_2025": 71106,
+        "share_2006_2015_pct": 7.131,
+        "share_2016_2025_pct": 8.565,
+        "momentum_pp": 1.434
+      },
+      {
+        "group": "Debate on Temperature-Induced Degradation",
+        "total_presence_2006_2025": 64819,
+        "share_2006_2015_pct": 7.249,
+        "share_2016_2025_pct": 7.682,
+        "momentum_pp": 0.433
+      },
+      {
+        "group": "Disagreement over New Battery Materials",
+        "total_presence_2006_2025": 62563,
+        "share_2006_2015_pct": 5.475,
+        "share_2016_2025_pct": 7.67,
+        "momentum_pp": 2.195
+      },
+      {
+        "group": "Debate on Novel Anode Candidates",
+        "total_presence_2006_2025": 53569,
+        "share_2006_2015_pct": 4.916,
+        "share_2016_2025_pct": 6.529,
+        "momentum_pp": 1.613
+      },
+      {
+        "group": "Debate on MnO2 Doping",
+        "total_presence_2006_2025": 51193,
+        "share_2006_2015_pct": 7.333,
+        "share_2016_2025_pct": 5.797,
+        "momentum_pp": -1.535
+      },
+      {
+        "group": "Debate on Lithium Storage Mechanisms",
+        "total_presence_2006_2025": 49808,
+        "share_2006_2015_pct": 6.342,
+        "share_2016_2025_pct": 5.773,
+        "momentum_pp": -0.568
+      },
+      {
+        "group": "Debate on Cathode Material Performance",
+        "total_presence_2006_2025": 28162,
+        "share_2006_2015_pct": 2.198,
+        "share_2016_2025_pct": 3.497,
+        "momentum_pp": 1.299
+      }
+    ],
+    "n_topics_in_topic_matrix": 23
+  }
+}

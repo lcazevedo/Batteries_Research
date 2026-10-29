@@ -1,0 +1,501 @@
+directions_label,count,cluster,class_name
+Optimize Phased Control Strategy,1,0,Optimized Design for Practicality
+Optimize Laser Power Cycling,1,0,Optimized Design for Practicality
+Optimize Stripping Process Parameters,1,0,Optimized Design for Practicality
+Optimize RuTBzPc Performance,1,0,Optimized Design for Practicality
+Optimize Ultrasonic Processing,4,0,Optimized Design for Practicality
+Optimize High Current Cycling,4,0,Optimized Design for Practicality
+Optimize CIGS Lifecycle,1,0,Optimized Design for Practicality
+Optimize Se/HPC Cycling Performance,1,0,Optimized Design for Practicality
+Optimize Point Symmetry,1,0,Optimized Design for Practicality
+Optimize Heterojunction Bandgap,1,0,Optimized Design for Practicality
+Optimize Island Placement Strategies,1,0,Optimized Design for Practicality
+Optimize ESD Synthesis,1,0,Optimized Design for Practicality
+Optimize DES Reuse Efficiency,1,0,Optimized Design for Practicality
+Optimize Superposition Interactions,1,0,Optimized Design for Practicality
+Optimize SEI Stabilization,2,0,Optimized Design for Practicality
+Optimize Layer Contact,1,0,Optimized Design for Practicality
+Optimize PEM Performance,3,0,Optimized Design for Practicality
+Optimize PE Separator Properties,1,0,Optimized Design for Practicality
+Investigate ILC Capacity Optimization,1,0,Optimized Design for Practicality
+Optimize T-DES for recovery,1,0,Optimized Design for Practicality
+Optimize Li5V3O8 Performance,1,0,Optimized Design for Practicality
+Optimize FS-3 Performance,1,0,Optimized Design for Practicality
+Optimize RIL for Flexibility,1,0,Optimized Design for Practicality
+Optimize Screening Capacity,1,0,Optimized Design for Practicality
+Optimize Na+ Removal,1,0,Optimized Design for Practicality
+Optimize NCNF Architecture,1,0,Optimized Design for Practicality
+Optimize Voltage-Density Relationship,1,0,Optimized Design for Practicality
+Develop Optimized Silicene,1,0,Optimized Design for Practicality
+Optimize SLM Process,2,0,Optimized Design for Practicality
+Optimize Composite Production Method,5,0,Optimized Design for Practicality
+Improve Fault Detection Performance,1,0,Optimized Design for Practicality
+Optimize Template Dosage,1,0,Optimized Design for Practicality
+Optimize Single-Particle Observer,1,0,Optimized Design for Practicality
+Optimize GO sheet size,1,0,Optimized Design for Practicality
+Optimize Curve Smoothing Methods,1,0,Optimized Design for Practicality
+Improve Multistep Prediction Accuracy,1,0,Optimized Design for Practicality
+Optimize Heat Pipe Designs,1,0,Optimized Design for Practicality
+Optimize Energy Landscapes,1,0,Optimized Design for Practicality
+Optimize Cell Properties,1,0,Optimized Design for Practicality
+Refine Position Prediction,1,0,Optimized Design for Practicality
+Optimize Framework Construction,1,0,Optimized Design for Practicality
+Develop Oxide Heterostructures,1,1,Nanoscale Materials Design Optimization
+Develop Aerogel-Based Fabrication,1,1,Nanoscale Materials Design Optimization
+Develop Nanocellulose Applications,2,1,Nanoscale Materials Design Optimization
+Explore Micro/Nanostructure Design,1,1,Nanoscale Materials Design Optimization
+Explore Carbon Coating Mechanisms,1,1,Nanoscale Materials Design Optimization
+Optimize Nanostructure Fabrication Methods,1,1,Nanoscale Materials Design Optimization
+Develop Cross-linked Polymer Binders,1,1,Nanoscale Materials Design Optimization
+Develop Zero-Strained Materials,1,1,Nanoscale Materials Design Optimization
+Stabilize Nanowire Interfaces,3,1,Nanoscale Materials Design Optimization
+Improve Composite Interfacial Compatibility,1,1,Nanoscale Materials Design Optimization
+Explore MOF-graphene composites,1,1,Nanoscale Materials Design Optimization
+Synthesize Novel Alloys,7,1,Nanoscale Materials Design Optimization
+Develop Salt-Templated Synthesis,1,1,Nanoscale Materials Design Optimization
+Develop Yolk-Shell Nanostructures,1,1,Nanoscale Materials Design Optimization
+Develop Printable Materials,3,1,Nanoscale Materials Design Optimization
+Guide Nanostructure Design,1,1,Nanoscale Materials Design Optimization
+Fabricate Novel LIHCs,1,1,Nanoscale Materials Design Optimization
+Synthesize Tin Layered Oxide,1,1,Nanoscale Materials Design Optimization
+Develop Hybrid Carbon Structures,1,1,Nanoscale Materials Design Optimization
+Develop 3D Microbattery Architectures,2,1,Nanoscale Materials Design Optimization
+Design TMD Catalysts,1,1,Nanoscale Materials Design Optimization
+Develop Amorphous Interface Layers,1,1,Nanoscale Materials Design Optimization
+Fabricate Carbon Matrix Composites,1,1,Nanoscale Materials Design Optimization
+Optimize Mesoscale Material Synthesis,1,1,Nanoscale Materials Design Optimization
+Optimize NFP Film Properties,1,1,Nanoscale Materials Design Optimization
+Optimize Sandwich Film Structure,1,1,Nanoscale Materials Design Optimization
+Improve Laser Structuring,1,1,Nanoscale Materials Design Optimization
+Develop Materials Design Principles,1,1,Nanoscale Materials Design Optimization
+Develop Novel Photoelectrodes,1,1,Nanoscale Materials Design Optimization
+Explore LTMD/Carbon Nanocomposite Challenges,1,1,Nanoscale Materials Design Optimization
+Scale-up Nanocomposite Synthesis,2,1,Nanoscale Materials Design Optimization
+Fabricate Conductive Aerogel Networks,1,1,Nanoscale Materials Design Optimization
+Develop Perovskite Solar Cells,1,1,Nanoscale Materials Design Optimization
+Investigate Honeycomb-Layered Oxides,1,1,Nanoscale Materials Design Optimization
+Explore Graphene EESD Challenges,1,1,Nanoscale Materials Design Optimization
+Improve Composite Bonding,1,1,Nanoscale Materials Design Optimization
+Investigate Nanofiber Formation,1,1,Nanoscale Materials Design Optimization
+Optimize Hydrogel Fabrication Methods,1,1,Nanoscale Materials Design Optimization
+Optimize Salt-Graphite Compatibility,1,1,Nanoscale Materials Design Optimization
+Optimize Mn Trapping Polymers,1,1,Nanoscale Materials Design Optimization
+Develop Nanoporous Reactive Metals,1,1,Nanoscale Materials Design Optimization
+Enhance Bulk Conductivity,1,2,Optimized Electrode Formulation Development
+Enhance Electrode Diffusion Rates,1,2,Optimized Electrode Formulation Development
+Optimize Electrolysis Recycling,1,2,Optimized Electrode Formulation Development
+Optimize Capacitor Electrode Design,1,2,Optimized Electrode Formulation Development
+Explore OVA Electrolyte Additive,1,2,Optimized Electrode Formulation Development
+Develop Electrochemical Shock Models,1,2,Optimized Electrode Formulation Development
+Develop Particle-Morphologic Electrodes,1,2,Optimized Electrode Formulation Development
+Optimize Composite Binder Electrodes,1,2,Optimized Electrode Formulation Development
+Characterize TFMP Electrochemical Properties,1,2,Optimized Electrode Formulation Development
+Improve SiOC Electrode Performance,1,2,Optimized Electrode Formulation Development
+Optimize KB Electrode Conductivity,1,2,Optimized Electrode Formulation Development
+Explore Single Electrode TCs,1,2,Optimized Electrode Formulation Development
+Characterize Morphology-Electrochemical Interactions,1,2,Optimized Electrode Formulation Development
+Develop NASICON Electrolytes,1,2,Optimized Electrode Formulation Development
+Commercialize Solid Electrolytes,1,2,Optimized Electrode Formulation Development
+Redefine Electrode Material Design,1,2,Optimized Electrode Formulation Development
+Stabilize MOF Electrode,1,2,Optimized Electrode Formulation Development
+Characterize Existing Electrolytes,1,2,Optimized Electrode Formulation Development
+Stabilize Conducting Phases,1,2,Optimized Electrode Formulation Development
+Fabricate and Characterize Electrolyte Blends,1,2,Optimized Electrode Formulation Development
+Functionalize Conducting Polymers,1,2,Optimized Electrode Formulation Development
+Uncover Electrolyte Limitations,1,2,Optimized Electrode Formulation Development
+Improve Positive Electrode,2,2,Optimized Electrode Formulation Development
+Scale Up Electrolyte Formulation,1,2,Optimized Electrode Formulation Development
+Optimize Hybrid Electrolyte Systems,5,2,Optimized Electrode Formulation Development
+Optimize Electrode Growth Ratio,1,2,Optimized Electrode Formulation Development
+Evaluate MIBs Electrolytes,1,2,Optimized Electrode Formulation Development
+Optimize NMC electrode composition,1,2,Optimized Electrode Formulation Development
+Analyze NaTDI-PEO Electrolytes,1,2,Optimized Electrode Formulation Development
+Utilize Solvent-Electrolyte Systems,1,2,Optimized Electrode Formulation Development
+Optimize Sb2Se3 Electrode,1,2,Optimized Electrode Formulation Development
+Optimize Microbial Electrocatalysis,1,2,Optimized Electrode Formulation Development
+Evaluate Stable Electrolytes,1,2,Optimized Electrode Formulation Development
+Evaluate Garnet Electrolytes,6,2,Optimized Electrode Formulation Development
+Optimize Electrode Strength,1,2,Optimized Electrode Formulation Development
+Optimize Electrochemical Hydrogen Production,1,2,Optimized Electrode Formulation Development
+Develop Protective Electrode Films,1,2,Optimized Electrode Formulation Development
+Mitigate Impedance and Conductivity,1,2,Optimized Electrode Formulation Development
+Investigate Electrode Phase Evolution,2,2,Optimized Electrode Formulation Development
+Develop 3D Electrode Structures,9,2,Optimized Electrode Formulation Development
+Evaluate Electrolytic Copper Foils,1,2,Optimized Electrode Formulation Development
+Synthesize Broad Research Scope,1,3,Evaluating Existing Techniques for Development
+Prioritize Safety Considerations,1,3,Evaluating Existing Techniques for Development
+Synthesize Literature Data,1,3,Evaluating Existing Techniques for Development
+Explore SIB Advantages,9,3,Evaluating Existing Techniques for Development
+Develop Improved Fire Agents,1,3,Evaluating Existing Techniques for Development
+Apply Model to Datasets,1,3,Evaluating Existing Techniques for Development
+Develop Tracking Techniques,1,3,Evaluating Existing Techniques for Development
+Overcome SEI Formation,1,3,Evaluating Existing Techniques for Development
+Establish Electronics Foundations,1,3,Evaluating Existing Techniques for Development
+Explore Operando XAS Techniques,1,3,Evaluating Existing Techniques for Development
+Advance First Principles Research,1,3,Evaluating Existing Techniques for Development
+Explore System-Level Integration,1,3,Evaluating Existing Techniques for Development
+Develop Hybrid Data Models,1,3,Evaluating Existing Techniques for Development
+Improve AI Recycling Systems,1,3,Evaluating Existing Techniques for Development
+Develop Data-Driven Analysis,1,3,Evaluating Existing Techniques for Development
+Evaluate Grid Integration Challenges,1,3,Evaluating Existing Techniques for Development
+Valorize Electronic Waste,1,3,Evaluating Existing Techniques for Development
+Explore Data Mining Impacts,127,3,Evaluating Existing Techniques for Development
+Develop Accurate Prediction Models,4,3,Evaluating Existing Techniques for Development
+Explore Ion Hosting Capabilities,1,3,Evaluating Existing Techniques for Development
+Compile Production Inventories,1,3,Evaluating Existing Techniques for Development
+Extend Mathematical Modeling,1,3,Evaluating Existing Techniques for Development
+Develop Novel Hybrids,5,3,Evaluating Existing Techniques for Development
+Develop Data-Driven Estimators,3,3,Evaluating Existing Techniques for Development
+Explore Commercialized Applications,2,3,Evaluating Existing Techniques for Development
+Develop Improved Synthetic Routes,1,3,Evaluating Existing Techniques for Development
+Develop Device-Level Design,1,3,Evaluating Existing Techniques for Development
+Develop Guideline for Systems,1,3,Evaluating Existing Techniques for Development
+Quantify Material-Price Impact,1,3,Evaluating Existing Techniques for Development
+Investigate LOB Design Strategies,1,3,Evaluating Existing Techniques for Development
+Envision Commercialization Pathways,1,3,Evaluating Existing Techniques for Development
+Valorize Hazardous Waste,1,3,Evaluating Existing Techniques for Development
+Report Synthesis Protocol,2,3,Evaluating Existing Techniques for Development
+Quantify Migration Barriers,12,3,Evaluating Existing Techniques for Development
+Analyze Energy Supply Trends,1,3,Evaluating Existing Techniques for Development
+Evaluate Techno-Economic Viability,3,3,Evaluating Existing Techniques for Development
+Explore Composite Synergies,5,3,Evaluating Existing Techniques for Development
+Develop Defect Engineering,7,3,Evaluating Existing Techniques for Development
+Investigate Capacity Enhancement Methods,9,3,Evaluating Existing Techniques for Development
+Develop Sustainable Binding Solutions,1,3,Evaluating Existing Techniques for Development
+Develop Generalized Theory,1,3,Evaluating Existing Techniques for Development
+Investigate Material Analysis Bottlenecks,1,4,Microstructural Materials Property Characterization
+Characterize Substrate-Coating Interactions,1,4,Microstructural Materials Property Characterization
+Characterize Impedance Growth,2,4,Microstructural Materials Property Characterization
+Investigate Interfacial Growth Mechanisms,1,4,Microstructural Materials Property Characterization
+Characterize Material Property Differences,2,4,Microstructural Materials Property Characterization
+Characterize Swelling Mechanisms,3,4,Microstructural Materials Property Characterization
+Visualize Charge Heterogeneities,1,4,Microstructural Materials Property Characterization
+Characterize Material Properties Fully,1,4,Microstructural Materials Property Characterization
+Characterize Zero-Strain Insertion,1,4,Microstructural Materials Property Characterization
+Expand Gas Characterization,1,4,Microstructural Materials Property Characterization
+Characterize Material Responses,2,4,Microstructural Materials Property Characterization
+Characterize Na-rich material,1,4,Microstructural Materials Property Characterization
+Investigate Agglomerate Properties,1,4,Microstructural Materials Property Characterization
+Validate Material Interactions,1,4,Microstructural Materials Property Characterization
+Investigate Magnetization Behavior,2,4,Microstructural Materials Property Characterization
+Investigate Structural Defect Effects,2,4,Microstructural Materials Property Characterization
+Characterize Cobalt Properties,1,4,Microstructural Materials Property Characterization
+Investigate Pore Accommodation Mechanisms,1,4,Microstructural Materials Property Characterization
+Characterize Sintering Process,2,4,Microstructural Materials Property Characterization
+Generate Comprehensive Nanomaterial Data,1,4,Microstructural Materials Property Characterization
+Explore ICE of Materials,1,4,Microstructural Materials Property Characterization
+Infer Nanoparticle Orientation,1,4,Microstructural Materials Property Characterization
+Simulate Defects at Interface,1,4,Microstructural Materials Property Characterization
+Characterize Fluorophosphate Materials,1,4,Microstructural Materials Property Characterization
+Review Surface Phenomena,1,4,Microstructural Materials Property Characterization
+Elucidate Glass Ceramic Mechanisms,1,4,Microstructural Materials Property Characterization
+Characterize Li-brookite structure,1,4,Microstructural Materials Property Characterization
+Characterize Delithiation Product Phase,1,4,Microstructural Materials Property Characterization
+Investigate Alloying Behavior,1,4,Microstructural Materials Property Characterization
+Characterize Laser-Induced Vibrations,1,4,Microstructural Materials Property Characterization
+Investigate Porous Space Effects,1,4,Microstructural Materials Property Characterization
+Characterize Two-Phase Mixtures,1,4,Microstructural Materials Property Characterization
+Characterize Vanadium Oxide Polymorphs,1,4,Microstructural Materials Property Characterization
+Investigate Time-Dependent Flux,1,4,Microstructural Materials Property Characterization
+Explore Mesocrystal Applications,5,4,Microstructural Materials Property Characterization
+Characterize Surface Group Composition,2,4,Microstructural Materials Property Characterization
+Characterize Molecular Structure,4,4,Microstructural Materials Property Characterization
+Quantify Thickness Change Mechanisms,1,4,Microstructural Materials Property Characterization
+Evaluate NVO Nanoparticle Performance,1,4,Microstructural Materials Property Characterization
+Quantify CBD Influence on Tortuosity,1,4,Microstructural Materials Property Characterization
+Characterize Asymmetrical Absorption,1,4,Microstructural Materials Property Characterization
+Evaluate Mn3O4 anode,1,5,High-Performance Anode Materials Development
+Evaluate NaCrO2 Cathodes,2,5,High-Performance Anode Materials Development
+Compare Cathode Origins,1,5,High-Performance Anode Materials Development
+Develop Manganese Sulfide Anodes,1,5,High-Performance Anode Materials Development
+Fabricate Anode Architectures,1,5,High-Performance Anode Materials Development
+Explore Quinone Cathode Potential,1,5,High-Performance Anode Materials Development
+Evaluate Co3O4 cathode performance,1,5,High-Performance Anode Materials Development
+Optimize Organic Anode Performance,5,5,High-Performance Anode Materials Development
+Optimize MnO2 Cathode Design,2,5,High-Performance Anode Materials Development
+Optimize Anode Synthesis Conditions,1,5,High-Performance Anode Materials Development
+Evaluate Niobium Anode Performance,6,5,High-Performance Anode Materials Development
+Uncover Cathode Instability,1,5,High-Performance Anode Materials Development
+Evaluate BP anode performance,9,5,High-Performance Anode Materials Development
+Evaluate Titanosilicate Anode Performance,1,5,High-Performance Anode Materials Development
+Optimize Cathode-Anode Integration,1,5,High-Performance Anode Materials Development
+Develop Graphite Cathode Materials,1,5,High-Performance Anode Materials Development
+Resolve Zn Anode Issues,1,5,High-Performance Anode Materials Development
+Stabilize Bi anode structure,1,5,High-Performance Anode Materials Development
+Evaluate Nickel-Rich Cathode Materials,1,5,High-Performance Anode Materials Development
+Develop Hybrid Battery Anodes,5,5,High-Performance Anode Materials Development
+Optimize Cathode System Configuration,1,5,High-Performance Anode Materials Development
+Characterize Anode-Separator Interactions,1,5,High-Performance Anode Materials Development
+Investigate Anode Passivation,4,5,High-Performance Anode Materials Development
+Optimize NCM Cathode Materials,31,5,High-Performance Anode Materials Development
+Develop Novel Mg Anodes,1,5,High-Performance Anode Materials Development
+Explore Zn-based anode application,1,5,High-Performance Anode Materials Development
+Optimize Cathode Doping,1,5,High-Performance Anode Materials Development
+Fabricate Heterostructural Cathodes,1,5,High-Performance Anode Materials Development
+Enhance Anode Charge Storage,1,5,High-Performance Anode Materials Development
+Optimize Manganese Oxide Cathodes,21,5,High-Performance Anode Materials Development
+Develop New Current Collectors,3,5,High-Performance Anode Materials Development
+Investigate KIB Cathodes,1,5,High-Performance Anode Materials Development
+Evaluate PB as anode,1,5,High-Performance Anode Materials Development
+Evaluate Redox-Active Anodes,1,5,High-Performance Anode Materials Development
+Develop Si Anode Strategy,1,5,High-Performance Anode Materials Development
+Understand Cathode Behavior,2,5,High-Performance Anode Materials Development
+Stabilize Cathode-Air Interface,1,5,High-Performance Anode Materials Development
+Optimize Architectures for Anodes,1,5,High-Performance Anode Materials Development
+Develop High Entropy Anodes,1,5,High-Performance Anode Materials Development
+Develop Microcapsule Anodes,1,5,High-Performance Anode Materials Development
+Streamline Anode Synthesis,1,5,High-Performance Anode Materials Development
+Optimize Lithium Salt Formulations,2,6,Optimized Chemical Materials Reaction
+Optimize Catalyst-Temperature Ratios,1,6,Optimized Chemical Materials Reaction
+Optimize CN-PZ-Zn2+ System,1,6,Optimized Chemical Materials Reaction
+Optimize Wet-CO2 Treatment,1,6,Optimized Chemical Materials Reaction
+Optimize Fe2O3@NCNT Hybrid,1,6,Optimized Chemical Materials Reaction
+Optimize Coating Mass Fraction,2,6,Optimized Chemical Materials Reaction
+Optimize Residue Recovery Methods,2,6,Optimized Chemical Materials Reaction
+Optimize Si Volume Expansion,1,6,Optimized Chemical Materials Reaction
+Improve Ionic Diffusion,7,6,Optimized Chemical Materials Reaction
+Scale Up Solution Method,1,6,Optimized Chemical Materials Reaction
+Optimize Membrane Separators,4,6,Optimized Chemical Materials Reaction
+Optimize Three-Phase Interface,1,6,Optimized Chemical Materials Reaction
+Optimize High Cutoff Voltage,2,6,Optimized Chemical Materials Reaction
+Mitigate Iodide Dissolution,1,6,Optimized Chemical Materials Reaction
+Optimize Salt Precursors Production,1,6,Optimized Chemical Materials Reaction
+Optimize Li-excess Composition,1,6,Optimized Chemical Materials Reaction
+Optimize Bismuth Alloying Systems,1,6,Optimized Chemical Materials Reaction
+Optimize Glass Ceramic Processing,1,6,Optimized Chemical Materials Reaction
+Optimize Plasticizer Composition,1,6,Optimized Chemical Materials Reaction
+Optimize Nucleation Parameters,1,6,Optimized Chemical Materials Reaction
+Optimize Infrared Synthesis Methods,1,6,Optimized Chemical Materials Reaction
+Optimize Sodium-Ion Cell,3,6,Optimized Chemical Materials Reaction
+Optimize Foam Manufacturing Process,1,6,Optimized Chemical Materials Reaction
+Optimize SiO/CNF Ratio,1,6,Optimized Chemical Materials Reaction
+Optimize Microrecycling Techniques,1,6,Optimized Chemical Materials Reaction
+Optimize Phase Boundary Formation,2,6,Optimized Chemical Materials Reaction
+Develop Biomass Membranes,3,6,Optimized Chemical Materials Reaction
+Optimize Hydrogen-Bonding Strategies,1,6,Optimized Chemical Materials Reaction
+Enhance Metal Dissolution Kinetics,1,6,Optimized Chemical Materials Reaction
+Optimize Metal Chloride Properties,1,6,Optimized Chemical Materials Reaction
+Replace Vanadium with Alternatives,1,6,Optimized Chemical Materials Reaction
+Optimize Photothermal Leaching,1,6,Optimized Chemical Materials Reaction
+Optimize Potassium Intercalation Chemistry,1,6,Optimized Chemical Materials Reaction
+Optimize Metal Chloride Formation,1,6,Optimized Chemical Materials Reaction
+Develop Aqueous Synthesis Strategy,1,6,Optimized Chemical Materials Reaction
+Optimize Cation-Anion Substitution,1,6,Optimized Chemical Materials Reaction
+Optimize Composition for Conduction,1,6,Optimized Chemical Materials Reaction
+Optimize Monolith Formation,1,6,Optimized Chemical Materials Reaction
+Optimize Drying Temperature Profiles,1,6,Optimized Chemical Materials Reaction
+Optimize Material Intercalation,3,6,Optimized Chemical Materials Reaction
+Optimize Alloy Material Use,1,6,Optimized Chemical Materials Reaction
+Simulate Coupled Multiphysics Systems,1,7,Structural Relationships Exploration Characterization
+Investigate Electronic Connectivity,1,7,Structural Relationships Exploration Characterization
+Elucidate Multiphysics Mechanisms,1,7,Structural Relationships Exploration Characterization
+Simulate Structure Dynamics,1,7,Structural Relationships Exploration Characterization
+Develop Entropy-Based Models,1,7,Structural Relationships Exploration Characterization
+Improve HC reversibility,1,7,Structural Relationships Exploration Characterization
+Characterize DLC Tunability,1,7,Structural Relationships Exploration Characterization
+Explore Long-Range Dependencies,1,7,Structural Relationships Exploration Characterization
+Evaluate CNT Network Effects,1,7,Structural Relationships Exploration Characterization
+Systematize Interphase Construction,1,7,Structural Relationships Exploration Characterization
+Simulate Dynamic Mechanical Behavior,1,7,Structural Relationships Exploration Characterization
+Model Parameter Analysis,3,7,Structural Relationships Exploration Characterization
+Elucidate Key Mechanisms,2,7,Structural Relationships Exploration Characterization
+Investigate Insertion/Extraction Mechanisms,12,7,Structural Relationships Exploration Characterization
+Elucidate Displacement Mechanisms,4,7,Structural Relationships Exploration Characterization
+Analyze Parameter Effects,4,7,Structural Relationships Exploration Characterization
+Characterize Feature Data Points,1,7,Structural Relationships Exploration Characterization
+Understand Enhanced Stability,1,7,Structural Relationships Exploration Characterization
+Elucidate Calendering Effects,1,7,Structural Relationships Exploration Characterization
+Investigate Binder Architecture Effects,1,7,Structural Relationships Exploration Characterization
+Investigate SIMIT Transitions,1,7,Structural Relationships Exploration Characterization
+Characterize Component Dimensions,1,7,Structural Relationships Exploration Characterization
+Relate Lattice Parameters to Capacities,1,7,Structural Relationships Exploration Characterization
+Understand Volume Accommodation Mechanisms,10,7,Structural Relationships Exploration Characterization
+Explore Co-intercalation Hosts,1,7,Structural Relationships Exploration Characterization
+Determine Stable Configurations,1,7,Structural Relationships Exploration Characterization
+Validate Co-Intercalation Mechanism,2,7,Structural Relationships Exploration Characterization
+Develop Stochastic Morphology Model,1,7,Structural Relationships Exploration Characterization
+Investigate Interactions Between Layers,1,7,Structural Relationships Exploration Characterization
+Characterize Network Morphology,7,7,Structural Relationships Exploration Characterization
+Characterize Interface Distortions,1,7,Structural Relationships Exploration Characterization
+Evaluate Network Modification Effects,1,7,Structural Relationships Exploration Characterization
+Elucidate Species Formation,1,7,Structural Relationships Exploration Characterization
+Elucidate Growth Pathways,1,7,Structural Relationships Exploration Characterization
+Elucidate Defect-Property Link,1,7,Structural Relationships Exploration Characterization
+Characterize 3D-rGO Architecture,1,7,Structural Relationships Exploration Characterization
+Understand Disproportionation Pathways,1,7,Structural Relationships Exploration Characterization
+Characterize Li-supplement evolution,1,7,Structural Relationships Exploration Characterization
+Summarize SEI Evolution,1,7,Structural Relationships Exploration Characterization
+Confirm Spinel Structure,5,7,Structural Relationships Exploration Characterization
+Characterize Parameter-Product Relationships,1,7,Structural Relationships Exploration Characterization
+Develop Organic Radical Batteries,1,8,Advanced Battery Technology Development
+Explore MoS2 Battery Potential,1,8,Advanced Battery Technology Development
+Refine Battery Degradation Models,1,8,Advanced Battery Technology Development
+Enhance Lithium-Metal Battery Performance,1,8,Advanced Battery Technology Development
+Investigate Lithium Storage Properties,1,8,Advanced Battery Technology Development
+Explore Lithium-ion phosphate variations,1,8,Advanced Battery Technology Development
+Investigate Commercial Battery Performance,1,8,Advanced Battery Technology Development
+Develop Enhanced Organic Batteries,1,8,Advanced Battery Technology Development
+Evaluate Battery Power Dynamics,1,8,Advanced Battery Technology Development
+Develop ML Battery Models,1,8,Advanced Battery Technology Development
+Investigate Lithium Ion Depletion,1,8,Advanced Battery Technology Development
+Explore Sodium Battery Trends,1,8,Advanced Battery Technology Development
+Explore Energy Harvesting Techniques,1,8,Advanced Battery Technology Development
+Develop Thiophosphate Batteries,1,8,Advanced Battery Technology Development
+Optimize Battery System Profit,1,8,Advanced Battery Technology Development
+Improve Lithium-Ion Transport,3,8,Advanced Battery Technology Development
+Optimize Lithium Applications,1,8,Advanced Battery Technology Development
+Optimize Battery Reuse Methods,1,8,Advanced Battery Technology Development
+Evaluate Micro-Cogeneration Systems,1,8,Advanced Battery Technology Development
+Design Future Battery Systems,1,8,Advanced Battery Technology Development
+Secure Alternative Battery Materials,2,8,Advanced Battery Technology Development
+Characterize Battery Component Design,1,8,Advanced Battery Technology Development
+Investigate Battery System Identification,1,8,Advanced Battery Technology Development
+Scale up Magnesium Batteries,1,8,Advanced Battery Technology Development
+Scale All-Solid-State Batteries,1,8,Advanced Battery Technology Development
+Evaluate Lithium-ion Battery Safety,1,8,Advanced Battery Technology Development
+Characterize Overcharge Behavior,7,8,Advanced Battery Technology Development
+Develop Composite Battery Design,1,8,Advanced Battery Technology Development
+Develop Divalent Batteries,1,8,Advanced Battery Technology Development
+Investigate Alkali Ion Storage,1,8,Advanced Battery Technology Development
+Optimize Nanoscale Battery Design,6,8,Advanced Battery Technology Development
+Optimize Micro-Battery Fabrication,1,8,Advanced Battery Technology Development
+Compare Bio-Inspired Battery Design,1,8,Advanced Battery Technology Development
+Integrate Battery-Capacitor Hybrid,1,8,Advanced Battery Technology Development
+Develop Flexible Lithium Batteries,1,8,Advanced Battery Technology Development
+Quantify LFP Battery Growth,1,8,Advanced Battery Technology Development
+Explore Commercial Battery Recycling,1,8,Advanced Battery Technology Development
+Optimize Safe Energy Storage,1,8,Advanced Battery Technology Development
+Quantify Overcharge Safety Levels,1,8,Advanced Battery Technology Development
+Design Next-Generation Battery Systems,2,8,Advanced Battery Technology Development
+Investigate Polymer Battery Challenges,1,8,Advanced Battery Technology Development
+Investigate Ion Channel Structure,1,9,Investigating Ion-Specific Mechanisms Interactions
+Elucidate Thermodynamic-Kinetic Interactions,2,9,Investigating Ion-Specific Mechanisms Interactions
+Quantify Adsorption Enhancement,2,9,Investigating Ion-Specific Mechanisms Interactions
+Develop Novel Carbon Networks,3,9,Investigating Ion-Specific Mechanisms Interactions
+Investigate Radical Generation Mechanisms,5,9,Investigating Ion-Specific Mechanisms Interactions
+Evaluate CMC-NH4 binder,1,9,Investigating Ion-Specific Mechanisms Interactions
+Characterize (de)lithiation mechanisms,1,9,Investigating Ion-Specific Mechanisms Interactions
+Quantify Sodium Levels,1,9,Investigating Ion-Specific Mechanisms Interactions
+Understand Electrostatic Shielding Effects,1,9,Investigating Ion-Specific Mechanisms Interactions
+Characterize Solvation Complex Stability,1,9,Investigating Ion-Specific Mechanisms Interactions
+Elucidate Inductive Stabilization Effects,1,9,Investigating Ion-Specific Mechanisms Interactions
+Explore Sulfate Radical Mechanisms,1,9,Investigating Ion-Specific Mechanisms Interactions
+Investigate Perchlorate Degradation Mechanisms,1,9,Investigating Ion-Specific Mechanisms Interactions
+Elucidate Ring-Opening Mechanisms,1,9,Investigating Ion-Specific Mechanisms Interactions
+Elucidate Solvent-Plane Interactions,1,9,Investigating Ion-Specific Mechanisms Interactions
+Investigate Carbon Alignment Mechanisms,1,9,Investigating Ion-Specific Mechanisms Interactions
+Accelerate Magnesium Ion Research,1,9,Investigating Ion-Specific Mechanisms Interactions
+Investigate Reaction Initiation Mechanisms,1,9,Investigating Ion-Specific Mechanisms Interactions
+Stabilize Interlayer Interactions,1,9,Investigating Ion-Specific Mechanisms Interactions
+Scale Ion Quantities,1,9,Investigating Ion-Specific Mechanisms Interactions
+Explore Li-ion Diffusion,2,9,Investigating Ion-Specific Mechanisms Interactions
+Develop Structural Kinetics Models,1,9,Investigating Ion-Specific Mechanisms Interactions
+Investigate Ion Recovery Efficiency,1,9,Investigating Ion-Specific Mechanisms Interactions
+Investigate Electron Transport Networks,1,9,Investigating Ion-Specific Mechanisms Interactions
+Explore Iron Sulfide Conversion,1,9,Investigating Ion-Specific Mechanisms Interactions
+Investigate Ion-Phosphate Interactions,1,9,Investigating Ion-Specific Mechanisms Interactions
+Confirm Covalent Bond Role,1,9,Investigating Ion-Specific Mechanisms Interactions
+Elucidate Oxygen-Redox Mechanisms,1,9,Investigating Ion-Specific Mechanisms Interactions
+Quantify Fluorine Effects on Ni,1,9,Investigating Ion-Specific Mechanisms Interactions
+Characterize Pyrolysis Crosslinking,1,9,Investigating Ion-Specific Mechanisms Interactions
+Investigate Redox Capacity,1,9,Investigating Ion-Specific Mechanisms Interactions
+Model Impedance Charge Transfer,1,9,Investigating Ion-Specific Mechanisms Interactions
+Investigate Radiolytic Growth Mechanisms,1,9,Investigating Ion-Specific Mechanisms Interactions
+Reduce Parasitic Reactions,1,9,Investigating Ion-Specific Mechanisms Interactions
+Investigate Light-Induced Enhancement,1,9,Investigating Ion-Specific Mechanisms Interactions
+Investigate Ga-doping effects.,1,9,Investigating Ion-Specific Mechanisms Interactions
+Investigate Electron Transfer Difficulties,1,9,Investigating Ion-Specific Mechanisms Interactions
+Characterize SGPE Sodium Half-Cells,1,9,Investigating Ion-Specific Mechanisms Interactions
+Investigate Cationic Site Effects,1,9,Investigating Ion-Specific Mechanisms Interactions
+Elucidate Mechanism Pathways,1,9,Investigating Ion-Specific Mechanisms Interactions
+Elucidate Lithium-Sulfur Systems,1,9,Investigating Ion-Specific Mechanisms Interactions
+Validate Hubbard Method,1,10,Practical Performance Validation Techniques
+Validate Laboratory Innovations,1,10,Practical Performance Validation Techniques
+Assess Safety Under Stress,1,10,Practical Performance Validation Techniques
+Model Validation in Vehicles,1,10,Practical Performance Validation Techniques
+Model Validation in Urban Areas,1,10,Practical Performance Validation Techniques
+Assess Safety Performance,2,10,Practical Performance Validation Techniques
+Validate Findings with More Data,2,10,Practical Performance Validation Techniques
+Evaluate ZIBs for scale,5,10,Practical Performance Validation Techniques
+Validate SAOS Testing Methods,1,10,Practical Performance Validation Techniques
+Evaluate Additive Performance Across Temperatures,2,10,Practical Performance Validation Techniques
+Evaluate Protective Shell Performance,1,10,Practical Performance Validation Techniques
+Evaluate Voltage Range Performance,1,10,Practical Performance Validation Techniques
+Quantify Solvent Ratio,1,10,Practical Performance Validation Techniques
+Investigate Capacity Dependence,1,10,Practical Performance Validation Techniques
+Investigate Theoretical Predictions Discrepancies,1,10,Practical Performance Validation Techniques
+Integrate Balancing into SoH Estimation,1,10,Practical Performance Validation Techniques
+Evaluate ZAB technology,1,10,Practical Performance Validation Techniques
+Validate Antiferromagnetic Stability,1,10,Practical Performance Validation Techniques
+Validate Interface Stability Mechanisms,2,10,Practical Performance Validation Techniques
+Evaluate Heat Treatment,1,10,Practical Performance Validation Techniques
+Evaluate Meltblown Separator Performance,1,10,Practical Performance Validation Techniques
+Validate RUL Frameworks,1,10,Practical Performance Validation Techniques
+Quantify Heat Sources,2,10,Practical Performance Validation Techniques
+Develop Fast Characterization Methods,1,10,Practical Performance Validation Techniques
+Evaluate Black Phosphorus Performance,2,10,Practical Performance Validation Techniques
+Evaluate ETS Additive Performance,1,10,Practical Performance Validation Techniques
+Evaluate GBM advancements ZABs,1,10,Practical Performance Validation Techniques
+Evaluate Bending Stability,15,10,Practical Performance Validation Techniques
+Validate Simulation-Experiment Correlation,8,10,Practical Performance Validation Techniques
+Evaluate CPCM Performance,4,10,Practical Performance Validation Techniques
+Evaluate SIB/PIB Replacement,1,10,Practical Performance Validation Techniques
+Validate Solver Across Grids,1,10,Practical Performance Validation Techniques
+Evaluate Abuse Resistance,1,10,Practical Performance Validation Techniques
+Evaluate DFT Calculations,1,10,Practical Performance Validation Techniques
+Evaluate Cellulose Composite Performance,1,10,Practical Performance Validation Techniques
+Quantify Energy Differences,2,10,Practical Performance Validation Techniques
+Evaluate NCM622 Performance,3,10,Practical Performance Validation Techniques
+Evaluate CPO-ELM-ABKDE Model,1,10,Practical Performance Validation Techniques
+Validate AlF4-based AIB cell,1,10,Practical Performance Validation Techniques
+Validate Co-Coordination Force,1,10,Practical Performance Validation Techniques
+Evaluate Module SOH,1,10,Practical Performance Validation Techniques
+Improve MOF Stability,5,11,Mechanistic Degradation Analysis Pathways
+Investigate CEI Stabilization,1,11,Mechanistic Degradation Analysis Pathways
+Quantify LFP Recycling Benefits,1,11,Mechanistic Degradation Analysis Pathways
+Distinguish Hydrate/Hydroxide Loss,1,11,Mechanistic Degradation Analysis Pathways
+Optimize Trade-off Duration Aging,1,11,Mechanistic Degradation Analysis Pathways
+Classify Fault Detection Methods,1,11,Mechanistic Degradation Analysis Pathways
+Elucidate Capacity Stability,1,11,Mechanistic Degradation Analysis Pathways
+Evaluate Antioxidative Stability,1,11,Mechanistic Degradation Analysis Pathways
+Evaluate Cycling Performance Degradation,1,11,Mechanistic Degradation Analysis Pathways
+Investigate Accelerated Aging Effects,3,11,Mechanistic Degradation Analysis Pathways
+Mitigate Field-Induced Delithiation,1,11,Mechanistic Degradation Analysis Pathways
+Evaluate Cell Performance Under Stress,1,11,Mechanistic Degradation Analysis Pathways
+Investigate Thermal Healing,1,11,Mechanistic Degradation Analysis Pathways
+Characterize End-of-Life Chemistry,1,11,Mechanistic Degradation Analysis Pathways
+Quantify Calendar Aging Effects,2,11,Mechanistic Degradation Analysis Pathways
+Compare Crack Behaviors,1,11,Mechanistic Degradation Analysis Pathways
+Address Dissolving Issues,1,11,Mechanistic Degradation Analysis Pathways
+Quantify Leachate Metal Content,2,11,Mechanistic Degradation Analysis Pathways
+Characterize Leaching Kinetics,3,11,Mechanistic Degradation Analysis Pathways
+Investigate Kinetic Loss,1,11,Mechanistic Degradation Analysis Pathways
+Quantify Leaching Reaction,1,11,Mechanistic Degradation Analysis Pathways
+Extend Degradation Modeling,2,11,Mechanistic Degradation Analysis Pathways
+Expand Recycling Method,2,11,Mechanistic Degradation Analysis Pathways
+Stabilize Activation Process,1,11,Mechanistic Degradation Analysis Pathways
+Evaluate Membrane Separation Trends,1,11,Mechanistic Degradation Analysis Pathways
+Predict Degradation Increment,1,11,Mechanistic Degradation Analysis Pathways
+Elucidate Loss Mechanisms,1,11,Mechanistic Degradation Analysis Pathways
+Investigate Potential Limits,1,11,Mechanistic Degradation Analysis Pathways
+Evaluate Degradation/Estimation Methods,1,11,Mechanistic Degradation Analysis Pathways
+Investigate Capacity Retention Loss,1,11,Mechanistic Degradation Analysis Pathways
+Investigate Mechanical Instabilities,4,11,Mechanistic Degradation Analysis Pathways
+Evaluate Capacity as Aging,1,11,Mechanistic Degradation Analysis Pathways
+Investigate Power Fade Mechanisms,3,11,Mechanistic Degradation Analysis Pathways
+Evaluate PPH-CN protection effects,1,11,Mechanistic Degradation Analysis Pathways
+Quantify FR Degradation Mechanisms,1,11,Mechanistic Degradation Analysis Pathways
+Compare Thermal Runaway Characteristics,2,11,Mechanistic Degradation Analysis Pathways
+Recover Useful Output Power,1,11,Mechanistic Degradation Analysis Pathways
+Investigate Current Imbalance Causes,1,11,Mechanistic Degradation Analysis Pathways
+Stabilize Interface Failure Modes,1,11,Mechanistic Degradation Analysis Pathways
+Improve Anti-Short Circuit Methods,1,11,Mechanistic Degradation Analysis Pathways
+Evaluate Bioleaching Processes,1,11,Mechanistic Degradation Analysis Pathways
+Elucidate S Bonding Behavior,1,9,Investigating Ion-Specific Mechanisms Interactions
+Investigate ZC Matrix Effects,1,7,Structural Relationships Exploration Characterization
+Elucidate pH Dependence,1,9,Investigating Ion-Specific Mechanisms Interactions
+Characterize Aggregation Pathways,1,7,Structural Relationships Exploration Characterization
+Evaluate Mechanical-Electrochemical Relationships,1,2,Optimized Electrode Formulation Development
+Validate PAEP for Online Prediction,1,10,Practical Performance Validation Techniques
+Explore Diverse Applications,167,3,Evaluating Existing Techniques for Development
+Optimize Interconnected NW Structures,1,0,Optimized Design for Practicality

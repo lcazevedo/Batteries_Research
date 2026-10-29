@@ -1,0 +1,101 @@
+sample_id,doc_key,extracted_label,predicted_category,expert_category
+1,10.1149/2.0101614jes_phrase_7,Metal Dissolution-Capacity Fade Correlation,Disagreement over Preparation Method,Debate on Novel Anode Candidates
+2,10.1016/j.jallcom.2015.06.188_phrase_3,Bond Character Interpretation,Disagreement over Characterization Methods,Disagreement over Novel Material Properties
+3,10.1016/j.electacta.2018.09.059_phrase_4,Full-Cell Capacity Retention,Disagreement over New Battery Materials,Debate on Capacity Trade-offs
+4,10.1016/j.est.2025.116612_phrase_2,Mechanical Deformation Cause ISC,Debate on Temperature-Induced Degradation,Disagreement over Novel Material Properties
+5,10.1016/j.est.2024.112443_phrase_6,Temperature’s Effect on NMC Lifetime,Debate on Temperature-Induced Degradation,Debate on Cathode Material Performance
+6,10.1039/d3ce01111a_phrase_2,Anode Conductivity Limitations,Debate on Novel Anode Candidates,Debate on Capacity Trade-offs
+7,10.1002/slct.201702962_phrase_2,LiVO3 Capacity Retention,Debate on Lithium Storage Mechanisms,Debate on Capacity Trade-offs
+8,10.3390/nano14171410_phrase_1,CTP vs. SPC Carbonization,Disagreement over Preparation Method,Disagreement over Preparation Method
+9,10.1016/j.nanoen.2023.108747_phrase_0,NFPP Cathode Material,Debate on Cathode Material Performance,Debate on Cathode Material Performance
+10,10.1039/d4na00416g_phrase_4,PYPBIPA8.5-1.5 Performance,Debate on Capacity Trade-offs,Debate on Capacity Trade-offs
+11,10.1038/srep08085_phrase_4,Li-Rich Alloy Composition,Debate on Lithium Storage Mechanisms,Debate on Lithium Storage Mechanisms
+12,10.1039/d4ya00014e_phrase_5,NTO vs. MoVO Oxide,Debate on MnO2 Doping,Disagreement over New Battery Materials
+13,10.1149/2.0151508jes_phrase_2,Electrode Structure vs. Capacity,Disagreement over Novel Material Properties,Debate on Novel Anode Candidates
+14,10.1016/j.electacta.2015.09.129_phrase_5,Ge@RGO Anode Performance,Debate on Novel Anode Candidates,Debate on Capacity Trade-offs
+15,10.1016/j.jelechem.2021.115495_phrase_6,Anthraquinone Position Effects,Disagreement over Redox Incorporation Mechanisms,Debate on Novel Anode Candidates
+16,10.1016/j.jallcom.2020.156210_phrase_5,NCM811 Capacity Retention,Debate on Capacity Trade-offs,Debate on Capacity Trade-offs
+17,10.1149/2.0781704jes_phrase_4,Characterization of Aged Electrodes,Disagreement over Novel Material Properties,Disagreement over Characterization Methods
+18,10.1149/1.2171815_phrase_1,Template-mediated electroplating method,Disagreement over Novel Material Properties,Disagreement over Novel Material Properties
+19,10.1002/aenm.202101514_phrase_4,SWCNT Cathode Performance Metrics,Debate on Cathode Material Performance,Debate on Cathode Material Performance
+20,10.1016/j.ssi.2012.08.019_phrase_1,LiNi0.9Co0.05[Mn-1/2 Mg-1/2](0.05)O-2 Structure,Debate on MnO2 Doping,Debate on MnO2 Doping
+21,10.1007/s10854-019-00709-2_phrase_0,Synthesis Method Validation,Disagreement over Characterization Methods,Disagreement over Preparation Method
+22,10.1021/acs.chemmater.5b04505_phrase_2,NMC Interaction with Bacteria,Disagreement over Redox Incorporation Mechanisms,Debate on Cathode Material Performance
+23,10.1002/ente.202101105_phrase_2,Iron Spin State Distribution,Debate on MnO2 Doping,Disagreement over Characterization Methods
+24,10.1088/1361-6528/abf2ff_phrase_7,NCM532 Degradation Mechanisms,Debate on Temperature-Induced Degradation,Debate on Temperature-Induced Degradation
+25,10.1007/s10854-023-09840-7_phrase_0,Sustainable Battery Material Development,Disagreement over New Battery Materials,Debate on Lithium Storage Mechanisms
+26,10.1016/j.apsusc.2018.03.093_phrase_4,Electron Beam Separator Safety,Debate on Cathode Material Performance,Disagreement over Preparation Method
+27,10.1016/j.ssi.2005.06.020_phrase_0,Temperature’s Impact on ILs,Debate on Temperature-Induced Degradation,Disagreement over Novel Material Properties
+28,10.1016/j.jcis.2019.11.034_phrase_4,MoS2 Nanotube Performance,Debate on MnO2 Doping,Debate on MnO2 Doping
+29,10.1039/c6cs00875e_phrase_4,Cathode Material Viability,Debate on Cathode Material Performance,Disagreement over New Battery Materials
+30,10.1002/adfm.201906548_phrase_6,Electrode Performance Comparison,Disagreement over Novel Material Properties,Disagreement over Novel Material Properties
+31,10.1039/d0cp03942j_phrase_0,Cathode Performance Mechanisms,Debate on Cathode Material Performance,Debate on Cathode Material Performance
+32,10.1016/j.mseb.2012.02.007_phrase_1,AQ/PT Discharge Capacity,Debate on Temperature-Induced Degradation,Debate on Cathode Material Performance
+33,10.1039/c6ra04871d_phrase_3,Hybrid Material Synthesis Method,Disagreement over Preparation Method,Disagreement over Preparation Method
+34,10.1016/j.jcis.2024.09.138_phrase_3,Ti3O5 Phase Characterization,Debate on MnO2 Doping,Disagreement over Novel Material Properties
+35,10.1016/j.ceja.2024.100648_phrase_6,Counter-current Extraction Mechanism,Disagreement over Redox Incorporation Mechanisms,Debate on Lithium Storage Mechanisms
+36,10.1016/j.electacta.2011.05.007_phrase_1,LATP Content-Uptake Relationship,Debate on Capacity Trade-offs,Debate on Capacity Trade-offs
+37,10.1007/s40242-015-4421-y_phrase_4,Discharge Capacity Measurement,Disagreement over New Battery Materials,Disagreement over New Battery Materials
+38,10.1109/LCSYS.2023.3304248_phrase_0,Battery Management System Importance,Disagreement over New Battery Materials,Disagreement over New Battery Materials
+39,10.1016/j.jechem.2020.06.031_phrase_9,Anode Material Performance,Debate on Novel Anode Candidates,Debate on Novel Anode Candidates
+40,10.5012/bkcs.2011.32.12.4205_phrase_3,Characterization of Li2Mn0.5Fe0.5SiO4,Debate on Lithium Storage Mechanisms,Disagreement over Nanoscale Effectiveness
+41,10.1021/acsenergylett.3c02132_phrase_0,Cu Foil Relevance/Role,Disagreement over Characterization Methods,Debate on Novel Anode Candidates
+42,10.1016/j.ensm.2022.08.037_phrase_4,Si Anode Capacity Decline,Debate on Novel Anode Candidates,Debate on Novel Anode Candidates
+43,10.1007/s10008-012-1659-x_phrase_5,Capacity Retention Performance,Debate on Capacity Trade-offs,Debate on Capacity Trade-offs
+44,10.1021/acsami.7b11721_phrase_2,SEI Layer Formation Mechanism,Disagreement over Redox Incorporation Mechanisms,Disagreement over Nanoscale Effectiveness
+45,10.1039/d0qm01031f_phrase_1,ZnO Nanoparticle Integration Method,Debate on MnO2 Doping,Disagreement over Characterization Methods
+46,10.1021/acs.chemmater.5b02104_phrase_8,Li Population Quantification Method,Debate on Lithium Storage Mechanisms,Debate on Lithium Storage Mechanisms
+47,10.1002/cssc.202301053_phrase_2,HTC Pretreatment vs. Direct Pyrolysis,Disagreement over Preparation Method,Disagreement over Preparation Method
+48,10.1016/j.electacta.2012.03.160_phrase_4,Doping Capacity Increase Threshold,Debate on MnO2 Doping,Debate on MnO2 Doping
+49,10.1016/j.jpowsour.2025.237282_phrase_7,Pore Structure Engineering Impact,Disagreement over Nanoscale Effectiveness,Disagreement over Nanoscale Effectiveness
+50,10.1016/j.mtener.2020.100474_phrase_7,Cathode Development Guidance,Debate on Cathode Material Performance,Disagreement over Redox Incorporation Mechanisms
+51,10.1039/c6ta01821a_phrase_2,Supercapacitor Carbon Performance,Debate on MnO2 Doping,Disagreement over Novel Material Properties
+52,10.1039/c7ra09349g_phrase_1,I-rGO vs. rGO Performance,Debate on Capacity Trade-offs,Debate on Capacity Trade-offs
+53,10.1016/j.electacta.2024.144997_phrase_1,LIB Thermal Failure Mechanism,Debate on Lithium Storage Mechanisms,Debate on Lithium Storage Mechanisms
+54,10.1002/ente.201700760_phrase_0,Novel Anode Material Synthesis,Debate on Novel Anode Candidates,Debate on Novel Anode Candidates
+55,10.1007/s12274-021-3349-4_phrase_5,Layered Cathode Design Potential,Debate on Cathode Material Performance,Disagreement over New Battery Materials
+56,10.1021/acs.jpcc.8b11044_phrase_2,Lattice Conductivity Comparison,Disagreement over Novel Material Properties,Debate on Temperature-Induced Degradation
+57,10.1016/j.jallcom.2024.174423_phrase_2,Synthesis Approach Performance,Debate on Capacity Trade-offs,Disagreement over Preparation Method
+58,10.1016/j.jpowsour.2024.235160_phrase_5,Discharge Capacity Retention,Disagreement over New Battery Materials,Debate on Capacity Trade-offs
+59,10.3390/inorganics11050182_phrase_5,Silicon Anode Material Challenges,Debate on Novel Anode Candidates,Debate on Novel Anode Candidates
+60,10.1002/aesr.202400297_phrase_3,Decomposition Product Formation,Disagreement over Redox Incorporation Mechanisms,Disagreement over Redox Incorporation Mechanisms
+61,10.3390/batteries8120255_phrase_8,In Situ NBTs - SSLB Mechanisms,Disagreement over Nanoscale Effectiveness,Disagreement over Nanoscale Effectiveness
+62,10.1021/acs.jpclett.8b02725_phrase_6,Cathode Process Diversity,Debate on Cathode Material Performance,Disagreement over Redox Incorporation Mechanisms
+63,10.1007/s00894-024-06011-1_phrase_13,Convergence Radius Quantification,Disagreement over Characterization Methods,Debate on Capacity Trade-offs
+64,10.1021/acsenergylett.6b00172_phrase_3,Turbostratic Domain Defectivity,Debate on Temperature-Induced Degradation,Debate on MnO2 Doping
+65,10.3390/inventions4030041_phrase_7,Model Applicability Evaluation,Disagreement over Characterization Methods,Debate on Capacity Trade-offs
+66,10.1002/celc.201801333_phrase_2,Na-ion Cell Performance,Disagreement over New Battery Materials,Debate on Capacity Trade-offs
+67,10.1007/s10853-012-6292-7_phrase_7,Hydrocarbon Content-Feeding Rate Correlation,Debate on Temperature-Induced Degradation,Debate on Temperature-Induced Degradation
+68,10.1021/acsami.9b13447_phrase_0,Mg Battery vs. Li Ion,Disagreement over New Battery Materials,Debate on Capacity Trade-offs
+69,10.1021/acsaem.9b00574_phrase_4,Mechanochemical Synthesis Optimization,Disagreement over Nanoscale Effectiveness,Disagreement over Redox Incorporation Mechanisms
+70,10.1002/slct.201901632_phrase_2,KOH Activation Optimization,Disagreement over Characterization Methods,Debate on Novel Anode Candidates
+71,10.1016/j.jpowsour.2020.228151_phrase_2,Electrolyte Transport Mechanism,Disagreement over Novel Material Properties,Debate on Novel Anode Candidates
+72,10.1098/rspa.2024.0230_phrase_6,ASSB Mechanical Response,Debate on Temperature-Induced Degradation,Disagreement over Novel Material Properties
+73,10.1016/j.jallcom.2018.04.296_phrase_2,Nanomaterial Synthesis Optimization,Disagreement over Nanoscale Effectiveness,Disagreement over Preparation Method
+74,10.3390/batteries9030157_phrase_3,Commercialization of ASSBs,Disagreement over Characterization Methods,Disagreement over Characterization Methods
+75,10.1007/s10008-019-04419-x_phrase_2,Cathode Performance Metrics,Debate on Cathode Material Performance,Debate on Cathode Material Performance
+76,10.1016/j.cej.2025.167433_phrase_1,Layer Fabrication Trade-offs,Disagreement over Nanoscale Effectiveness,Disagreement over Preparation Method
+77,10.1016/j.matchemphys.2013.12.003_phrase_0,Electrochemical Etching Film Fabrication,Disagreement over Novel Material Properties,Disagreement over Novel Material Properties
+78,10.1016/j.elecom.2012.09.014_phrase_0,Anode Material Selection,Debate on Novel Anode Candidates,Debate on Novel Anode Candidates
+79,10.1002/advs.202410653_phrase_2,Unknown Underlying Mechanism,Disagreement over Redox Incorporation Mechanisms,Debate on Lithium Storage Mechanisms
+80,10.1016/j.jpowsour.2008.07.035_phrase_7,Silicon Content vs. Capacity,Disagreement over Nanoscale Effectiveness,Debate on Novel Anode Candidates
+81,10.1002/adma.201802745_phrase_3,Nanomaterial Synthesis Methodologies,Disagreement over Nanoscale Effectiveness,Debate on Novel Anode Candidates
+82,10.1021/acsami.6b05629_phrase_5,Coating Technique Effectiveness,Disagreement over Preparation Method,Disagreement over Characterization Methods
+83,10.1039/c5ta06393k_phrase_2,Template-Based Anode Fabrication,Debate on Novel Anode Candidates,Debate on Novel Anode Candidates
+84,10.1039/c8ta02067a_phrase_3,Ni Doping Effect Analysis,Debate on MnO2 Doping,Debate on MnO2 Doping
+85,10.1039/c2ee22591c_phrase_3,CTAB Effect on Performance,Debate on Capacity Trade-offs,Disagreement over Redox Incorporation Mechanisms
+86,10.1016/j.jpowsour.2025.237358_phrase_12,Second Harmonic Sensitivity,Disagreement over Characterization Methods,Disagreement over Characterization Methods
+87,10.1021/acs.accounts.7b00523_phrase_21,Lithium Interphase Concentration,Debate on Lithium Storage Mechanisms,Debate on Novel Anode Candidates
+88,10.1016/j.matlet.2014.10.020_phrase_1,High Current Density Performance,Debate on Capacity Trade-offs,Debate on Cathode Material Performance
+89,10.1016/j.jpowsour.2019.01.047_phrase_6,Lithium Electrode Investigations,Debate on Lithium Storage Mechanisms,Debate on Novel Anode Candidates
+90,10.1039/d2ta09266b_phrase_2,Polyolefin Separator Innovation,Disagreement over Preparation Method,Disagreement over Preparation Method
+91,10.1002/eem2.12127_phrase_11,Net-C18 Potential Applications,Disagreement over Redox Incorporation Mechanisms,Debate on Novel Anode Candidates
+92,10.20964/2022.02.21_phrase_2,Electrode Performance Variability,Disagreement over Novel Material Properties,Disagreement over Novel Material Properties
+93,10.1021/acsaem.2c02183_phrase_3,CNT Scaffold Efficacy,Disagreement over Preparation Method,Debate on Novel Anode Candidates
+94,10.1039/c9ee01478k_phrase_1,Chemical Leaching Efficiency,Disagreement over Preparation Method,Disagreement over Preparation Method
+95,10.1007/s10971-017-4372-5_phrase_3,LiNiPO4 Formation Morphology,Debate on Lithium Storage Mechanisms,Disagreement over Nanoscale Effectiveness
+96,10.1002/bte2.20230021_phrase_8,MXene Etching Performance,Disagreement over Nanoscale Effectiveness,Disagreement over New Battery Materials
+97,10.1016/j.applthermaleng.2017.09.090_phrase_1,Pouch Battery Performance Variability,Disagreement over New Battery Materials,Disagreement over Nanoscale Effectiveness
+98,10.1016/j.jechem.2021.01.038_phrase_7,High Voltage Cathode Materials,Debate on Cathode Material Performance,Debate on Cathode Material Performance
+99,10.1039/d5se00591d_phrase_2,CoP/C Synthesis Method,Disagreement over Redox Incorporation Mechanisms,Disagreement over Preparation Method
+100,10.1016/j.ssi.2024.116548_phrase_5,SEI Formation Timing,Disagreement over Characterization Methods,Disagreement over Characterization Methods

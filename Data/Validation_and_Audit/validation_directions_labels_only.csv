@@ -1,0 +1,101 @@
+sample_id,doc_key,extracted_label,predicted_category,expert_category
+1,10.1007/s40820-025-01858-2_phrase_5,Evaluate Performance Wide Temperatures,Practical Performance Validation Techniques,Practical Performance Validation Techniques
+2,10.1039/c4nr01836b_phrase_8,Expand Method to Materials,Nanoscale Materials Design Optimization,Optimized Chemical Materials Reaction
+3,10.1016/j.jclepro.2022.132872_phrase_12,Optimize Second-Life Durations,Optimized Design for Practicality,Optimized Design for Practicality
+4,10.1007/s11814-022-1304-z_phrase_4,Investigate Pore Clogging Mechanisms,Microstructural Materials Property Characterization,Microstructural Materials Property Characterization
+5,10.1016/j.apsusc.2018.07.210_phrase_4,Characterize Film Properties,Microstructural Materials Property Characterization,Mechanistic Degradation Analysis Pathways
+6,10.3390/batteries8080098_phrase_2,Evaluate Composite Cycleability,Mechanistic Degradation Analysis Pathways,Mechanistic Degradation Analysis Pathways
+7,10.1039/c8ta05068f_phrase_4,Improve Cathode Stability,High-Performance Anode Materials Development,Optimized Design for Practicality
+8,10.1016/j.scib.2019.05.025_phrase_3,Evaluate Stability Under Conditions,Practical Performance Validation Techniques,Practical Performance Validation Techniques
+9,10.1016/j.jenvman.2021.113091_phrase_2,Analyze Electric Vehicle Trends,Evaluating Existing Techniques for Development,Practical Performance Validation Techniques
+10,10.1002/adma.202207344_phrase_0,Develop Next-Generation Battery Technology,Advanced Battery Technology Development,Advanced Battery Technology Development
+11,10.1021/acsomega.3c00990_phrase_0,Evaluate Anode Performance,High-Performance Anode Materials Development,High-Performance Anode Materials Development
+12,10.1002/smll.202003268_phrase_0,Investigate SEI Formation/Properties,Investigating Ion-Specific Mechanisms Interactions,Investigating Ion-Specific Mechanisms Interactions
+13,10.1016/j.jpowsour.2016.10.034_phrase_6,Evaluate Electrode Performance,Optimized Electrode Formulation Development,Optimized Electrode Formulation Development
+14,10.20964/2019.01.14_phrase_4,Evaluate Aging Mechanisms,Mechanistic Degradation Analysis Pathways,Mechanistic Degradation Analysis Pathways
+15,10.1039/c8ta03633k_phrase_4,Elucidate Li Insertion Behavior,Structural Relationships Exploration Characterization,Nanoscale Materials Design Optimization
+16,10.1002/smll.202104264_phrase_6,Develop Battery Technologies,Advanced Battery Technology Development,High-Performance Anode Materials Development
+17,10.1002/advs.202508121_phrase_4,Investigate Electrolyte Degradation,Optimized Electrode Formulation Development,Optimized Electrode Formulation Development
+18,10.1021/acs.nanolett.2c03545_phrase_4,Optimize 3D-printed electrode design,Optimized Electrode Formulation Development,Investigating Ion-Specific Mechanisms Interactions
+19,10.1149/1945-7111/ac2d17_phrase_0,Develop Improved Detection Methods,Evaluating Existing Techniques for Development,Mechanistic Degradation Analysis Pathways
+20,10.1021/accountsmr.3c00248_phrase_15,Explore Intermolecular Interactions,Investigating Ion-Specific Mechanisms Interactions,Optimized Chemical Materials Reaction
+21,10.1016/j.cej.2021.133456_phrase_2,Optimize Material Performance,Nanoscale Materials Design Optimization,High-Performance Anode Materials Development
+22,10.1016/j.electacta.2021.138447_phrase_4,Elucidate Storage Mechanisms,Structural Relationships Exploration Characterization,Investigating Ion-Specific Mechanisms Interactions
+23,10.1002/aenm.202101751_phrase_5,Summarize Sulfate Advances,Investigating Ion-Specific Mechanisms Interactions,Evaluating Existing Techniques for Development
+24,10.1039/c4ta06361a_phrase_3,Characterize Material Bonding,Microstructural Materials Property Characterization,Microstructural Materials Property Characterization
+25,10.1002/slct.201903888_phrase_2,Optimize Cell Performance,Optimized Design for Practicality,High-Performance Anode Materials Development
+26,10.1016/j.seppur.2024.130036_phrase_9,Assess Economic-Environmental Impacts,Evaluating Existing Techniques for Development,Optimized Design for Practicality
+27,10.1016/j.memsci.2023.121453_phrase_1,Predict Polymer Conductivity,Microstructural Materials Property Characterization,Microstructural Materials Property Characterization
+28,10.1016/j.jpowsour.2019.226750_phrase_5,Investigate Volume Change Effects,Microstructural Materials Property Characterization,Microstructural Materials Property Characterization
+29,10.1016/j.cej.2025.160407_phrase_7,Develop Integrated Configurations,Evaluating Existing Techniques for Development,Optimized Design for Practicality
+30,10.1016/j.jcis.2025.137790_phrase_4,Optimize Electrode Performance,Optimized Electrode Formulation Development,Optimized Electrode Formulation Development
+31,10.1039/d1ta10343a_phrase_6,Explore SIB Applications,Evaluating Existing Techniques for Development,Optimized Design for Practicality
+32,10.26599/NRE.2024.9120133_phrase_2,Characterize Si-O bonding,Microstructural Materials Property Characterization,Microstructural Materials Property Characterization
+33,10.1016/j.electacta.2017.05.053_phrase_3,Evaluate Enhanced Rate Capability,Practical Performance Validation Techniques,Practical Performance Validation Techniques
+34,10.1088/2053-1591/aafe55_phrase_6,Investigate Synergistic Mechanisms,Investigating Ion-Specific Mechanisms Interactions,High-Performance Anode Materials Development
+35,10.1016/j.mtener.2018.10.002_phrase_8,Elucidate Hetero-Architectural Effects,Structural Relationships Exploration Characterization,Optimized Chemical Materials Reaction
+36,10.1016/j.jpowsour.2019.226857_phrase_4,Evaluate Battery Performance,Advanced Battery Technology Development,High-Performance Anode Materials Development
+37,10.1016/j.jallcom.2023.169993_phrase_5,Optimize Resource Utilization Methods,Optimized Design for Practicality,High-Performance Anode Materials Development
+38,10.1007/s11581-022-04840-9_phrase_0,Optimize Composite Synthesis,Optimized Design for Practicality,Investigating Ion-Specific Mechanisms Interactions
+39,10.1021/acsami.2c06991_phrase_0,Mitigate Capacity Fade,Mechanistic Degradation Analysis Pathways,High-Performance Anode Materials Development
+40,10.1002/aenm.202401908_phrase_0,Develop Potassium-ion Anodes,High-Performance Anode Materials Development,Optimized Chemical Materials Reaction
+41,10.1016/j.nanoen.2024.110475_phrase_6,Optimize CSE Material Properties,Nanoscale Materials Design Optimization,Nanoscale Materials Design Optimization
+42,10.1016/j.est.2020.102039_phrase_2,Evaluate Aging Mechanisms,Mechanistic Degradation Analysis Pathways,Evaluating Existing Techniques for Development
+43,10.1016/j.jpowsour.2024.234355_phrase_5,Evaluate Battery Performance Stability,Advanced Battery Technology Development,Investigating Ion-Specific Mechanisms Interactions
+44,10.1016/j.jpowsour.2022.231560_phrase_2,Develop Physics-Informed Models,Structural Relationships Exploration Characterization,Structural Relationships Exploration Characterization
+45,10.1016/j.matlet.2024.137462_phrase_2,Explore Ga Concentration Effects,Investigating Ion-Specific Mechanisms Interactions,Investigating Ion-Specific Mechanisms Interactions
+46,10.1016/j.electacta.2019.135297_phrase_0,Develop Novel Anode Materials,High-Performance Anode Materials Development,High-Performance Anode Materials Development
+47,10.1016/j.cej.2020.127955_phrase_6,Evaluate Flexible Device Performance,Practical Performance Validation Techniques,High-Performance Anode Materials Development
+48,10.1016/j.jeurceramsoc.2014.08.014_phrase_1,Investigate Secondary Reaction Mechanisms,Investigating Ion-Specific Mechanisms Interactions,Nanoscale Materials Design Optimization
+49,10.1016/j.applthermaleng.2023.121518_phrase_7,Optimize Thermal Distribution,Optimized Chemical Materials Reaction,Optimized Design for Practicality
+50,10.1002/batt.202100292_phrase_5,Develop Portable Monitoring Systems,Evaluating Existing Techniques for Development,Optimized Design for Practicality
+51,10.1002/smtd.202101524_phrase_4,Understand Doping Effects,Investigating Ion-Specific Mechanisms Interactions,Investigating Ion-Specific Mechanisms Interactions
+52,10.1016/j.est.2017.11.008_phrase_8,Compare Battery Chemistries,Advanced Battery Technology Development,Advanced Battery Technology Development
+53,10.1002/tcr.202200079_phrase_2,Optimize MOF Cathode Materials,High-Performance Anode Materials Development,High-Performance Anode Materials Development
+54,10.1016/j.jpowsour.2025.236179_phrase_10,Develop Closed-Loop Recycling,Mechanistic Degradation Analysis Pathways,Advanced Battery Technology Development
+55,10.1111/j.1755-263X.2011.00166.x_phrase_7,Develop Alternative Recycling Technologies,Evaluating Existing Techniques for Development,Advanced Battery Technology Development
+56,10.1002/adfm.201600494_phrase_1,Develop Novel Electrode Materials,Optimized Electrode Formulation Development,Optimized Electrode Formulation Development
+57,10.1016/j.apsusc.2022.153631_phrase_0,Develop High-Capacity Batteries,Advanced Battery Technology Development,High-Performance Anode Materials Development
+58,10.1002/cplu.201800575_phrase_6,Optimize Particle Synthesis,Optimized Design for Practicality,High-Performance Anode Materials Development
+59,10.1016/j.memsci.2018.08.008_phrase_3,Assess Thermal Stability Limits,Mechanistic Degradation Analysis Pathways,Mechanistic Degradation Analysis Pathways
+60,10.1007/s10800-017-1083-0_phrase_3,Investigate Structural Changeability,Structural Relationships Exploration Characterization,High-Performance Anode Materials Development
+61,10.1021/acssuschemeng.1c06307_phrase_1,Develop Green Extraction Methods,Optimized Chemical Materials Reaction,Optimized Chemical Materials Reaction
+62,10.1002/eom2.70002_phrase_0,Improve Battery Energy Density,Advanced Battery Technology Development,Optimized Design for Practicality
+63,10.1002/smll.202207080_phrase_1,Optimize PBAs Crystallinity,Nanoscale Materials Design Optimization,Nanoscale Materials Design Optimization
+64,10.1016/j.joule.2020.02.006_phrase_1,Characterize Multilayer-Pouch Cells,Microstructural Materials Property Characterization,Microstructural Materials Property Characterization
+65,10.1021/acsaem.9b00777_phrase_1,Develop Multimodal Carbon Synthesis,Nanoscale Materials Design Optimization,Optimized Chemical Materials Reaction
+66,10.1016/j.jpowsour.2025.236905_phrase_9,Optimize Separator Design,Optimized Design for Practicality,Optimized Design for Practicality
+67,10.1021/acs.jpcc.6b03657_phrase_2,Elucidate Material Functionality,Microstructural Materials Property Characterization,Microstructural Materials Property Characterization
+68,10.1002/aenm.201600904_phrase_4,Optimize Composite Structure,Optimized Design for Practicality,Structural Relationships Exploration Characterization
+69,10.3390/en17010013_phrase_2,Optimize Energy Arbitrage Models,Optimized Chemical Materials Reaction,Evaluating Existing Techniques for Development
+70,10.1039/c3nr00548h_phrase_3,Evaluate Doping Effects,Investigating Ion-Specific Mechanisms Interactions,High-Performance Anode Materials Development
+71,10.1016/j.cej.2024.155371_phrase_12,Improve Electronic Conductivity,Optimized Electrode Formulation Development,Optimized Electrode Formulation Development
+72,10.1021/acs.chemmater.0c04014_phrase_3,Investigate Interphase Formation,Microstructural Materials Property Characterization,High-Performance Anode Materials Development
+73,10.3390/batteries10080293_phrase_2,Optimize Separator Materials,Optimized Chemical Materials Reaction,Advanced Battery Technology Development
+74,10.1016/j.jcis.2025.138129_phrase_4,Optimize Coating Performance,Nanoscale Materials Design Optimization,Nanoscale Materials Design Optimization
+75,10.1021/acsami.4c02306_phrase_4,Develop Sodium Storage Materials,Optimized Chemical Materials Reaction,High-Performance Anode Materials Development
+76,10.20964/2019.06.15_phrase_2,Optimize In Situ Synthesis,Optimized Chemical Materials Reaction,Optimized Chemical Materials Reaction
+77,10.1002/smll.201904054_phrase_3,Evaluate Electrochemical Performance,Optimized Electrode Formulation Development,High-Performance Anode Materials Development
+78,10.1016/j.ssi.2008.08.011_phrase_4,Evaluate Long-Term Stability,Mechanistic Degradation Analysis Pathways,High-Performance Anode Materials Development
+79,10.1016/j.electacta.2022.141680_phrase_0,Evaluate Chain Length Effects,Structural Relationships Exploration Characterization,Structural Relationships Exploration Characterization
+80,10.1016/j.jiec.2024.08.021_phrase_1,Optimize Co-precipitation Method,Optimized Chemical Materials Reaction,Optimized Chemical Materials Reaction
+81,10.1002/cssc.202400970_phrase_4,Optimize Pyrolysis Conditions,Optimized Chemical Materials Reaction,Structural Relationships Exploration Characterization
+82,10.1016/j.energy.2016.12.004_phrase_5,Validate Method Effectiveness,Practical Performance Validation Techniques,Evaluating Existing Techniques for Development
+83,10.1016/j.rser.2024.115021_phrase_3,Develop PCM Cooling Systems,Mechanistic Degradation Analysis Pathways,High-Performance Anode Materials Development
+84,10.3390/batteries10090316_phrase_3,Investigate Conduction Pathways,Investigating Ion-Specific Mechanisms Interactions,Investigating Ion-Specific Mechanisms Interactions
+85,10.1016/j.jpowsour.2024.235474_phrase_6,Optimize Energy Storage Performance,Advanced Battery Technology Development,High-Performance Anode Materials Development
+86,10.1016/j.gee.2020.06.009_phrase_1,Develop Composite Materials,Nanoscale Materials Design Optimization,Structural Relationships Exploration Characterization
+87,10.1016/j.electacta.2017.03.156_phrase_7,Evaluate Anode Performance,High-Performance Anode Materials Development,Investigating Ion-Specific Mechanisms Interactions
+88,10.1016/j.electacta.2025.146972_phrase_7,Extend Energy Storage Lifespan,Advanced Battery Technology Development,Advanced Battery Technology Development
+89,10.1002/aenm.202401540_phrase_1,Develop Enhanced Anode Stability,High-Performance Anode Materials Development,Optimized Electrode Formulation Development
+90,10.1149/1.1666128_phrase_2,Evaluate Radiation Cell Impact,Practical Performance Validation Techniques,Practical Performance Validation Techniques
+91,10.1155/2012/795892_phrase_3,Investigate Interface Stability,Structural Relationships Exploration Characterization,Optimized Chemical Materials Reaction
+92,10.1038/s41598-018-27922-z_phrase_1,Evaluate Electrochemical Performance,Optimized Electrode Formulation Development,High-Performance Anode Materials Development
+93,10.1115/1.4063430_phrase_7,Validate Proposed Method,Practical Performance Validation Techniques,Evaluating Existing Techniques for Development
+94,10.1002/anie.201410572_phrase_6,Evaluate Nanorods Performance,Practical Performance Validation Techniques,High-Performance Anode Materials Development
+95,10.1088/0957-4484/24/20/205401_phrase_5,Optimize Hybrid Anode Performance,High-Performance Anode Materials Development,High-Performance Anode Materials Development
+96,10.1039/c8nj05007d_phrase_0,Optimize Solution Combustion Synthesis,Optimized Chemical Materials Reaction,Optimized Chemical Materials Reaction
+97,10.1002/batt.202300370_phrase_7,Optimize Cell Cycling Performance,Optimized Design for Practicality,Advanced Battery Technology Development
+98,10.1002/adma.202412447_phrase_7,Explore Future Perspectives,Evaluating Existing Techniques for Development,Evaluating Existing Techniques for Development
+99,10.1109/TIA.2023.3258927_phrase_4,Automate Parameter Grouping,Structural Relationships Exploration Characterization,Structural Relationships Exploration Characterization
+100,10.1016/j.ensm.2019.01.013_phrase_0,Develop Stretchable Devices,Nanoscale Materials Design Optimization,Nanoscale Materials Design Optimization

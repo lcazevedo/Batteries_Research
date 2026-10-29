@@ -1,0 +1,501 @@
+controversies_label,count,cluster,class_name
+Ohmic Heating Battery Degradation,1,0,Disagreement over New Battery Materials
+Additive Effects on Battery Performance,3,0,Disagreement over New Battery Materials
+Surface Chemistry – Battery Materials,1,0,Disagreement over New Battery Materials
+High-Temperature Battery Application,1,0,Disagreement over New Battery Materials
+Future Battery Design Goals,1,0,Disagreement over New Battery Materials
+Fast Charge Capacity Threshold,1,0,Disagreement over New Battery Materials
+Regional Battery Innovation Disparities,1,0,Disagreement over New Battery Materials
+LIBs: Ubiquitous Energy Storage,2,0,Disagreement over New Battery Materials
+Mg Ion Battery Development,2,0,Disagreement over New Battery Materials
+Textile Battery Fabrication Novelty,1,0,Disagreement over New Battery Materials
+KIBs vs. Li-ion Batteries,2,0,Disagreement over New Battery Materials
+Parallel Battery Configurations Efficacy,1,0,Disagreement over New Battery Materials
+Renewable Energy Application Priorities,1,0,Disagreement over New Battery Materials
+Fuel Cell Advantages,1,0,Disagreement over New Battery Materials
+LMAs: Future Battery Tech,1,0,Disagreement over New Battery Materials
+Mg2+ vs. Li+ Batteries,1,0,Disagreement over New Battery Materials
+Renewable Energy/EV Integration,1,0,Disagreement over New Battery Materials
+Improved Charge-Discharge Performance,1,0,Disagreement over New Battery Materials
+Ion Cell Performance Comparison,1,0,Disagreement over New Battery Materials
+Battery Service Life Optimization,1,0,Disagreement over New Battery Materials
+PWFC Charging Duration Tradeoff,1,0,Disagreement over New Battery Materials
+Battery/Solar Efficiency Comparison,1,0,Disagreement over New Battery Materials
+Battery Utilization Challenges,1,0,Disagreement over New Battery Materials
+Prototype Battery Energy Density,2,0,Disagreement over New Battery Materials
+"Parameterization, Battery Cell Effects",1,0,Disagreement over New Battery Materials
+Manganese-Based Battery Performance,1,0,Disagreement over New Battery Materials
+EV vs. Grid Emissions,1,0,Disagreement over New Battery Materials
+Lithium Battery Dominance,13,0,Disagreement over New Battery Materials
+Soft Battery Advancement Direction,1,0,Disagreement over New Battery Materials
+Sodium-ion Battery Cost,1,0,Disagreement over New Battery Materials
+Pulse Heating Effects on Batteries,1,0,Disagreement over New Battery Materials
+Lignin Utilization in Batteries,2,0,Disagreement over New Battery Materials
+Subzero Temperature Battery Distribution,1,0,Disagreement over New Battery Materials
+PTCDI Battery Performance Factors,1,0,Disagreement over New Battery Materials
+Battery Lifespan vs. Optimization,1,0,Disagreement over New Battery Materials
+ZIBs Grid Energy Storage,2,0,Disagreement over New Battery Materials
+Power Source Miniaturization Challenges,1,0,Disagreement over New Battery Materials
+Fuel Cell vs. Battery Range,1,0,Disagreement over New Battery Materials
+Alkali-Ion Storage Potential,1,0,Disagreement over New Battery Materials
+Battery Prediction Model Design,1,0,Disagreement over New Battery Materials
+Battery Discharge Capacity Limits,1,0,Disagreement over New Battery Materials
+Zn2+ Deposition Optimization,1,1,Debate on MnO2 Doping
+Mn Oxide Performance Stability,1,1,Debate on MnO2 Doping
+HP-Fe3O4 vs. MP-Fe3O4 Performance,1,1,Debate on MnO2 Doping
+Doped Oxide Unit Cell,1,1,Debate on MnO2 Doping
+V2O3 Composite Performance,1,1,Debate on MnO2 Doping
+NMC Leaching Efficiency,1,1,Debate on MnO2 Doping
+Oxidation Time Morphology Impact,1,1,Debate on MnO2 Doping
+Ti3C2Tx Synthesis & Applications,1,1,Debate on MnO2 Doping
+CNVO Material Performance,1,1,Debate on MnO2 Doping
+Ni-MOF Ion Diffusion Advantage,1,1,Debate on MnO2 Doping
+Excess Zn Metal Feasibility,1,1,Debate on MnO2 Doping
+Solid Phase Doping Method,1,1,Debate on MnO2 Doping
+ANDC/MoS2 Structure Stability,1,1,Debate on MnO2 Doping
+FeSe2@N-CNT Synthesis Route,1,1,Debate on MnO2 Doping
+NaTi2(PO4)(3) Material Properties,1,1,Debate on MnO2 Doping
+Ti2Nb10O29 Energy Potential,1,1,Debate on MnO2 Doping
+SnO2 Electrolyte Performance Comparison,1,1,Debate on MnO2 Doping
+MnO2 vs. Ca2MnO4 Capacity,1,1,Debate on MnO2 Doping
+A-MnVO2 Rct vs. MnVO2,1,1,Debate on MnO2 Doping
+Low-Spin Fe Water Capacity,1,1,Debate on MnO2 Doping
+Layered Oxide Phase Stability,1,1,Debate on MnO2 Doping
+Mo6+ Doping Mechanism Uncertainty,1,1,Debate on MnO2 Doping
+TiO2-B Oxygen Vacancy Effects,1,1,Debate on MnO2 Doping
+CTGO Synthesis and Characterization,1,1,Debate on MnO2 Doping
+Mn3O4 Discharge Capacity Limits,1,1,Debate on MnO2 Doping
+MFe2O4 Lithiation Leaching,1,1,Debate on MnO2 Doping
+O/Si Atomic Ratio,1,1,Debate on MnO2 Doping
+MnO2 Core-Shell Characterization,1,1,Debate on MnO2 Doping
+MnO2 Flower-like Synthesis,1,1,Debate on MnO2 Doping
+LLO-Sulfide SE Compatibility,1,1,Debate on MnO2 Doping
+MoS2 Synthesis and Composites,1,1,Debate on MnO2 Doping
+Yttrium/Aluminum Synergistic Stabilization,1,1,Debate on MnO2 Doping
+MnO2 Volume Expansion Mitigation,1,1,Debate on MnO2 Doping
+Hierarchical NiCo Hydroxide Performance,1,1,Debate on MnO2 Doping
+Doped Mo Distribution Consistency,1,1,Debate on MnO2 Doping
+RGO/Ti2CTr Film Performance,1,1,Debate on MnO2 Doping
+MWCNTs Membrane Performance,1,1,Debate on MnO2 Doping
+C@SnO2 Nanocomposite Advantages,1,1,Debate on MnO2 Doping
+MOF/COF Material Properties,1,1,Debate on MnO2 Doping
+P3 vs. Na0.7Co0.8Ti0.2O2 Performance,1,1,Debate on MnO2 Doping
+C-MoS2 Performance Characteristics,1,1,Debate on MnO2 Doping
+CMC Binder Performance Improvement,1,2,Debate on Capacity Trade-offs
+PANI vs. LiV3O8 Performance,1,2,Debate on Capacity Trade-offs
+Low-Cost vs. High-Capacity,1,2,Debate on Capacity Trade-offs
+Full Cell Performance Stability,2,2,Debate on Capacity Trade-offs
+CNT vs. No CNT Performance,1,2,Debate on Capacity Trade-offs
+LATP Synthesis Optimization,1,2,Debate on Capacity Trade-offs
+Heterojunction Efficiency Enhancement,1,2,Debate on Capacity Trade-offs
+3D vs. Bulk Performance,1,2,Debate on Capacity Trade-offs
+ICF Capacity Retention,1,2,Debate on Capacity Trade-offs
+VCA Rate Capacity Comparison,1,2,Debate on Capacity Trade-offs
+Cycle Efficiency Threshold,1,2,Debate on Capacity Trade-offs
+LTO Performance Optimization,1,2,Debate on Capacity Trade-offs
+High Rate Stability Tradeoff,1,2,Debate on Capacity Trade-offs
+PANI-GO vs. Graphene Performance,1,2,Debate on Capacity Trade-offs
+NaCNFM vs. NaNFM Capacity,1,2,Debate on Capacity Trade-offs
+LTO Stability Performance,1,2,Debate on Capacity Trade-offs
+Structure-Performance Correlation Review,1,2,Debate on Capacity Trade-offs
+Power/Energy Density Trade-off,1,2,Debate on Capacity Trade-offs
+3D Structure – Performance Link,1,2,Debate on Capacity Trade-offs
+Theoretical Capacity Values Comparison,1,2,Debate on Capacity Trade-offs
+HCDI vs. Conventional CDI,1,2,Debate on Capacity Trade-offs
+Capacity vs. Rate Capability Trade-off,1,2,Debate on Capacity Trade-offs
+FLG vs. SiNP Production,1,2,Debate on Capacity Trade-offs
+LIB Cycling Performance Comparison,1,2,Debate on Capacity Trade-offs
+GNR Surface Functionality Tuning,1,2,Debate on Capacity Trade-offs
+Variable Rate Capability Measurement,1,2,Debate on Capacity Trade-offs
+CSS-C1 Synthesis Performance,1,2,Debate on Capacity Trade-offs
+Future HSC Technology Directions,1,2,Debate on Capacity Trade-offs
+Defects Impact Performance,1,2,Debate on Capacity Trade-offs
+VC Concentration Optimal Performance,1,2,Debate on Capacity Trade-offs
+ADSRCKF Performance Characteristics,1,2,Debate on Capacity Trade-offs
+CB Synergistic Capacity Mechanism,1,2,Debate on Capacity Trade-offs
+ARSIB Performance Requirements,1,2,Debate on Capacity Trade-offs
+MxSey vs. MxSy Efficacy,1,2,Debate on Capacity Trade-offs
+3G vs. 2G/5G Performance,1,2,Debate on Capacity Trade-offs
+Cell Chemistry Performance Comparison,1,2,Debate on Capacity Trade-offs
+C3N4 Performance Optimization,1,2,Debate on Capacity Trade-offs
+Hybrid Device Design Trade-off,1,2,Debate on Capacity Trade-offs
+LiBOB vs. Salt Performance,1,2,Debate on Capacity Trade-offs
+Cr-Containing vs. LVPC Capacity,1,2,Debate on Capacity Trade-offs
+CuNOC/V2O5 Performance,1,2,Debate on Capacity Trade-offs
+Phos-phazene Flame Retardancy Formulation,1,3,Disagreement over Preparation Method
+Materials Stability & Cost,1,3,Disagreement over Preparation Method
+Coating Effect on Performance,6,3,Disagreement over Preparation Method
+Vapor Infiltration Method,1,3,Disagreement over Preparation Method
+SCCO2/DMSO Recycling Method,1,3,Disagreement over Preparation Method
+CNT Incorporation Method Efficacy,1,3,Disagreement over Preparation Method
+PTO Solubility During Discharge,1,3,Disagreement over Preparation Method
+Composite vs. LiFePO4 Efficacy,1,3,Disagreement over Preparation Method
+Passivation Product Effectiveness,1,3,Disagreement over Preparation Method
+Methodological Sample Preparation,1,3,Disagreement over Preparation Method
+PANI-SDBS/SDS Synthesis Method,1,3,Disagreement over Preparation Method
+ALD Coating Effectiveness on Interfaces,1,3,Disagreement over Preparation Method
+Cu Leaching/Reduction Method,1,3,Disagreement over Preparation Method
+Platinum vs. Non-Platinum Catalysts,1,3,Disagreement over Preparation Method
+DES Regeneration/Recycling Efficacy,1,3,Disagreement over Preparation Method
+Mg-OMS Morphology Control,1,3,Disagreement over Preparation Method
+DMMP Flame Retardant Efficacy,1,3,Disagreement over Preparation Method
+Chitosan-Added vs. Chitosan-Free Performance,1,3,Disagreement over Preparation Method
+Biomass Conversion Product Yield,1,3,Disagreement over Preparation Method
+GPRMs vs. PE Membranes,1,3,Disagreement over Preparation Method
+Biopolymer Applications Scope,1,3,Disagreement over Preparation Method
+In-situ Solvothermal Method Efficacy,1,3,Disagreement over Preparation Method
+Lignocellulose Processing Methods,1,3,Disagreement over Preparation Method
+AgNP Dispersed Arrangement,1,3,Disagreement over Preparation Method
+Biomass Material Utilization,2,3,Disagreement over Preparation Method
+Polyolefin Separator Innovation,1,3,Disagreement over Preparation Method
+Porphyrin Material Attributes,1,3,Disagreement over Preparation Method
+Sintering Program Effectiveness,1,3,Disagreement over Preparation Method
+Coated vs. Pristine Stability,3,3,Disagreement over Preparation Method
+Hot Pressing vs. Sintering,1,3,Disagreement over Preparation Method
+KPB Fiber Power Generation,1,3,Disagreement over Preparation Method
+Binder Synthesis Methods,1,3,Disagreement over Preparation Method
+Upcycling vs. Traditional Recycling,2,3,Disagreement over Preparation Method
+Polymer Intercalation Strategy Novelty,1,3,Disagreement over Preparation Method
+Robust Chemistries vs. Protection,1,3,Disagreement over Preparation Method
+Salt-Thermal Method vs. New Strategy,1,3,Disagreement over Preparation Method
+LiFePO4/C Composite Density,1,3,Disagreement over Preparation Method
+PCS as Ceramic Precursor,1,3,Disagreement over Preparation Method
+Material Drawbacks & Limitations,1,3,Disagreement over Preparation Method
+EDTA K Superhigh Corrosion Suppression,1,3,Disagreement over Preparation Method
+Carbon Layer Coating Effects,1,3,Disagreement over Preparation Method
+Nd Magnet Anode Synthesis,1,4,Debate on Novel Anode Candidates
+K+ Anode Performance Challenges,1,4,Debate on Novel Anode Candidates
+Lithium Metal Anode Potential,12,4,Debate on Novel Anode Candidates
+Novel Battery Anode Design,2,4,Debate on Novel Anode Candidates
+Silicon Anode Electrolyte Focus,1,4,Debate on Novel Anode Candidates
+Ge-Based Anode Design,1,4,Debate on Novel Anode Candidates
+MC Anode Potential,2,4,Debate on Novel Anode Candidates
+Anode Chemistry Design Debate,1,4,Debate on Novel Anode Candidates
+Bacterial Nanoparticle Anode Potential,1,4,Debate on Novel Anode Candidates
+BHNA-NF Anode Potential,1,4,Debate on Novel Anode Candidates
+Laser Structuring vs. Unstructured Anodes,1,4,Debate on Novel Anode Candidates
+Alloy Anode Exploration Implications,1,4,Debate on Novel Anode Candidates
+Mg Anode Viability Compared,1,4,Debate on Novel Anode Candidates
+Polymer Anode Performance Characteristics,1,4,Debate on Novel Anode Candidates
+Anode Performance High-Rate,1,4,Debate on Novel Anode Candidates
+LGO/EG Anode Performance,1,4,Debate on Novel Anode Candidates
+DP-TiO2 Anode Efficacy,1,4,Debate on Novel Anode Candidates
+Anode Cycle Stability Comparison,1,4,Debate on Novel Anode Candidates
+MWCNT Anode Synthesis Method,1,4,Debate on Novel Anode Candidates
+PET Anode Capacity Mechanism,1,4,Debate on Novel Anode Candidates
+Ultrahigh-Rate Anode Performance,1,4,Debate on Novel Anode Candidates
+TMO Anode Stability Trade-off,1,4,Debate on Novel Anode Candidates
+Anode Temperature Performance Variability,1,4,Debate on Novel Anode Candidates
+MOx Anode Material Performance,1,4,Debate on Novel Anode Candidates
+Dual-Phase Anode Design,1,4,Debate on Novel Anode Candidates
+2D Anode Mechanisms,1,4,Debate on Novel Anode Candidates
+Mn2O3 Anode Performance Tradeoff,1,4,Debate on Novel Anode Candidates
+Si/BiPO4 Anode Performance,1,4,Debate on Novel Anode Candidates
+FCRG Anode Performance,1,4,Debate on Novel Anode Candidates
+Universal Anode Design Method,1,4,Debate on Novel Anode Candidates
+Nanowire Anode Potential,4,4,Debate on Novel Anode Candidates
+Future Zn Anode Directions,1,4,Debate on Novel Anode Candidates
+Li-ion Anode Potential,2,4,Debate on Novel Anode Candidates
+Emerging Anode Material,3,4,Debate on Novel Anode Candidates
+Cost-Performance Tradeoff Anodes,1,4,Debate on Novel Anode Candidates
+m-Si@NDC Anode Performance,1,4,Debate on Novel Anode Candidates
+Anode Use Frequency,1,4,Debate on Novel Anode Candidates
+MoS2/NC Anode Performance,2,4,Debate on Novel Anode Candidates
+TiNbO2 Anode Trends,1,4,Debate on Novel Anode Candidates
+Anode Material Characteristics,3,4,Debate on Novel Anode Candidates
+Al Anode Capacity Degradation,1,4,Debate on Novel Anode Candidates
+2D Interfacial Engineering Pathway,1,5,Disagreement over Nanoscale Effectiveness
+SEI Layer Homogeneity Debate,1,5,Disagreement over Nanoscale Effectiveness
+Surface Area vs. Integrity,1,5,Disagreement over Nanoscale Effectiveness
+Template-Based Hybrid Structure Synthesis,1,5,Disagreement over Nanoscale Effectiveness
+Onion-like Structure Interpretation,1,5,Disagreement over Nanoscale Effectiveness
+Weld Quality Modeling,1,5,Disagreement over Nanoscale Effectiveness
+KIB Host Material Design,1,5,Disagreement over Nanoscale Effectiveness
+X-ray Diffraction Tomography Application,1,5,Disagreement over Nanoscale Effectiveness
+Yolk-Shell Grain Size Correlation,1,5,Disagreement over Nanoscale Effectiveness
+Spent Graphite Recycling Value,1,5,Disagreement over Nanoscale Effectiveness
+Microstructure-Performance Relationship LiFePO4,1,5,Disagreement over Nanoscale Effectiveness
+Complex Material Polymorphism,1,5,Disagreement over Nanoscale Effectiveness
+Pore Characteristics – K Storage,1,5,Disagreement over Nanoscale Effectiveness
+Graphite Supply Chain Security,2,5,Disagreement over Nanoscale Effectiveness
+Nanoflake/Graphene Material Integration,1,5,Disagreement over Nanoscale Effectiveness
+Polycrystalline Layer Formation,1,5,Disagreement over Nanoscale Effectiveness
+Intragranular Microcrack Mechanisms,1,5,Disagreement over Nanoscale Effectiveness
+Graphite Capacity Improvement Analysis,1,5,Disagreement over Nanoscale Effectiveness
+Si Material Lithiation Impact,1,5,Disagreement over Nanoscale Effectiveness
+Spinel Structure Order,1,5,Disagreement over Nanoscale Effectiveness
+Nano-additive Performance Comparison,1,5,Disagreement over Nanoscale Effectiveness
+Nanostructure Synthesis Advancement,1,5,Disagreement over Nanoscale Effectiveness
+Subsurface Imaging Method Novelty,1,5,Disagreement over Nanoscale Effectiveness
+Nanopore Size/Function Debate,1,5,Disagreement over Nanoscale Effectiveness
+Zirconium Metaphosphate Microstructure Optimization,1,5,Disagreement over Nanoscale Effectiveness
+Heterostructure Application Potential,3,5,Disagreement over Nanoscale Effectiveness
+Porous Carbon Design Strategies,1,5,Disagreement over Nanoscale Effectiveness
+Ti-MXene Potential Applications,1,5,Disagreement over Nanoscale Effectiveness
+Phosphorus/Silicon Interfacial Stability,1,5,Disagreement over Nanoscale Effectiveness
+Carbon Coating Structure Debate,1,5,Disagreement over Nanoscale Effectiveness
+Graphene-Si Nanoparticle Integration,1,5,Disagreement over Nanoscale Effectiveness
+Graphene Aerogel Enhancement Method,1,5,Disagreement over Nanoscale Effectiveness
+Promising Structure Assessment,1,5,Disagreement over Nanoscale Effectiveness
+Mechanization of Properties,1,5,Disagreement over Nanoscale Effectiveness
+Rutile Mesocrystal Structure Formation,1,5,Disagreement over Nanoscale Effectiveness
+Silicon Nanoplatelet Performance Limitations,1,5,Disagreement over Nanoscale Effectiveness
+SnOx Particle Size Disparity,1,5,Disagreement over Nanoscale Effectiveness
+Porous Matrix Functionality Debate,1,5,Disagreement over Nanoscale Effectiveness
+Ge/C Nanocomposite Synthesis,1,5,Disagreement over Nanoscale Effectiveness
+Bulk vs. Surface Mechanisms,1,5,Disagreement over Nanoscale Effectiveness
+GeSn Nanowire Growth/Application,1,5,Disagreement over Nanoscale Effectiveness
+Future Cathode Material Performance,1,6,Debate on Cathode Material Performance
+Lamellar vs. Cellular Cathodes,1,6,Debate on Cathode Material Performance
+Potential Cathode Candidates,1,6,Debate on Cathode Material Performance
+Cathode Material XPS Analysis,2,6,Debate on Cathode Material Performance
+Sodium Cathode Intercalation Debate,1,6,Debate on Cathode Material Performance
+LLOs: Potential Cathode Performance,1,6,Debate on Cathode Material Performance
+Anode/Cathode Cycling Stability,3,6,Debate on Cathode Material Performance
+VOPO4 Cathodic Performance,1,6,Debate on Cathode Material Performance
+Cathode Ni2+/Ni3+ Redox Effect,1,6,Debate on Cathode Material Performance
+Age-Related Cathode Morphology,1,6,Debate on Cathode Material Performance
+Mn Cathode Performance vs. Li Counterpart,1,6,Debate on Cathode Material Performance
+Cathode Catalyst Optimization,1,6,Debate on Cathode Material Performance
+PANI Cathode Material Use,1,6,Debate on Cathode Material Performance
+Aqueous ZIBs Cathode Development,1,6,Debate on Cathode Material Performance
+Sulfur Cathode Sustainability,1,6,Debate on Cathode Material Performance
+Na4VP vs. Other Cathodes,1,6,Debate on Cathode Material Performance
+Cu-MOF Cathode Potential,1,6,Debate on Cathode Material Performance
+TP Stability in K-ion Cathode,1,6,Debate on Cathode Material Performance
+PW Cathode Cation Vacancy Creation,1,6,Debate on Cathode Material Performance
+Biphasic Cathode Material Performance,1,6,Debate on Cathode Material Performance
+Multiphase Cathode Material Synthesis,1,6,Debate on Cathode Material Performance
+MoS2/PEG Cathode Material,1,6,Debate on Cathode Material Performance
+BP2 Cathode Material Suitability,1,6,Debate on Cathode Material Performance
+Anode/Cathode Additive Effectiveness,1,6,Debate on Cathode Material Performance
+NVPF Cathode/Anode Capacity,1,6,Debate on Cathode Material Performance
+PY Film Cathode Quality,1,6,Debate on Cathode Material Performance
+Nickel Cathode Process Enhancement,1,6,Debate on Cathode Material Performance
+p-BP Cathode Material,1,6,Debate on Cathode Material Performance
+LiCoO2 vs. Mixed Cathodes,1,6,Debate on Cathode Material Performance
+LiFePO4 Cathode Formulation,1,6,Debate on Cathode Material Performance
+Cathode Current Rate Prediction,1,6,Debate on Cathode Material Performance
+NCM vs. Other Cathodes,1,6,Debate on Cathode Material Performance
+LTMO Cathode Degradation Mechanisms,1,6,Debate on Cathode Material Performance
+Cathode Morphology Control Importance,1,6,Debate on Cathode Material Performance
+Carbon Cathode vs. Zinc Anode,1,6,Debate on Cathode Material Performance
+Recycled Cathode/Anode Performance,1,6,Debate on Cathode Material Performance
+Binder-Free Cathode Synthesis,8,6,Debate on Cathode Material Performance
+Heterointerface Cathode Mechanism,1,6,Debate on Cathode Material Performance
+Selenide Cathode Potential,2,6,Debate on Cathode Material Performance
+Novel Cathode Platform Design,1,6,Debate on Cathode Material Performance
+LNMO Cathode Structural Change,1,6,Debate on Cathode Material Performance
+Electrode Design Functionality,2,7,Disagreement over Novel Material Properties
+RCB Charge Carrier Variety,1,7,Disagreement over Novel Material Properties
+Electrode Design Efficiency,2,7,Disagreement over Novel Material Properties
+Nanostructure Electrode Benefit,3,7,Disagreement over Novel Material Properties
+Hydrogel Electrolyte Advantages,12,7,Disagreement over Novel Material Properties
+Electrolyte Concentration and Mn Stability,1,7,Disagreement over Novel Material Properties
+DMAA Electrolyte Additive Effect,1,7,Disagreement over Novel Material Properties
+EFEH + Triboelectric Synergy,1,7,Disagreement over Novel Material Properties
+Unsatisfied Electrode Performance,1,7,Disagreement over Novel Material Properties
+Ionic Liquid Analysis Methods,1,7,Disagreement over Novel Material Properties
+Polymer Electrolyte Performance Variability,1,7,Disagreement over Novel Material Properties
+Graphene Electrode Applications,1,7,Disagreement over Novel Material Properties
+Electrode pH Extremities,1,7,Disagreement over Novel Material Properties
+Electrolyte-Film Composition Link,1,7,Disagreement over Novel Material Properties
+Polymer Electrolyte Binder Incorporation,1,7,Disagreement over Novel Material Properties
+Electrochemical Insertion Methodology,1,7,Disagreement over Novel Material Properties
+Electrolyte Stability Window Size,1,7,Disagreement over Novel Material Properties
+Electrolyte Performance Degradation,4,7,Disagreement over Novel Material Properties
+TiO2 Contact Mediated Conductivity,1,7,Disagreement over Novel Material Properties
+Electrochemical Aging Protocol Impact,1,7,Disagreement over Novel Material Properties
+Si Electrode Capacity,1,7,Disagreement over Novel Material Properties
+Charge Transfer Mechanisms Debate,8,7,Disagreement over Novel Material Properties
+Counter Electrode Effects on TNA Synthesis,1,7,Disagreement over Novel Material Properties
+Electrolyte/Material Stability Tracking,1,7,Disagreement over Novel Material Properties
+Hydrogel Composition & Electrolyte Performance,1,7,Disagreement over Novel Material Properties
+Bicomponent vs. Other Electrode Performance,1,7,Disagreement over Novel Material Properties
+Nano-hydro generator viability,1,7,Disagreement over Novel Material Properties
+Robust Electrode Design,1,7,Disagreement over Novel Material Properties
+Co3O4 Facet Electrocatalysis,1,7,Disagreement over Novel Material Properties
+NOC Electrode Capacity,1,7,Disagreement over Novel Material Properties
+EM Electrolyte Application Limitations,1,7,Disagreement over Novel Material Properties
+IL Electrolyte Aging Mechanisms,1,7,Disagreement over Novel Material Properties
+ZIB Electrolyte Challenges,1,7,Disagreement over Novel Material Properties
+PEO-LITFSI-LATP Electrolyte Potential,1,7,Disagreement over Novel Material Properties
+GeP5 Conductivity Comparison,1,7,Disagreement over Novel Material Properties
+Conductive Layer Benefit,2,7,Disagreement over Novel Material Properties
+Sulfide Electrolyte vs. Alternative,1,7,Disagreement over Novel Material Properties
+Electrolyte-Temperature Relationship,1,7,Disagreement over Novel Material Properties
+Biomass Electrode Material Potential,5,7,Disagreement over Novel Material Properties
+Fe2O3 Synthesis & Electrolyte Effects,1,7,Disagreement over Novel Material Properties
+Ion/Electron Conduction Mechanisms,1,7,Disagreement over Novel Material Properties
+LIB Extraction Innovation,1,8,Debate on Lithium Storage Mechanisms
+LIB Durability Importance,1,8,Debate on Lithium Storage Mechanisms
+Lithium Layer Spacing,1,8,Debate on Lithium Storage Mechanisms
+LiMOB vs. LiBOB Conductivities,1,8,Debate on Lithium Storage Mechanisms
+Lithiation Structure-Property Relationship,1,8,Debate on Lithium Storage Mechanisms
+Mg Dendrite Diameter vs. Li/Na,1,8,Debate on Lithium Storage Mechanisms
+Li3Sb Formation Mechanism,1,8,Debate on Lithium Storage Mechanisms
+Lithium Transport Network Behavior,1,8,Debate on Lithium Storage Mechanisms
+K-ion vs. Li-ion Competition,1,8,Debate on Lithium Storage Mechanisms
+FZABs vs. Li-ion,1,8,Debate on Lithium Storage Mechanisms
+Electrolyte Stability in Li-S,1,8,Debate on Lithium Storage Mechanisms
+LiBOB-SL Electrolyte Compatibility,1,8,Debate on Lithium Storage Mechanisms
+LiB Orientation & Aging,1,8,Debate on Lithium Storage Mechanisms
+Li Concentration & Stability,1,8,Debate on Lithium Storage Mechanisms
+Li Vacancy/Ni Stability Debate,1,8,Debate on Lithium Storage Mechanisms
+Salt Concentration Impact Lithium,1,8,Debate on Lithium Storage Mechanisms
+Doping Impact on LIBs,2,8,Debate on Lithium Storage Mechanisms
+LiTaCl6 Ionic Conductivity,1,8,Debate on Lithium Storage Mechanisms
+La3+ Intercalation Process,1,8,Debate on Lithium Storage Mechanisms
+Observability Model Lithium Ion,1,8,Debate on Lithium Storage Mechanisms
+Li Plating/Stripping Mechanism,3,8,Debate on Lithium Storage Mechanisms
+LiV2O5 Oxidation State Control,1,8,Debate on Lithium Storage Mechanisms
+XFC Li Plating Effects,1,8,Debate on Lithium Storage Mechanisms
+Sustainable LIB Value Chain Potential,1,8,Debate on Lithium Storage Mechanisms
+Lithiation Mechanism Complexity,41,8,Debate on Lithium Storage Mechanisms
+Anisotropic Li Storage Mechanisms,1,8,Debate on Lithium Storage Mechanisms
+LiPF6/LiClO4 Performance Variation,1,8,Debate on Lithium Storage Mechanisms
+Li-ion Volume Change Reduction,1,8,Debate on Lithium Storage Mechanisms
+LiCoO2 Separator Performance,2,8,Debate on Lithium Storage Mechanisms
+Buckling during Lithiation Degradation,1,8,Debate on Lithium Storage Mechanisms
+Lithium Transport/Storage Performance,1,8,Debate on Lithium Storage Mechanisms
+Li+ Extraction/Insertion Mechanisms,1,8,Debate on Lithium Storage Mechanisms
+KIBs vs. LIBs Alternatives,3,8,Debate on Lithium Storage Mechanisms
+LIB Discharge Voltage,1,8,Debate on Lithium Storage Mechanisms
+Lithium Compensation Mechanism Debate,1,8,Debate on Lithium Storage Mechanisms
+Implications for LIB Development,1,8,Debate on Lithium Storage Mechanisms
+Lithium vs. Non-Lithium Charge,1,8,Debate on Lithium Storage Mechanisms
+LixCoO2 Phase Functionality,1,8,Debate on Lithium Storage Mechanisms
+Li+ vs. Anion Adsorption,1,8,Debate on Lithium Storage Mechanisms
+Synergistic Li+ Transport Mechanism,1,8,Debate on Lithium Storage Mechanisms
+LCO/Na2SO3 Mineralization Rate,1,8,Debate on Lithium Storage Mechanisms
+Cr Substitution Effects,3,9,Debate on Temperature-Induced Degradation
+Annealing Temperature/Precursor Control,1,9,Debate on Temperature-Induced Degradation
+E-cigarette Burn Causality,1,9,Debate on Temperature-Induced Degradation
+TMSB Film Stability Effects,1,9,Debate on Temperature-Induced Degradation
+Transition State Activity Coefficient,1,9,Debate on Temperature-Induced Degradation
+Cycling Stability Improvement Challenge,1,9,Debate on Temperature-Induced Degradation
+Gas Generation Mechanism Uncertainty,2,9,Debate on Temperature-Induced Degradation
+PCM Composite Stability Concerns,1,9,Debate on Temperature-Induced Degradation
+Calcination Temperature vs. Stability,1,9,Debate on Temperature-Induced Degradation
+H2O-Poor Inner Helmholtz,1,9,Debate on Temperature-Induced Degradation
+Heating Rate Morphology Effects,1,9,Debate on Temperature-Induced Degradation
+Thermal Effect Investigation Methods,1,9,Debate on Temperature-Induced Degradation
+Series-Connected Cell Severity,1,9,Debate on Temperature-Induced Degradation
+Rapid Cycle Life Promise,1,9,Debate on Temperature-Induced Degradation
+Critical Current Density Effects,1,9,Debate on Temperature-Induced Degradation
+Thermal Runaway Threshold Definition,2,9,Debate on Temperature-Induced Degradation
+Nonlinear Degradation Prediction,2,9,Debate on Temperature-Induced Degradation
+SAS Thermal Conductivity Variation,1,9,Debate on Temperature-Induced Degradation
+Pyrite Cycling Stability Issues,1,9,Debate on Temperature-Induced Degradation
+Differential Reaction Temperature Thresholds,1,9,Debate on Temperature-Induced Degradation
+Reaction Kinetics/Volume Expansion Impact,1,9,Debate on Temperature-Induced Degradation
+ARC Test Resistance Derivation,1,9,Debate on Temperature-Induced Degradation
+Temperature Error Limits,1,9,Debate on Temperature-Induced Degradation
+Ru4+ Addressing Stability Issues,1,9,Debate on Temperature-Induced Degradation
+Energy Density Feasibility,2,9,Debate on Temperature-Induced Degradation
+Interfacial Degradation Impact Cycling,1,9,Debate on Temperature-Induced Degradation
+GB Modification Effects,1,9,Debate on Temperature-Induced Degradation
+Reversible Capacity vs. Cycling Fade,1,9,Debate on Temperature-Induced Degradation
+Temperature Side Effects,1,9,Debate on Temperature-Induced Degradation
+CoO Viability Concerns,1,9,Debate on Temperature-Induced Degradation
+Heat Release Measurement Variability,1,9,Debate on Temperature-Induced Degradation
+rGO/CHS Gas Storage,1,9,Debate on Temperature-Induced Degradation
+High Temperature Weight Stability,1,9,Debate on Temperature-Induced Degradation
+Rare Cycle Hydrothermal Strategy,1,9,Debate on Temperature-Induced Degradation
+Preheating Necessity Debate,1,9,Debate on Temperature-Induced Degradation
+Contact Dynamics Variability,1,9,Debate on Temperature-Induced Degradation
+EC vs. EC-Free Limits,1,9,Debate on Temperature-Induced Degradation
+Glycol Volume Impact,1,9,Debate on Temperature-Induced Degradation
+Structural Instability & Dissolution Causes,1,9,Debate on Temperature-Induced Degradation
+Cell Size Effects on Processes,1,9,Debate on Temperature-Induced Degradation
+Raman Spectroscopy Reliability,1,9,Debate on Temperature-Induced Degradation
+Mechanical Shear Force vs. Other Methods,1,10,Disagreement over Characterization Methods
+SEI Property Variation,1,10,Disagreement over Characterization Methods
+SoC Estimation Inconsistency,1,10,Disagreement over Characterization Methods
+Volume Change Observation Method,1,10,Disagreement over Characterization Methods
+Lattice Parameter Consistency,2,10,Disagreement over Characterization Methods
+ZIF-67 Matrix Functionality,1,10,Disagreement over Characterization Methods
+Complex Property Diagnosis,1,10,Disagreement over Characterization Methods
+Process Combination Optimization Recovery,1,10,Disagreement over Characterization Methods
+Cell Engineering Optimization Method,1,10,Disagreement over Characterization Methods
+DEIS vs. Current Interruption,1,10,Disagreement over Characterization Methods
+LLOs Challenges Discussion,1,10,Disagreement over Characterization Methods
+Mechanical Measurements vs. Existing Strategies,1,10,Disagreement over Characterization Methods
+Controlled Stretching Parameters,1,10,Disagreement over Characterization Methods
+Synthesis Approach Variation,1,10,Disagreement over Characterization Methods
+Citation Formatting Debate,1,10,Disagreement over Characterization Methods
+DFT Calculations vs. Empirical Data,2,10,Disagreement over Characterization Methods
+Measurement Value Uncertainty,1,10,Disagreement over Characterization Methods
+Future HSC Development Direction,1,10,Disagreement over Characterization Methods
+Transition Region Movement,1,10,Disagreement over Characterization Methods
+Early Stage Understanding Needed,1,10,Disagreement over Characterization Methods
+Proposed Mechanism Discussion,1,10,Disagreement over Characterization Methods
+Structural Design Variation Debate,1,10,Disagreement over Characterization Methods
+CLR Model Interpretation,1,10,Disagreement over Characterization Methods
+Inline Inspection Method Efficacy,1,10,Disagreement over Characterization Methods
+Cone Calorimeter Methodology Standardization,1,10,Disagreement over Characterization Methods
+Ultrasonic Testing Accuracy,2,10,Disagreement over Characterization Methods
+MicroMI Design Impact,1,10,Disagreement over Characterization Methods
+ML Tool Utility NCM,1,10,Disagreement over Characterization Methods
+Methodological Variation Effects,2,10,Disagreement over Characterization Methods
+MD Simulation Stability Method,1,10,Disagreement over Characterization Methods
+RBF Neural Network Estimation Method,1,10,Disagreement over Characterization Methods
+Interface Defect Functionality,1,10,Disagreement over Characterization Methods
+Refinement Method Selection,2,10,Disagreement over Characterization Methods
+Kernel Approximation Method Design,1,10,Disagreement over Characterization Methods
+Impedance Interpretation Complexity,1,10,Disagreement over Characterization Methods
+In-situ FTIRS Application Debate,1,10,Disagreement over Characterization Methods
+LLZO Interface Engineering Techniques,1,10,Disagreement over Characterization Methods
+Shielding Mechanism Uncertainty,1,10,Disagreement over Characterization Methods
+ASIBs vs. Organic System,1,10,Disagreement over Characterization Methods
+Aging Mechanism Integration,1,10,Disagreement over Characterization Methods
+Optimization Methodological Approaches,1,10,Disagreement over Characterization Methods
+Synergistic Pillar Effect,1,11,Disagreement over Redox Incorporation Mechanisms
+Redox vs. Covalent O Bonds,1,11,Disagreement over Redox Incorporation Mechanisms
+Photocatalytic Mechanism Enhancement,1,11,Disagreement over Redox Incorporation Mechanisms
+Co9S8@CYSNs Structure-Function Relationship,1,11,Disagreement over Redox Incorporation Mechanisms
+ZIB Dendrite Formation Challenges,5,11,Disagreement over Redox Incorporation Mechanisms
+Time-Dependent Reaction Dynamics,1,11,Disagreement over Redox Incorporation Mechanisms
+Phase Composition of LNMO,1,11,Disagreement over Redox Incorporation Mechanisms
+Cobalt Recovery Optimization Methods,1,11,Disagreement over Redox Incorporation Mechanisms
+Anion Solvation Effects,1,11,Disagreement over Redox Incorporation Mechanisms
+Mn Coordination Influence Debate,1,11,Disagreement over Redox Incorporation Mechanisms
+Decomposition Layer Mechanism,2,11,Disagreement over Redox Incorporation Mechanisms
+VS2 Substrate Stabilization,1,11,Disagreement over Redox Incorporation Mechanisms
+Na-birnessite Layer Functionality,1,11,Disagreement over Redox Incorporation Mechanisms
+N-AC Synergistic Mechanism,1,11,Disagreement over Redox Incorporation Mechanisms
+Stoichiometry vs. Redox Description,1,11,Disagreement over Redox Incorporation Mechanisms
+Pyrazine Redox Center Function,1,11,Disagreement over Redox Incorporation Mechanisms
+Ni@OC Formation Mechanism,1,11,Disagreement over Redox Incorporation Mechanisms
+NiAl-LDH Synthesis Route,1,11,Disagreement over Redox Incorporation Mechanisms
+Zn-Anion Interface Formation,1,11,Disagreement over Redox Incorporation Mechanisms
+Mn/Co Ratio Influence,1,11,Disagreement over Redox Incorporation Mechanisms
+CF3 Ring Opening Mechanism,1,11,Disagreement over Redox Incorporation Mechanisms
+Ion Migration Effects,1,11,Disagreement over Redox Incorporation Mechanisms
+Na Ion Kinetics Degradation,1,11,Disagreement over Redox Incorporation Mechanisms
+Doping Stabilization Mechanisms,1,11,Disagreement over Redox Incorporation Mechanisms
+Oxygen Atmosphere Effects on Reduction,1,11,Disagreement over Redox Incorporation Mechanisms
+Composite Phase Identity,1,11,Disagreement over Redox Incorporation Mechanisms
+Gallium-Assisted Pyrolysis Method,1,11,Disagreement over Redox Incorporation Mechanisms
+Fenton Catalyst Synergistic Effects,1,11,Disagreement over Redox Incorporation Mechanisms
+Synthesis Complexity & Mechanistic Insights,1,11,Disagreement over Redox Incorporation Mechanisms
+NVP Assembly Mechanism,1,11,Disagreement over Redox Incorporation Mechanisms
+NLCM Structure Stabilization Mechanism,1,11,Disagreement over Redox Incorporation Mechanisms
+Chemical Process Understanding,1,11,Disagreement over Redox Incorporation Mechanisms
+Reversible Redox States,1,11,Disagreement over Redox Incorporation Mechanisms
+Activation Energy Variation,3,11,Disagreement over Redox Incorporation Mechanisms
+Thiourea-MXene Interlayer Interaction,1,11,Disagreement over Redox Incorporation Mechanisms
+Nanopore Function Roles,1,11,Disagreement over Redox Incorporation Mechanisms
+Concentration Polarization – Crystal Structure,1,11,Disagreement over Redox Incorporation Mechanisms
+Alpha/Beta MnS Existence,1,11,Disagreement over Redox Incorporation Mechanisms
+SO42- Inhibition of {100} Formation,1,11,Disagreement over Redox Incorporation Mechanisms
+Multi-Particle Phase Separation,1,11,Disagreement over Redox Incorporation Mechanisms
+Zn-ion Mechanism Details,1,11,Disagreement over Redox Incorporation Mechanisms
+Binder Diffusion & Distribution,1,11,Disagreement over Redox Incorporation Mechanisms
+Material Dimensional Stability,1,5,Disagreement over Nanoscale Effectiveness
+Aluminate vs. Borate Charge,1,0,Disagreement over New Battery Materials
+BC Electrode vs. Graphite Efficacy,1,7,Disagreement over Novel Material Properties
+Li-S Shuttle Effect,5,8,Debate on Lithium Storage Mechanisms
+Battery vs Supercapacitor Tradeoffs,1,0,Disagreement over New Battery Materials
+WS2 Stability & Cycling,1,9,Debate on Temperature-Induced Degradation
+Sodium-ion Anode Performance,3,4,Debate on Novel Anode Candidates

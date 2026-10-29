@@ -1,0 +1,316 @@
+
+==============================================================================
+JOIN PHRASES -> DOCUMENTS
+==============================================================================
+key: phrases[doi] -> main[DOI]
+documents without DOI: 0 (cannot link phrases) | duplicated DOI: 0
+phrases without matching document in main dataset: 0
+documents with at least one phrase: 128,127 of 128,675
+phrases per document: mean 7.11, median 7
+TOTAL SENTENCES: 910,492
+
+==============================================================================
+GENERAL 'No X' DIAGNOSTICS
+==============================================================================
+  challenges     sentences with category:  88.9% | 'No X':  11.1%
+  directions     sentences with category:  96.4% | 'No X':   3.6%
+  controversies  sentences with category:  95.0% | 'No X':   5.0%
+  sentences categorized across ALL THREE vectors simultaneously: 88.4%
+  sentences 'No X' across all three vectors: 3.5%
+
+  copyright/publisher boilerplate sentences (cannot contain research intent): 26,388
+    challenges     assigned a category (definite false positive): 7.4%
+    directions     assigned a category (definite false positive): 6.8%
+    controversies  assigned a category (definite false positive): 6.9%
+  challenges: % categorized by sentence position (0..8+): {0: 84.7, 1: 94.8, 2: 94.7, 3: 93.4, 4: 91.0, 5: 87.9, 6: 84.3, 7: 80.7, 8: 74.7}
+  directions: % categorized by sentence position (0..8+): {0: 100.0, 1: 99.9, 2: 99.7, 3: 98.9, 4: 97.0, 5: 94.5, 6: 91.6, 7: 88.6, 8: 84.4}
+  controversies: % categorized by sentence position (0..8+): {0: 98.6, 1: 99.0, 2: 98.8, 3: 97.9, 4: 95.9, 5: 93.2, 6: 90.0, 7: 86.5, 8: 80.3}
+
+==============================================================================
+VECTOR: CHALLENGES
+==============================================================================
+Status by challenges_group column: {'category': 809605, 'none': 100887}
+Status by raw label challenges_label: {'category': 809605, 'none': 100887}
+Crosstab raw label vs. group:
+group     category    none
+label                     
+category    809605       0
+none             0  100887
+30 most frequent raw labels (check 'No X' variants):
+                                          n
+challenges_label                           
+No Challenge                         100887
+Complex Synthesis Method              58118
+Poor Material Stability               23180
+Poor Electrode Stability              17467
+Poor Capacity Retention               11825
+Poor Cycle Stability                   8224
+Poor Catalyst Stability                5467
+Poor Electrode Performance             4699
+Poor Material Performance              4681
+Poor Battery Performance               4369
+Poor Battery Stability                 4088
+Poor Cycling Stability                 4087
+Poor Electrolyte Stability             3551
+Simple Synthesis Method                3298
+Methodological Limitations             2535
+Limited Material Performance           2431
+Limited Cycle Life                     2414
+Facile Synthesis Method                2351
+Characterization Method Limitations    2242
+Poor Anode Stability                   1780
+Limited Capacity Performance           1635
+Improved Material Performance          1593
+Poor Electrochemical Performance       1591
+Complex Material Synthesis             1513
+Lack of Specificity                    1512
+High Material Cost                     1498
+Limited Spatial Resolution             1478
+Computational Complexity               1470
+Excellent Cycling Stability            1464
+Poor Interface Stability               1461
+distinct raw labels: 188,881
+
+Categorized sentences: 809,605 (88.92% of 910,492)
+Distinct categories: 12
+                                             sentences   pct  documents
+group                                                                  
+Model Complexity Limitations                    164800 20.36      90744
+Long-Term Stability Degradation Issues          104254 12.88      67290
+Realized Performance Bottlenecks                 97521 12.05      66705
+Material Fabrication Challenges                  83391 10.30      58255
+Electrode-Electrolyte Stability Limitations      72126  8.91      49602
+Technological Potential Limitations Scope        61207  7.56      44412
+High Conductivity Bottleneck Challenges          42649  5.27      33270
+Insufficient Experimental Data Analysis          41689  5.15      32117
+Poor Chemical Reaction Stability                 39881  4.93      29868
+Mass Transport Limitation Behavior               38296  4.73      30392
+Battery Performance Bottleneck Challenges        33658  4.16      25279
+Material Resource Reduction Bottlenecks          30133  3.72      20189
+
+% of documents (among those with at least one phrase of the vector in that year) mentioning each category, first and last year:
+year                                         2014  2025
+group                                                  
+Battery Performance Bottleneck Challenges    14.2  24.0
+Electrode-Electrolyte Stability Limitations  33.7  40.1
+High Conductivity Bottleneck Challenges      21.6  26.8
+Insufficient Experimental Data Analysis      21.0  25.8
+Long-Term Stability Degradation Issues       44.8  61.5
+Mass Transport Limitation Behavior           22.6  23.6
+Material Fabrication Challenges              46.0  44.3
+Material Resource Reduction Bottlenecks       8.8  22.0
+Model Complexity Limitations                 76.4  68.1
+Poor Chemical Reaction Stability             19.6  27.0
+Realized Performance Bottlenecks             50.9  52.9
+Technological Potential Limitations Scope    24.8  41.1
+
+Momentum (2006-2015 vs 2016-2025):
+                                             total_presence_2006_2025  share_2006_2015_pct  share_2016_2025_pct  momentum_pp
+group                                                                                                                       
+Model Complexity Limitations                                   162015                25.14                19.55        -5.59
+Long-Term Stability Degradation Issues                         102831                10.51                13.33         2.82
+Realized Performance Bottlenecks                                95950                12.86                11.92        -0.94
+Material Fabrication Challenges                                 81829                11.45                10.09        -1.36
+Electrode-Electrolyte Stability Limitations                     70486                 8.88                 8.85        -0.02
+Technological Potential Limitations Scope                       60511                 5.67                 7.93         2.26
+High Conductivity Bottleneck Challenges                         41975                 5.09                 5.31         0.22
+Insufficient Experimental Data Analysis                         40755                 4.94                 5.15         0.21
+Poor Chemical Reaction Stability                                38946                 4.92                 4.89        -0.03
+Mass Transport Limitation Behavior                              37539                 5.54                 4.58        -0.96
+Battery Performance Bottleneck Challenges                       33089                 3.17                 4.32         1.15
+Material Resource Reduction Bottlenecks                         29887                 1.83                 4.08         2.25
+
+Topic x category matrix: 23 topics x 12 categories
+
+==============================================================================
+VECTOR: DIRECTIONS
+==============================================================================
+Status by directions_group column: {'category': 877884, 'none': 32608}
+Status by raw label directions_label: {'category': 877884, 'none': 32608}
+Crosstab raw label vs. group:
+group     category   none
+label                    
+category    877884      0
+none             0  32608
+30 most frequent raw labels (check 'No X' variants):
+                                          n
+directions_label                           
+No Research Direction                 32608
+Investigate Degradation Mechanisms     7135
+Optimize Electrochemical Performance   5292
+Characterize Material Properties       4858
+Optimize Battery Performance           4799
+Evaluate Anode Performance             4424
+Optimize Electrode Performance         4413
+Evaluate Battery Performance           4329
+Evaluate Electrochemical Performance   3859
+Evaluate Material Performance          3209
+Evaluate Cycling Stability             2874
+Optimize Material Performance          2662
+Optimize Composite Performance         2652
+Evaluate Electrode Performance         2315
+Optimize Synthesis Parameters          2285
+Evaluate Long-Term Stability           2170
+Optimize Material Composition          2165
+Evaluate Cycle Stability               2101
+Develop Composite Materials            2018
+Evaluate Composite Performance         1945
+Optimize Synthesis Methods             1899
+Optimize Synthesis Methodologies       1813
+Develop Novel Anode Materials          1718
+Investigate Diffusion Mechanisms       1633
+Optimize Electrolyte Performance       1412
+Investigate Reaction Mechanisms        1396
+Investigate Doping Effects             1362
+Evaluate Anode Material Performance    1351
+Evaluate Electrolyte Performance       1328
+Improve Battery Performance            1297
+distinct raw labels: 322,356
+
+Categorized sentences: 877,884 (96.42% of 910,492)
+Distinct categories: 12
+                                                       sentences   pct  documents
+group                                                                            
+Optimized Electrode Formulation Development                99018 11.28      58791
+Nanoscale Materials Design Optimization                    92988 10.59      58852
+Microstructural Materials Property Characterization        84095  9.58      53587
+Optimized Design for Practicality                          83312  9.49      57100
+Investigating Ion-Specific Mechanisms Interactions         79856  9.10      50200
+Practical Performance Validation Techniques                72468  8.25      50580
+Advanced Battery Technology Development                    70303  8.01      44390
+Optimized Chemical Materials Reaction                      67575  7.70      46258
+High-Performance Anode Materials Development               64406  7.34      44505
+Mechanistic Degradation Analysis Pathways                  59588  6.79      39826
+Structural Relationships Exploration Characterization      54994  6.26      40545
+Evaluating Existing Techniques for Development             49281  5.61      33138
+
+% of documents (among those with at least one phrase of the vector in that year) mentioning each category, first and last year:
+year                                                   2014  2025
+group                                                            
+Advanced Battery Technology Development                22.5  42.7
+Evaluating Existing Techniques for Development         14.6  36.2
+High-Performance Anode Materials Development           27.5  37.6
+Investigating Ion-Specific Mechanisms Interactions     34.3  41.6
+Mechanistic Degradation Analysis Pathways              24.4  39.0
+Microstructural Materials Property Characterization    52.2  33.0
+Nanoscale Materials Design Optimization                46.0  45.2
+Optimized Chemical Materials Reaction                  32.7  42.7
+Optimized Design for Practicality                      41.2  50.5
+Optimized Electrode Formulation Development            43.6  43.9
+Practical Performance Validation Techniques            34.6  44.6
+Structural Relationships Exploration Characterization  32.0  31.2
+
+Momentum (2006-2015 vs 2016-2025):
+                                                       total_presence_2006_2025  share_2006_2015_pct  share_2016_2025_pct  momentum_pp
+group                                                                                                                                 
+Optimized Electrode Formulation Development                               96979                12.09                11.09        -1.00
+Nanoscale Materials Design Optimization                                   92083                11.30                10.56        -0.73
+Optimized Design for Practicality                                         82236                 9.33                 9.56         0.23
+Microstructural Materials Property Characterization                       81733                15.42                 8.47        -6.95
+Investigating Ion-Specific Mechanisms Interactions                        77936                 9.65                 8.93        -0.72
+Practical Performance Validation Techniques                               71430                 7.59                 8.39         0.80
+Advanced Battery Technology Development                                   69364                 5.59                 8.44         2.86
+Optimized Chemical Materials Reaction                                     66473                 7.48                 7.74         0.26
+High-Performance Anode Materials Development                              63797                 5.55                 7.70         2.15
+Mechanistic Degradation Analysis Pathways                                 58489                 5.73                 6.95         1.22
+Structural Relationships Exploration Characterization                     53828                 7.24                 6.07        -1.17
+Evaluating Existing Techniques for Development                            48863                 3.03                 6.10         3.07
+
+Topic x category matrix: 23 topics x 12 categories
+
+==============================================================================
+VECTOR: CONTROVERSIES
+==============================================================================
+Status by controversies_group column: {'category': 865191, 'none': 45301}
+Status by raw label controversies_label: {'category': 865190, 'none': 45301, 'error': 1}
+Crosstab raw label vs. group:
+group     category   none
+label                    
+category    865190      0
+error            1      0
+none             0  45301
+30 most frequent raw labels (check 'No X' variants):
+                                               n
+controversies_label                             
+No Controversy                             45301
+Anode Material Performance                  3121
+Synthesis Method Comparison                 2572
+Synthesis Method Variability                2016
+Synthesis Method Optimization               1057
+Electrode Performance Characteristics       1011
+Electrode Performance Comparison             991
+Composite Material Performance               905
+Synthesis Method Standardization             875
+Cathode Material Performance                 875
+Synthesis Method Novelty                     858
+Electrode Performance Metrics                811
+Anode Material Potential                     776
+Electrode Material Performance               750
+SEI Formation Mechanisms                     729
+Synthesis Method Validation                  729
+Battery Capacity Retention                   663
+Synthesis Route Variability                  635
+Synthesis Route Optimization                 606
+Synthesis Method Evaluation                  601
+Material Performance Characteristics         593
+Synthesis Method Debate                      583
+Synthesis Method Efficacy                    562
+Anode Performance Characteristics            549
+Battery Performance Metrics                  540
+Cycle Stability Performance                  529
+Characterization Methodologies Comparison    509
+Electrode Capacity Retention                 478
+Future Research Directions                   471
+Anode Performance Comparison                 457
+distinct raw labels: 614,101
+
+Categorized sentences: 865,190 (95.02% of 910,492)
+Distinct categories: 12
+                                                  sentences   pct  documents
+group                                                                       
+Disagreement over Characterization Methods           132840 15.35      69804
+Disagreement over Novel Material Properties           90019 10.40      54143
+Disagreement over Nanoscale Effectiveness             88399 10.22      55475
+Disagreement over Redox Incorporation Mechanisms      84207  9.73      53038
+Disagreement over Preparation Method                  82466  9.53      51461
+Debate on Capacity Trade-offs                         71905  8.31      51731
+Debate on Temperature-Induced Degradation             66301  7.66      43773
+Disagreement over New Battery Materials               63466  7.34      39635
+Debate on Novel Anode Candidates                      54040  6.25      34045
+Debate on MnO2 Doping                                 51916  6.00      33533
+Debate on Lithium Storage Mechanisms                  51143  5.91      31898
+Debate on Cathode Material Performance                28488  3.29      19583
+
+% of documents (among those with at least one phrase of the vector in that year) mentioning each category, first and last year:
+year                                              2014  2025
+group                                                       
+Debate on Capacity Trade-offs                     33.3  48.1
+Debate on Cathode Material Performance            10.0  19.2
+Debate on Lithium Storage Mechanisms              21.5  25.4
+Debate on MnO2 Doping                             27.8  23.6
+Debate on Novel Anode Candidates                  22.7  25.8
+Debate on Temperature-Induced Degradation         28.9  39.9
+Disagreement over Characterization Methods        54.3  57.2
+Disagreement over Nanoscale Effectiveness         48.8  37.5
+Disagreement over New Battery Materials           22.1  37.3
+Disagreement over Novel Material Properties       38.7  40.9
+Disagreement over Preparation Method              39.7  42.9
+Disagreement over Redox Incorporation Mechanisms  35.4  46.9
+
+Momentum (2006-2015 vs 2016-2025):
+                                                  total_presence_2006_2025  share_2006_2015_pct  share_2016_2025_pct  momentum_pp
+group                                                                                                                            
+Disagreement over Characterization Methods                          130836                15.25                15.40         0.15
+Disagreement over Novel Material Properties                          88100                10.78                10.28        -0.50
+Disagreement over Nanoscale Effectiveness                            86856                13.72                 9.62        -4.10
+Disagreement over Redox Incorporation Mechanisms                     82635                 9.00                 9.83         0.83
+Disagreement over Preparation Method                                 81025                10.60                 9.34        -1.25
+Debate on Capacity Trade-offs                                        71106                 7.13                 8.56         1.43
+Debate on Temperature-Induced Degradation                            64819                 7.25                 7.68         0.43
+Disagreement over New Battery Materials                              62563                 5.47                 7.67         2.20
+Debate on Novel Anode Candidates                                     53569                 4.92                 6.53         1.61
+Debate on MnO2 Doping                                                51193                 7.33                 5.80        -1.54
+Debate on Lithium Storage Mechanisms                                 49808                 6.34                 5.77        -0.57
+Debate on Cathode Material Performance                               28162                 2.20                 3.50         1.30
+
+Topic x category matrix: 23 topics x 12 categories

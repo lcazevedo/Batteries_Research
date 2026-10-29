@@ -1,0 +1,747 @@
+{
+  "cpy_column_formula_search": [
+    {
+      "citacoes": "total",
+      "last_year": 2025,
+      "fracao": 0.0,
+      "pct_docs_iguais": 100.0
+    },
+    {
+      "citacoes": "wos_core",
+      "last_year": 2025,
+      "fracao": 0.0,
+      "pct_docs_iguais": 38.057461073000766
+    },
+    {
+      "citacoes": "wos_core",
+      "last_year": 2024,
+      "fracao": 0.75,
+      "pct_docs_iguais": 7.6189587319364716
+    },
+    {
+      "citacoes": "wos_core",
+      "last_year": 2025,
+      "fracao": 0.75,
+      "pct_docs_iguais": 6.92986205556635
+    },
+    {
+      "citacoes": "total",
+      "last_year": 2025,
+      "fracao": 0.75,
+      "pct_docs_iguais": 6.929084903827472
+    },
+    {
+      "citacoes": "total",
+      "last_year": 2024,
+      "fracao": 0.75,
+      "pct_docs_iguais": 6.858307278298878
+    },
+    {
+      "citacoes": "wos_core",
+      "last_year": 2024,
+      "fracao": 0.0,
+      "pct_docs_iguais": 2.7073172867287165
+    },
+    {
+      "citacoes": "total",
+      "last_year": 2024,
+      "fracao": 0.0,
+      "pct_docs_iguais": 1.6119570261538059
+    }
+  ],
+  "ri_formula_search_top10": [
+    {
+      "cit": "cit_total",
+      "last_year": 2024,
+      "factor": 0.75,
+      "future": "clip",
+      "review_rule": "any",
+      "p90_base": "subset",
+      "year_cut": NaN,
+      "maxdiff_with_review": 0.0013110455588360992,
+      "maxdiff_without_review": 0.0014760147601471374,
+      "score": 0.0014760147601471374
+    },
+    {
+      "cit": "cit_total",
+      "last_year": 2024,
+      "factor": 0.75,
+      "future": "clip",
+      "review_rule": "any",
+      "p90_base": "all",
+      "year_cut": NaN,
+      "maxdiff_with_review": 0.0013110455588360992,
+      "maxdiff_without_review": 0.01148796498905913,
+      "score": 0.01148796498905913
+    },
+    {
+      "cit": "cit_total",
+      "last_year": 2024,
+      "factor": 0.75,
+      "future": "drop",
+      "review_rule": "any",
+      "p90_base": "subset",
+      "year_cut": NaN,
+      "maxdiff_with_review": 0.01731722468372965,
+      "maxdiff_without_review": 0.01567603858999611,
+      "score": 0.01731722468372965
+    },
+    {
+      "cit": "cit_total",
+      "last_year": 2024,
+      "factor": 0.75,
+      "future": "drop",
+      "review_rule": "any",
+      "p90_base": "all",
+      "year_cut": NaN,
+      "maxdiff_with_review": 0.01731722468372965,
+      "maxdiff_without_review": 0.006657244691353981,
+      "score": 0.01731722468372965
+    },
+    {
+      "cit": "cit_total",
+      "last_year": 2024,
+      "factor": 0.75,
+      "future": "drop",
+      "review_rule": "exact",
+      "p90_base": "subset",
+      "year_cut": NaN,
+      "maxdiff_with_review": 0.01731722468372965,
+      "maxdiff_without_review": 0.03525826725072623,
+      "score": 0.03525826725072623
+    },
+    {
+      "cit": "cit_total",
+      "last_year": 2024,
+      "factor": 0.75,
+      "future": "clip",
+      "review_rule": "exact",
+      "p90_base": "subset",
+      "year_cut": NaN,
+      "maxdiff_with_review": 0.0013110455588360992,
+      "maxdiff_without_review": 0.041367000085702266,
+      "score": 0.041367000085702266
+    },
+    {
+      "cit": "cit_total",
+      "last_year": 2024,
+      "factor": 0.75,
+      "future": "drop",
+      "review_rule": "exact",
+      "p90_base": "all",
+      "year_cut": NaN,
+      "maxdiff_with_review": 0.01731722468372965,
+      "maxdiff_without_review": 0.044059287658889446,
+      "score": 0.044059287658889446
+    },
+    {
+      "cit": "cit_total",
+      "last_year": 2024,
+      "factor": 0.75,
+      "future": "clip",
+      "review_rule": "exact",
+      "p90_base": "all",
+      "year_cut": NaN,
+      "maxdiff_with_review": 0.0013110455588360992,
+      "maxdiff_without_review": 0.05015680900289965,
+      "score": 0.05015680900289965
+    },
+    {
+      "cit": "cit_core",
+      "last_year": 2024,
+      "factor": 0.75,
+      "future": "drop",
+      "review_rule": "exact",
+      "p90_base": "subset",
+      "year_cut": NaN,
+      "maxdiff_with_review": 0.442611522784647,
+      "maxdiff_without_review": 0.38359741734589115,
+      "score": 0.442611522784647
+    },
+    {
+      "cit": "cit_core",
+      "last_year": 2024,
+      "factor": 0.75,
+      "future": "drop",
+      "review_rule": "exact",
+      "p90_base": "all",
+      "year_cut": NaN,
+      "maxdiff_with_review": 0.442611522784647,
+      "maxdiff_without_review": 0.39265353979487116,
+      "score": 0.442611522784647
+    }
+  ],
+  "config_used": {
+    "cit": "cit_total",
+    "last_year": 2024,
+    "factor": 0.75,
+    "future": "clip",
+    "review_rule": "any",
+    "p90_base": "subset",
+    "year_cut": null
+  },
+  "review_mean_citations": 128.4463076426959,
+  "non_review_mean_citations": 46.33441678115471,
+  "without_review": {
+    "table": [
+      {
+        "topic": "Aqueous Zn-ion batteries: anode/electrolyte",
+        "n": 5420,
+        "mean_rate": 12.951772163168133,
+        "prop_top10": 0.27933579335793357,
+        "log1p_n": 8.598035579260339,
+        "index": 8.279293935443514,
+        "rank": 1
+      },
+      {
+        "topic": "Sodium-ion batteries and electrolytes",
+        "n": 2329,
+        "mean_rate": 10.554979305147265,
+        "prop_top10": 0.18376985830828682,
+        "log1p_n": 7.753623546559746,
+        "index": 6.883345319378068,
+        "rank": 2
+      },
+      {
+        "topic": "Vanadium-based cathodes for aqueous ZIBs",
+        "n": 1828,
+        "mean_rate": 10.52121593705869,
+        "prop_top10": 0.20568927789934355,
+        "log1p_n": 7.511524648390866,
+        "index": 6.824619681577321,
+        "rank": 3
+      },
+      {
+        "topic": "Li-ion battery SoH/aging, thermal & charging",
+        "n": 9398,
+        "mean_rate": 8.100234375299298,
+        "prop_top10": 0.14300915088316662,
+        "log1p_n": 9.148358579620302,
+        "index": 5.92269164883866,
+        "rank": 4
+      },
+      {
+        "topic": "Sustainable recycling of lithium-ion batteries",
+        "n": 4303,
+        "mean_rate": 8.340833489914845,
+        "prop_top10": 0.1652335579828027,
+        "log1p_n": 8.36730010184162,
+        "index": 5.893446832720588,
+        "rank": 5
+      },
+      {
+        "topic": "2D materials for metal-ion battery anodes",
+        "n": 3169,
+        "mean_rate": 8.422065802347348,
+        "prop_top10": 0.12906279583464816,
+        "log1p_n": 8.061486866871327,
+        "index": 5.862049113298334,
+        "rank": 6
+      },
+      {
+        "topic": "Carbon anode materials for ion batteries",
+        "n": 9516,
+        "mean_rate": 7.545826790878635,
+        "prop_top10": 0.11906263135771332,
+        "log1p_n": 9.160834952072344,
+        "index": 5.6407991752611,
+        "rank": 7
+      },
+      {
+        "topic": "Layered cathodes for sodium-ion batteries",
+        "n": 3886,
+        "mean_rate": 7.783759987393192,
+        "prop_top10": 0.1451363870303654,
+        "log1p_n": 8.265392930852224,
+        "index": 5.5884994959761505,
+        "rank": 8
+      },
+      {
+        "topic": "Solid-state electrolytes for Li batteries",
+        "n": 2714,
+        "mean_rate": 7.7728213365514485,
+        "prop_top10": 0.1156963890935888,
+        "log1p_n": 7.906547232368036,
+        "index": 5.5024290314774085,
+        "rank": 9
+      },
+      {
+        "topic": "Organic electrode materials for batteries",
+        "n": 2742,
+        "mean_rate": 7.533718560887619,
+        "prop_top10": 0.1276440554339898,
+        "log1p_n": 7.916807490937603,
+        "index": 5.388513995261527,
+        "rank": 10
+      },
+      {
+        "topic": "Electrolytes, SEI and additives for Li batteries",
+        "n": 5903,
+        "mean_rate": 6.917448218526448,
+        "prop_top10": 0.09689988141622903,
+        "log1p_n": 8.683385366280309,
+        "index": 5.224471146944154,
+        "rank": 11
+      },
+      {
+        "topic": "MoS₂ and molybdenum-based battery anodes",
+        "n": 3304,
+        "mean_rate": 7.103473661930488,
+        "prop_top10": 0.09624697336561744,
+        "log1p_n": 8.103191752285786,
+        "index": 5.2012492734320865,
+        "rank": 12
+      },
+      {
+        "topic": "Advanced anode materials for Li-ion batteries",
+        "n": 10108,
+        "mean_rate": 6.291446729608065,
+        "prop_top10": 0.07746339533043134,
+        "log1p_n": 9.221181395154058,
+        "index": 5.0131986624339735,
+        "rank": 13
+      },
+      {
+        "topic": "Antimony & bismuth battery anodes",
+        "n": 1874,
+        "mean_rate": 6.922177884090012,
+        "prop_top10": 0.09498399146211313,
+        "log1p_n": 7.536363938404511,
+        "index": 4.996856927164542,
+        "rank": 14
+      },
+      {
+        "topic": "Lithium-ion battery cathode materials",
+        "n": 12895,
+        "mean_rate": 5.858256251763274,
+        "prop_top10": 0.0817371074059713,
+        "log1p_n": 9.464672464746409,
+        "index": 4.8465837510527106,
+        "rank": 15
+      },
+      {
+        "topic": "Silicon anodes for lithium-ion batteries",
+        "n": 9254,
+        "mean_rate": 5.917766787066292,
+        "prop_top10": 0.0738059217635617,
+        "log1p_n": 9.132919225007598,
+        "index": 4.8076090150637345,
+        "rank": 16
+      },
+      {
+        "topic": "Polymer electrolytes & separators for batteries",
+        "n": 5519,
+        "mean_rate": 5.960512392026795,
+        "prop_top10": 0.07428882043848524,
+        "log1p_n": 8.616133139271142,
+        "index": 4.725769469999172,
+        "rank": 17
+      },
+      {
+        "topic": "Lithium-ion battery electrodes and modeling",
+        "n": 4164,
+        "mean_rate": 5.628935037352283,
+        "prop_top10": 0.06724303554274735,
+        "log1p_n": 8.334471554600944,
+        "index": 4.501534740259155,
+        "rank": 18
+      },
+      {
+        "topic": "Vanadium cathode materials for batteries",
+        "n": 4301,
+        "mean_rate": 5.397808890250591,
+        "prop_top10": 0.06765868402697048,
+        "log1p_n": 8.366835309827675,
+        "index": 4.392569112298921,
+        "rank": 19
+      },
+      {
+        "topic": "Iron oxide-based anodes for Li-ion batteries",
+        "n": 3021,
+        "mean_rate": 5.200791857248562,
+        "prop_top10": 0.04965243296921549,
+        "log1p_n": 8.013674142832684,
+        "index": 4.218026487081582,
+        "rank": 20
+      },
+      {
+        "topic": "Tin-based anode materials for ion batteries",
+        "n": 4958,
+        "mean_rate": 4.999281574585178,
+        "prop_top10": 0.048204921339249696,
+        "log1p_n": 8.508959386489133,
+        "index": 4.215894140992191,
+        "rank": 21
+      },
+      {
+        "topic": "TiO₂/LTO anode materials for Li/Na batteries",
+        "n": 5535,
+        "mean_rate": 4.656548794383417,
+        "prop_top10": 0.04534778681120145,
+        "log1p_n": 8.619027497297505,
+        "index": 4.06568423269457,
+        "rank": 22
+      },
+      {
+        "topic": "LiFePO₄ cathodes for lithium-ion batteries",
+        "n": 3231,
+        "mean_rate": 3.6701036903380326,
+        "prop_top10": 0.030331166821417517,
+        "log1p_n": 8.080856419640986,
+        "index": 3.4603224791436387,
+        "rank": 23
+      }
+    ],
+    "ranges": {
+      "mean_rate": [
+        3.6701036903380326,
+        12.951772163168133
+      ],
+      "prop_top10": [
+        0.030331166821417517,
+        0.27933579335793357
+      ],
+      "log1p_n": [
+        7.511524648390866,
+        9.464672464746409
+      ]
+    },
+    "mean_contribution_pct": {
+      "alpha*mean_CPY": 66.38,
+      "beta*prop_top10": 0.59,
+      "gamma*log(1+n)": 33.03
+    },
+    "weight_sensitivity": [
+      {
+        "scenario": "Original Baseline",
+        "alpha": 0.5,
+        "beta": 0.3,
+        "gamma": 0.2,
+        "spearman_rho": 1.0
+      },
+      {
+        "scenario": "Scenario 1: Equal Weights",
+        "alpha": 0.33,
+        "beta": 0.33,
+        "gamma": 0.33,
+        "spearman_rho": 0.9822
+      },
+      {
+        "scenario": "Scenario 2: Impact Focus",
+        "alpha": 0.7,
+        "beta": 0.15,
+        "gamma": 0.15,
+        "spearman_rho": 0.9931
+      },
+      {
+        "scenario": "Scenario 3: Excellence Focus",
+        "alpha": 0.3,
+        "beta": 0.5,
+        "gamma": 0.2,
+        "spearman_rho": 0.996
+      }
+    ],
+    "spearman_per_month": 0.6719367588932806,
+    "spearman_standardized": 0.9802371541501977,
+    "top5_base": [
+      "Aqueous Zn-ion batteries: anode/electrolyte",
+      "Sodium-ion batteries and electrolytes",
+      "Vanadium-based cathodes for aqueous ZIBs",
+      "Li-ion battery SoH/aging, thermal & charging",
+      "Sustainable recycling of lithium-ion batteries"
+    ],
+    "top5_standardized": [
+      "Aqueous Zn-ion batteries: anode/electrolyte",
+      "Vanadium-based cathodes for aqueous ZIBs",
+      "Sodium-ion batteries and electrolytes",
+      "Li-ion battery SoH/aging, thermal & charging",
+      "Sustainable recycling of lithium-ion batteries"
+    ],
+    "vs_published_SI": {
+      "matched": 20,
+      "spearman": 0.9996239894584121,
+      "max_abs_diff": 0.004619681577320733
+    }
+  },
+  "with_review": {
+    "table": [
+      {
+        "topic": "Aqueous Zn-ion batteries: anode/electrolyte",
+        "n": 6102,
+        "mean_rate": 14.100971845083537,
+        "prop_top10": 0.25958702064896755,
+        "log1p_n": 8.716535732544495,
+        "index": 8.871669175245358,
+        "rank": 1
+      },
+      {
+        "topic": "Sodium-ion batteries and electrolytes",
+        "n": 3092,
+        "mean_rate": 13.705932838166213,
+        "prop_top10": 0.2076326002587322,
+        "log1p_n": 8.03689677268507,
+        "index": 8.522635553697741,
+        "rank": 2
+      },
+      {
+        "topic": "Li-ion battery SoH/aging, thermal & charging",
+        "n": 10566,
+        "mean_rate": 10.429031379938184,
+        "prop_top10": 0.14792731402612153,
+        "log1p_n": 9.265491216441031,
+        "index": 7.111992127465135,
+        "rank": 3
+      },
+      {
+        "topic": "Vanadium-based cathodes for aqueous ZIBs",
+        "n": 1898,
+        "mean_rate": 10.877732126168194,
+        "prop_top10": 0.17650158061116966,
+        "log1p_n": 7.549082710812286,
+        "index": 7.001633079429905,
+        "rank": 4
+      },
+      {
+        "topic": "2D materials for metal-ion battery anodes",
+        "n": 3751,
+        "mean_rate": 10.140078540119958,
+        "prop_top10": 0.13303119168221808,
+        "log1p_n": 8.230044310126114,
+        "index": 6.755957489589868,
+        "rank": 5
+      },
+      {
+        "topic": "Solid-state electrolytes for Li batteries",
+        "n": 3183,
+        "mean_rate": 10.122978755157364,
+        "prop_top10": 0.12629594721960416,
+        "log1p_n": 8.065893546964274,
+        "index": 6.712556871137418,
+        "rank": 6
+      },
+      {
+        "topic": "Sustainable recycling of lithium-ion batteries",
+        "n": 4959,
+        "mean_rate": 9.787994030750902,
+        "prop_top10": 0.1593063117564025,
+        "log1p_n": 8.509161019718974,
+        "index": 6.643621112846167,
+        "rank": 7
+      },
+      {
+        "topic": "Carbon anode materials for ion batteries",
+        "n": 10469,
+        "mean_rate": 8.821881574239663,
+        "prop_top10": 0.12092845543987009,
+        "log1p_n": 9.256269303864583,
+        "index": 6.29847318452471,
+        "rank": 8
+      },
+      {
+        "topic": "Organic electrode materials for batteries",
+        "n": 3107,
+        "mean_rate": 8.702877285626041,
+        "prop_top10": 0.12423559703894432,
+        "log1p_n": 8.041734711487537,
+        "index": 5.997056264222212,
+        "rank": 9
+      },
+      {
+        "topic": "Electrolytes, SEI and additives for Li batteries",
+        "n": 6356,
+        "mean_rate": 8.215910088929853,
+        "prop_top10": 0.10226557583385777,
+        "log1p_n": 8.757311846936409,
+        "index": 5.890097086602365,
+        "rank": 10
+      },
+      {
+        "topic": "Layered cathodes for sodium-ion batteries",
+        "n": 4088,
+        "mean_rate": 8.297558179172707,
+        "prop_top10": 0.13062622309197652,
+        "log1p_n": 8.316055720364643,
+        "index": 5.851178100586875,
+        "rank": 11
+      },
+      {
+        "topic": "Advanced anode materials for Li-ion batteries",
+        "n": 10512,
+        "mean_rate": 6.853433151815116,
+        "prop_top10": 0.07372526636225267,
+        "log1p_n": 9.26036786557583,
+        "index": 5.3009077289314,
+        "rank": 12
+      },
+      {
+        "topic": "MoS₂ and molybdenum-based battery anodes",
+        "n": 3375,
+        "mean_rate": 7.272659368498323,
+        "prop_top10": 0.08,
+        "log1p_n": 8.124446855715847,
+        "index": 5.285219055392331,
+        "rank": 13
+      },
+      {
+        "topic": "Polymer electrolytes & separators for batteries",
+        "n": 5972,
+        "mean_rate": 7.038306837720243,
+        "prop_top10": 0.07702612190221031,
+        "log1p_n": 8.695004592732307,
+        "index": 5.281262173977246,
+        "rank": 14
+      },
+      {
+        "topic": "Lithium-ion battery cathode materials",
+        "n": 13489,
+        "mean_rate": 6.400967386683688,
+        "prop_top10": 0.07532063162576914,
+        "log1p_n": 9.509703949201802,
+        "index": 5.125020672669935,
+        "rank": 15
+      },
+      {
+        "topic": "Antimony & bismuth battery anodes",
+        "n": 1936,
+        "mean_rate": 7.158542199198851,
+        "prop_top10": 0.07851239669421488,
+        "log1p_n": 7.5688956634069955,
+        "index": 5.11660395128909,
+        "rank": 16
+      },
+      {
+        "topic": "Silicon anodes for lithium-ion batteries",
+        "n": 9657,
+        "mean_rate": 6.429065129845512,
+        "prop_top10": 0.06948327637982811,
+        "log1p_n": 9.175541866433488,
+        "index": 5.070485921123401,
+        "rank": 17
+      },
+      {
+        "topic": "Lithium-ion battery electrodes and modeling",
+        "n": 4643,
+        "mean_rate": 6.453410958103802,
+        "prop_top10": 0.06676717639457247,
+        "log1p_n": 8.443331342817782,
+        "index": 4.935401900533829,
+        "rank": 18
+      },
+      {
+        "topic": "Vanadium cathode materials for batteries",
+        "n": 4400,
+        "mean_rate": 5.594707875128566,
+        "prop_top10": 0.05818181818181818,
+        "log1p_n": 8.38958706681109,
+        "index": 4.492725896381046,
+        "rank": 19
+      },
+      {
+        "topic": "Tin-based anode materials for ion batteries",
+        "n": 5023,
+        "mean_rate": 5.114959105951452,
+        "prop_top10": 0.04300218992633884,
+        "log1p_n": 8.521981708148035,
+        "index": 4.274776551583234,
+        "rank": 20
+      },
+      {
+        "topic": "Iron oxide-based anodes for Li-ion batteries",
+        "n": 3071,
+        "mean_rate": 5.260203294260329,
+        "prop_top10": 0.040703353956366005,
+        "log1p_n": 8.030084094267563,
+        "index": 4.248329472170587,
+        "rank": 21
+      },
+      {
+        "topic": "TiO₂/LTO anode materials for Li/Na batteries",
+        "n": 5674,
+        "mean_rate": 4.905985630699934,
+        "prop_top10": 0.043179414874867816,
+        "log1p_n": 8.643825842349603,
+        "index": 4.1947118082823485,
+        "rank": 22
+      },
+      {
+        "topic": "LiFePO₄ cathodes for lithium-ion batteries",
+        "n": 3352,
+        "mean_rate": 3.9264119291888804,
+        "prop_top10": 0.031026252983293555,
+        "log1p_n": 8.117610746466228,
+        "index": 3.596035989782674,
+        "rank": 23
+      }
+    ],
+    "ranges": {
+      "mean_rate": [
+        3.9264119291888804,
+        14.100971845083537
+      ],
+      "prop_top10": [
+        0.031026252983293555,
+        0.25958702064896755
+      ],
+      "log1p_n": [
+        7.549082710812286,
+        9.509703949201802
+      ]
+    },
+    "mean_contribution_pct": {
+      "alpha*mean_CPY": 68.55,
+      "beta*prop_top10": 0.51,
+      "gamma*log(1+n)": 30.94
+    },
+    "weight_sensitivity": [
+      {
+        "scenario": "Original Baseline",
+        "alpha": 0.5,
+        "beta": 0.3,
+        "gamma": 0.2,
+        "spearman_rho": 1.0
+      },
+      {
+        "scenario": "Scenario 1: Equal Weights",
+        "alpha": 0.33,
+        "beta": 0.33,
+        "gamma": 0.33,
+        "spearman_rho": 0.9862
+      },
+      {
+        "scenario": "Scenario 2: Impact Focus",
+        "alpha": 0.7,
+        "beta": 0.15,
+        "gamma": 0.15,
+        "spearman_rho": 0.9941
+      },
+      {
+        "scenario": "Scenario 3: Excellence Focus",
+        "alpha": 0.3,
+        "beta": 0.5,
+        "gamma": 0.2,
+        "spearman_rho": 0.9941
+      }
+    ],
+    "spearman_per_month": 0.7519762845849803,
+    "spearman_standardized": 0.9664031620553359,
+    "top5_base": [
+      "Aqueous Zn-ion batteries: anode/electrolyte",
+      "Sodium-ion batteries and electrolytes",
+      "Li-ion battery SoH/aging, thermal & charging",
+      "Vanadium-based cathodes for aqueous ZIBs",
+      "2D materials for metal-ion battery anodes"
+    ],
+    "top5_standardized": [
+      "Aqueous Zn-ion batteries: anode/electrolyte",
+      "Sodium-ion batteries and electrolytes",
+      "Li-ion battery SoH/aging, thermal & charging",
+      "Sustainable recycling of lithium-ion batteries",
+      "Vanadium-based cathodes for aqueous ZIBs"
+    ],
+    "vs_published_SI": {
+      "matched": 20,
+      "spearman": 0.9996239894584121,
+      "max_abs_diff": 0.005020672669934889
+    }
+  }
+}

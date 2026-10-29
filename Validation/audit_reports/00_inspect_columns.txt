@@ -1,0 +1,163 @@
+
+==============================================================================
+MAIN DATASET: 128,675 rows, 105 columns
+==============================================================================
+                                    coluna    dtype  nao_nulos  n_unicos                                                       exemplo
+0                         Publication Type   object     128675         3                                                             J
+1                                  Authors   object     128675    123835                 Ungurean, L; Cârstoiu, G; Micea, MV; Groza, V
+2                             Book Authors   object     128675        23                                                              
+3                                  Editors   object     128675       100                                                              
+4                       Book Group Authors   object     128675         2                                                              
+5                         Author Full Name   object     128675    124200  Ungurean, Lucian; Carstoiu, Gabriel; Micea, Mihai V.; Gro...
+6                   Book Authors Full Name   object     128675        23                                                              
+7                            Group Authors   object     128675         3                                                              
+8                           Document Title   object     128675    128647                                              <text, 97 chars>
+9                         Publication Name   object     128675      2154                      INTERNATIONAL JOURNAL OF ENERGY RESEARCH
+10                       Book Series Title   object     128675        49                                               <text, 0 chars>
+11                    Book Series Subtitle   object     128675         1                                               <text, 0 chars>
+12                                Language   object     128675         2                                                       English
+13                           Document Type   object     128675        17                                                        Review
+14                        Conference Title   object     128675       651                                               <text, 0 chars>
+15                         Conference Date   object     128675       612                                                              
+16                     Conference Location   object     128675       463                                                              
+17                     Conference Sponsors   object     128675       287                                                              
+18                         Conference Host   object     128675       119                                                              
+19                         Author Keywords   object     128675     97952  battery state estimation; state of health; remaining usef...
+20                          Keywords Plus®   object     128675    117181  LITHIUM-ION BATTERIES; USEFUL LIFE PREDICTION; ON-BOARD S...
+21                                Abstract   object     128675    128116                                            <text, 1058 chars>
+22                          Author Address   object     128675    125649  [Ungurean, Lucian; Carstoiu, Gabriel; Micea, Mihai V.] Po...
+23                Affiliating Institutions   object     128675     58190     Universitatea Politehnica Timisoara; University of Ottawa
+24                         Reprint Address   object     128675     96251  Micea, MV (corresponding author), Politech Univ Timisoara...
+25                          E-mail Address   object     128675     65795                                         mihai.micea@cs.upt.ro
+26                     ResearcherID Number   object     128675     91769  Ungurean, Lucian/J-1417-2018; Cârstoiu, Gabriel/ABC-1558-...
+27                                   ORCID   object     128675     68044  Ungurean, Lucian/0000-0002-9799-7390; Carstoiu, Gabriel/0...
+28         Funding Agency and Grant Number   object     128675     99068  Romanian National Authority for Scientific Research and I...
+29            Name Of The Funding Agencies   object     128675     83030  Romanian National Authority for Scientific Research and I...
+30                            Funding Text   object     128675    107520  This work was supported by a grant of the Romanian Nation...
+31                        Cited References   object     128675    128591                                            <text, 7424 chars>
+32                   Cited Reference Count   object     128675       579                                                            99
+33   WOS Core Collection Times Cited Count   object     128675      1120                                                           199
+34                 Total Times Cited Count    int64     128675      1197                                                           223
+35               Usage Count Last 180 Days   object     128675       257                                                             3
+36                  Usage Count Since 2013   object     128675      1761                                                           279
+37                               Publisher   object     128675       465                                                         WILEY
+38                          Publisher City   object     128675       276                                                       HOBOKEN
+39                       Publisher Address   object     128675       530                      111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+40                                    ISSN   object     128675      1847                                                     0363-907X
+41                                   eISSN   object     128675      1676                                                     1099-114X
+42                                    ISBN   object     128675       130                                                              
+43        29-Character Source Abbreviation   object     128675      2047                                               INT J ENERG RES
+44                 ISO Source Abbreviation   object     128675      2012                                           Int. J. Energy Res.
+45                        Publication Date   object     128675       924                                                           FEB
+46                          Year Published    int64     128675        35                                                          2017
+47                                  Volume   object     128675      1144                                                            41
+48                                   Issue   object     128675       331                                                             2
+49                             Part Number   object     128675        20                                                              
+50                              Supplement   object     128675        21                                                              
+51                           Special Issue   object     128675         9                                                              
+52                        Meeting Abstract   object     128675         1                                               <text, 0 chars>
+53                          Beginning Page   object     128675     22605                                                           151
+54                             Ending Page   object     128675     22500                                                           181
+55                          Article Number   object     128675     35885                                                              
+56                                     DOI   object     128675    128675                                               10.1002/er.3598
+57                       Link to full text   object     128675    128675                             http://dx.doi.org/10.1002/er.3598
+58                                Book-DOI   object     128675        60                                                              
+59                       Publication Stage   object     128675        89                                                              
+60                              Page Count   object     128675       118                                                            31
+61                          WOS Categories   object     128675       655                  Energy & Fuels; Nuclear Science & Technology
+62                                      WE   object     128675        19                Science Citation Index Expanded (SCI-EXPANDED)
+63                          Research Areas   object     128675       369                  Energy & Fuels; Nuclear Science & Technology
+64                Document Delivery Number   object     128675     76024                                                         EL7EQ
+65                               PubMed ID   object     128675     26421                                                              
+66                             Open Access   object     128675        92                                                              
+67                                      HC   object     128675         1                                                              
+68                                      HP   object     128675         2                                                              
+69                                      DA   object     128675         2                                                    2025-09-25
+70                        Accession Number   object     128675    128675                                           WOS:000394784300001
+71                            authors_list   object     128675    123835       ['Ungurean, L', 'Cârstoiu, G', 'Micea, MV', 'Groza, V']
+72                  authors_full_name_list   object     128675    124200  ['Ungurean, Lucian', 'Carstoiu, Gabriel', 'Micea, Mihai V...
+73                     authors_institution   object     128675     77028  ['Politech Univ Timisoara', 'Politech Univ Timisoara', 'P...
+74                            first_author   object     128675     37942                                                   Ungurean, L
+75                             last_author   object     128675     23574                                                      Groza, V
+76                       first_institution   object     128675      7363                                       Politech Univ Timisoara
+77                        last_institution   object     128675      7823                                                   Univ Ottawa
+78                         authors_country   object     128675     16722                   ['Romania', 'Romania', 'Romania', 'Canada']
+79                           first_country   object     128675       123                                                       Romania
+80                            last_country   object     128675       107                                                        Canada
+81                    first_country_region   object     128675         7                                                        Europe
+82                     last_country_region   object     128675         7                                                 North America
+83                  first_author_full_name   object     128675     60366                                              Ungurean, Lucian
+84                   last_author_full_name   object     128675     33994                                                  Groza, Voicu
+85                        topic_rank_index  float64     128675        23                                             7.111487363757647
+86               topic_rank_index_position   object     128675        23                                                           3rd
+87              topic_rank_index_wo_review  float64     128675        23                                             5.922124152208171
+88     topic_rank_index_wo_review_position   object     128675        23                                                           4th
+89         author_keywords_normalized_list   object     128675     97852  ['battery state estimation', 'state of health', 'remainin...
+90                           research_type   object     128141         5                                                        Review
+91                      citations_per_year  float64     128675      5489                                             24.77777777777778
+92                              journal_if  float64     102554       186                                                           4.2
+93                          category_group   object     128675         4                                 Hidden Gem (Low IF, High Cit)
+94                                    JNIF  float64     102554     11502                                            53.095238095238095
+95                               score_log  float64     102554     15560                                             4.282749823974742
+96                              score_sqrt  float64     128675      9680                                            30.603921317373693
+97                         topic_cluster_1   object     128675        23                  Li-ion battery SoH/aging, thermal & charging
+98               studied_metal_metal_label   object     128675        32                                                    IRRELEVANT
+99                               is_li_ion     bool     128675         2                                                         False
+100                              is_na_ion     bool     128675         2                                                         False
+101                               is_k_ion     bool     128675         2                                                         False
+102                              is_zn_ion     bool     128675         2                                                         False
+103                         is_other_metal     bool     128675         2                                                         False
+104                          is_irrelevant     bool     128675         2                                                          True
+
+==============================================================================
+AUTOMATIC MAPPING (logical key -> column)
+==============================================================================
+  doc_id               -> Accession Number
+  title                -> Document Title
+  abstract             -> Abstract
+  year                 -> Year Published
+  citations            -> Total Times Cited Count
+  citations_wos_core   -> WOS Core Collection Times Cited Count
+  citations_per_year   -> citations_per_year
+  doc_type             -> Document Type
+  language             -> Language
+  source               -> Publication Name
+  authors              -> Author Full Name
+  affiliations         -> Author Address
+  doi                  -> DOI
+  author_keywords      -> Author Keywords
+  keywords_plus        -> Keywords Plus®
+  references           -> Cited References
+  n_references         -> Cited Reference Count
+  wos_categories       -> WOS Categories
+  research_areas       -> Research Areas
+  impact_factor        -> journal_if
+  country              -> first_country
+  institution          -> first_institution
+  topic                -> topic_cluster_1
+  research_type        -> research_type
+  countries_all_authors -> authors_country
+  institutions_all_authors -> authors_institution
+  stored_ri            -> topic_rank_index
+  stored_ri_wo_review  -> topic_rank_index_wo_review
+  stored_jnif          -> JNIF
+  stored_quadrant      -> category_group
+
+  detected topic layers: ['topic_cluster_1']
+    topic_cluster_1: 23 distinct values
+
+==============================================================================
+PHRASES DATASET: 910,492 rows, 9 columns
+==============================================================================
+                coluna   dtype  nao_nulos  n_unicos                                  exemplo
+0           doi_phrase  object     910492    910492                         <text, 24 chars>
+1                  doi  object     910492    128127                          10.1002/er.3598
+2               phrase  object     910492    877386                        <text, 165 chars>
+3     challenges_label  object     910492    188881                  Complex Estimation Task
+4  controversies_label  object     910492    614101  Battery Parameter Estimation Difficulty
+5     directions_label  object     910492    322356     Improve Battery Parameter Estimation
+6     challenges_group  object     910492        13             Model Complexity Limitations
+7  controversies_group  object     910492        13  Disagreement over New Battery Materials
+8     directions_group  object     910492        13  Advanced Battery Technology Development
+
+  columns in common with main dataset (join key candidates): []

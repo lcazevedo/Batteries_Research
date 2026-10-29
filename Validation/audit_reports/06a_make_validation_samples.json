@@ -1,0 +1,66 @@
+{
+  "challenges": {
+    "n_sample": 100,
+    "n_categories": 12,
+    "per_category": {
+      "Realized Performance Bottlenecks": 10,
+      "Material Fabrication Challenges": 9,
+      "Insufficient Experimental Data Analysis": 9,
+      "Model Complexity Limitations": 8,
+      "Mass Transport Limitation Behavior": 8,
+      "Long-Term Stability Degradation Issues": 8,
+      "High Conductivity Bottleneck Challenges": 8,
+      "Electrode-Electrolyte Stability Limitations": 8,
+      "Battery Performance Bottleneck Challenges": 8,
+      "Poor Chemical Reaction Stability": 8,
+      "Technological Potential Limitations Scope": 8,
+      "Material Resource Reduction Bottlenecks": 8
+    },
+    "n_none_check": 30
+  },
+  "directions": {
+    "n_sample": 100,
+    "n_categories": 12,
+    "per_category": {
+      "Microstructural Materials Property Characterization": 9,
+      "Advanced Battery Technology Development": 9,
+      "Investigating Ion-Specific Mechanisms Interactions": 9,
+      "Optimized Chemical Materials Reaction": 9,
+      "Practical Performance Validation Techniques": 8,
+      "Nanoscale Materials Design Optimization": 8,
+      "Optimized Design for Practicality": 8,
+      "Mechanistic Degradation Analysis Pathways": 8,
+      "High-Performance Anode Materials Development": 8,
+      "Evaluating Existing Techniques for Development": 8,
+      "Optimized Electrode Formulation Development": 8,
+      "Structural Relationships Exploration Characterization": 8
+    },
+    "n_none_check": 30
+  },
+  "controversies": {
+    "n_sample": 100,
+    "n_categories": 12,
+    "per_category": {
+      "Debate on Cathode Material Performance": 10,
+      "Disagreement over Characterization Methods": 9,
+      "Debate on MnO2 Doping": 9,
+      "Disagreement over Preparation Method": 8,
+      "Disagreement over New Battery Materials": 8,
+      "Debate on Temperature-Induced Degradation": 8,
+      "Debate on Novel Anode Candidates": 8,
+      "Debate on Lithium Storage Mechanisms": 8,
+      "Debate on Capacity Trade-offs": 8,
+      "Disagreement over Novel Material Properties": 8,
+      "Disagreement over Redox Incorporation Mechanisms": 8,
+      "Disagreement over Nanoscale Effectiveness": 8
+    },
+    "n_none_check": 30
+  },
+  "research_type_counts": {
+    "Experimental studies": 109166,
+    "Computational and simulation studies": 9941,
+    "Review": 9033,
+    "None": 534,
+    "Hybrid": 1
+  }
+}

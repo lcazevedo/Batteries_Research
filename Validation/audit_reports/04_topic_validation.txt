@@ -1,0 +1,13 @@
+
+==============================================================================
+LAYER topic_cluster_1: K = 23, N = 128,675
+==============================================================================
+Generic terms removed (in >= 11.5 lists): ['batteries', 'capacity', 'cycles', 'electrochemical', 'electrode', 'high', 'ion', 'lithium', 'lithium-ion', 'mah', 'material', 'materials', 'performance', 'stability', 'storage']
+Topic diversity (unique words / 10*K): 0.613
+c_v     = 0.633
+c_npmi  = 0.097
+u_mass  = -1.888
+
+==============================================================================
+HIERARCHICAL STABILITY (layers: ['topic_cluster_1'])
+==============================================================================

@@ -1,0 +1,20 @@
+
+==============================================================================
+FUNNEL: RAW EXPORT -> ANALYZED CORPUS
+==============================================================================
+  raw_records                          129789
+  final_records                        128675
+  raw_without_doi                      1114
+  raw_duplicated_doi_extra_copies      0
+  raw_unique_doi                       128675
+  final_doi_found_in_raw               128675
+  final_doi_not_in_raw                 0
+  raw_without_abstract                 672
+  raw_without_title                    0
+  raw_without_year                     0
+  raw_records_not_in_final             1115
+  excluded_without_doi                 1114
+  excluded_with_doi_already_in_final   1
+  excluded_by_doc_type                 {'Article': 900, 'Article; Book Chapter': 153, 'Article; Proceedings Paper': 39, 'Review': 23}
+  excluded_by_year                     {12: 1, 1995: 2, 1996: 3, 1997: 5, 1998: 15, 1999: 8, 2000: 26, 2001: 20, 2002: 6, 2003: 27, 2004: 22, 2005: 41, 2006: 38, 2007: 29, 2008: 9, 2009: 29, 2010: 37, 2011: 64, 2012: 96, 2013: 129, 2014: 75, 2015: 100, 2016: 62, 2017: 56, 2018: 36, 2019: 30, 2020: 47, 2021: 37, 2022: 22, 2023: 17, 2024: 12, 2025: 14}
+  excluded_by_language                 {'English': 1115}

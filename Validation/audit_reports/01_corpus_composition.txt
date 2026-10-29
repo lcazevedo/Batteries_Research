@@ -1,0 +1,234 @@
+
+==============================================================================
+CORPUS: N = 128,675 documents
+==============================================================================
+Period: 1992--2026 | missing year: 0
+Documents in recent years: {2018: 8035, 2019: 8748, 2020: 9556, 2021: 10542, 2022: 11866, 2023: 12610, 2024: 15294, 2025: 14365, 2026: 101}
+Share 2020-2024: 59,868 (46.53%)
+
+==============================================================================
+METADATA COMPLETENESS (Table 2)
+==============================================================================
+                         campo                   coluna       n    pct  tabela2
+0                      Sources         Publication Name  128675 100.00     True
+1                    Abstracts                 Abstract  128127  99.57     True
+2                  Affiliation           Author Address  128562  99.91     True
+3                    Author(s)         Author Full Name  128675 100.00     True
+4                          DOI                      DOI  128675 100.00     True
+5           Keywords - Authors          Author Keywords   98190  76.31     True
+6              Keywords - Plus           Keywords Plus®  122733  95.38     True
+7                   References         Cited References  128624  99.96     True
+8                         Year           Year Published  128675 100.00     True
+9                        Title           Document Title  128675 100.00    False
+10                 Times cited  Total Times Cited Count  128675 100.00    False
+11               Impact factor               journal_if  102554  79.70    False
+12      Country (first author)            first_country  128675 100.00    False
+13  Institution (first author)        first_institution  128675 100.00    False
+14               Document type            Document Type  128675 100.00    False
+15                    Language                 Language  128675 100.00    False
+16              WoS categories           WOS Categories  128674 100.00    False
+17              Research areas           Research Areas  128674 100.00    False
+
+==============================================================================
+INCOMPLETE RECORDS AND DUPLICATES
+==============================================================================
+Records missing field: {'title': 0, 'abstract': 548, 'year': 0, 'authors': 0, 'affiliations': 113, 'citations': 0}
+Missing title OR abstract: 548
+Abstract with <= 20 characters (treated as 'Not_Applicable' in research_type): 548
+Duplicates by doi (DOI): 0
+Duplicates by doc_id (Accession Number): 0
+
+==============================================================================
+DOCUMENT TYPES (labels; a record may have more than one)
+==============================================================================
+                                             n
+Article                                 119360
+Review                                    9303
+Proceedings Paper                         2137
+Early Access                              1946
+Book Chapter                               202
+Retracted Publication                       36
+Data Paper                                  27
+Editorial Material                           5
+Correction                                   4
+Publication with Expression of Concern       2
+Letter                                       2
+Retraction                                   1
+
+Exact combinations (raw field value):
+                                                        n
+Document Type                                            
+Article                                            115294
+Review                                               9033
+Article; Proceedings Paper                           2136
+Article; Early Access                                1698
+Review; Early Access                                  235
+Article; Book Chapter                                 170
+Review; Book Chapter                                   32
+Article; Retracted Publication                         31
+Article; Data Paper                                    27
+Editorial Material; Early Access                        5
+Correction; Early Access                                4
+Review; Retracted Publication                           3
+Article; Publication with Expression of Concern         2
+Letter; Early Access                                    2
+Article; Proceedings Paper; Retracted Publication       1
+Retraction; Early Access                                1
+Article; Early Access; Retracted Publication            1
+
+Reviews ('Review' label in any position): 9,303
+Reviews (field exactly == 'Review', rule in research_type classifier): 9,033
+
+==============================================================================
+LANGUAGES
+==============================================================================
+                      n
+Language               
+English          128674
+English; Eskimo       1
+
+==============================================================================
+WOS CATEGORIES (full count; not mutually exclusive)
+==============================================================================
+Distinct categories: 134 | sum of labels: 312,785
+Top-3 sum to 143,124 labels (45.8% of all labels)
+                                                      n
+Materials Science, Multidisciplinary              62561
+Chemistry, Physical                               49640
+Energy & Fuels                                    30923
+Electrochemistry                                  29050
+Chemistry, Multidisciplinary                      23820
+Nanoscience & Nanotechnology                      23233
+Physics, Applied                                  19340
+Physics, Condensed Matter                         15795
+Engineering, Chemical                              9478
+Metallurgy & Metallurgical Engineering             6221
+Materials Science, Coatings & Films                6029
+Engineering, Environmental                         4297
+Green & Sustainable Science & Technology           3462
+Engineering, Electrical & Electronic               2786
+Environmental Sciences                             2223
+Chemistry, Inorganic & Nuclear                     2040
+Multidisciplinary Sciences                         1960
+Physics, Atomic, Molecular & Chemical              1935
+Materials Science, Ceramics                        1776
+Polymer Science                                    1577
+Chemistry, Applied                                 1492
+Chemistry, Analytical                              1412
+Thermodynamics                                     1242
+Mechanics                                           828
+Engineering, Multidisciplinary                      781
+Engineering, Mechanical                             755
+Transportation Science & Technology                 623
+Crystallography                                     614
+Nuclear Science & Technology                        548
+Physics, Multidisciplinary                          514
+Instruments & Instrumentation                       489
+Biochemistry & Molecular Biology                    455
+Materials Science, Composites                       359
+Automation & Control Systems                        343
+Telecommunications                                  327
+Mining & Mineral Processing                         320
+Computer Science, Information Systems               319
+Computer Science, Interdisciplinary Applications    208
+Environmental Studies                               202
+Mineralogy                                          199
+
+==============================================================================
+RESEARCH AREAS (full count; not mutually exclusive)
+==============================================================================
+Distinct categories: 76 | sum of labels: 287,949
+Top-3 sum to 171,025 labels (59.4% of all labels)
+                                                 n
+Materials Science                            70458
+Chemistry                                    69644
+Energy & Fuels                               30923
+Electrochemistry                             29050
+Science & Technology - Other Topics          28649
+Physics                                      26247
+Engineering                                  14994
+Metallurgy & Metallurgical Engineering        6221
+Environmental Sciences & Ecology              2268
+Polymer Science                               1577
+Thermodynamics                                1242
+Mechanics                                      828
+Computer Science                               673
+Transportation                                 628
+Crystallography                                614
+Nuclear Science & Technology                   548
+Biochemistry & Molecular Biology               507
+Instruments & Instrumentation                  489
+Automation & Control Systems                   343
+Telecommunications                             327
+Mining & Mineral Processing                    320
+Mineralogy                                     199
+Mathematics                                    154
+Operations Research & Management Science       137
+Spectroscopy                                   119
+Optics                                          97
+Biotechnology & Applied Microbiology            96
+Water Resources                                 72
+Microscopy                                      61
+Agriculture                                     50
+Biophysics                                      48
+Geochemistry & Geophysics                       37
+Business & Economics                            35
+Public, Environmental & Occupational Health     31
+Geology                                         22
+Mathematical & Computational Biology            20
+Education & Educational Research                19
+Acoustics                                       18
+Pharmacology & Pharmacy                         17
+Meteorology & Atmospheric Sciences              17
+
+==============================================================================
+ENTITIES: COUNTRIES, INSTITUTIONS, JOURNALS, AUTHORS
+==============================================================================
+(countries/institutions extracted from address field, 1st segment = institution, last = country)
+  countries_any_author                     165
+  institutions_any_author                  22,611
+  countries_first_address                  137
+  institutions_first_address               7,587
+  docs_without_parsable_address            113
+  countries_any_author_list_column         146
+  institutions_any_author_list_column      17,484
+  countries_from_country_column            123
+  institutions_from_institution_column     7,363
+  journals                                 2,141
+  authors_unique_full_name_strings         194,418
+
+==============================================================================
+CITATIONS
+==============================================================================
+Total citations: 6,725,968 | mean per document: 52.27 | median: 20
+Mean citations: reviews = 128.4 | non-reviews = 46.3 | ratio = 2.77x
+
+==============================================================================
+TOPICS -- column topic_cluster_1
+==============================================================================
+Number of topics: 23 | sum = 128,675 (N = 128,675) | nulls: 0 | label -1: 0
+                                                  n_docs
+topic_cluster_1                                         
+Lithium-ion battery cathode materials              13489
+Li-ion battery SoH/aging, thermal & charging       10566
+Advanced anode materials for Li-ion batteries      10512
+Carbon anode materials for ion batteries           10469
+Silicon anodes for lithium-ion batteries            9657
+Electrolytes, SEI and additives for Li batteries    6356
+Aqueous Zn-ion batteries: anode/electrolyte         6102
+Polymer electrolytes & separators for batteries     5972
+TiO₂/LTO anode materials for Li/Na batteries        5674
+Tin-based anode materials for ion batteries         5023
+Sustainable recycling of lithium-ion batteries      4959
+Lithium-ion battery electrodes and modeling         4643
+Vanadium cathode materials for batteries            4400
+Layered cathodes for sodium-ion batteries           4088
+2D materials for metal-ion battery anodes           3751
+MoS₂ and molybdenum-based battery anodes            3375
+LiFePO₄ cathodes for lithium-ion batteries          3352
+Solid-state electrolytes for Li batteries           3183
+Organic electrode materials for batteries           3107
+Sodium-ion batteries and electrolytes               3092
+Iron oxide-based anodes for Li-ion batteries        3071
+Antimony & bismuth battery anodes                   1936
+Vanadium-based cathodes for aqueous ZIBs            1898

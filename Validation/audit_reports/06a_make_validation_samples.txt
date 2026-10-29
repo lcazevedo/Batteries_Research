@@ -1,0 +1,15 @@
+challenges: 100 sentences (12 categories, ~8 per category) + 30 'No X' -> <PROJECT_ROOT>/Data/Validation_and_Audit/validation_challenges_labels_only.csv
+directions: 100 sentences (12 categories, ~8 per category) + 30 'No X' -> <PROJECT_ROOT>/Data/Validation_and_Audit/validation_directions_labels_only.csv
+controversies: 100 sentences (12 categories, ~8 per category) + 30 'No X' -> <PROJECT_ROOT>/Data/Validation_and_Audit/validation_controversies_labels_only.csv
+
+==============================================================================
+DISTRIBUTION OF research_type (full dataset)
+==============================================================================
+                                           n
+research_type                               
+Experimental studies                  109166
+Computational and simulation studies    9941
+Review                                  9033
+None                                     534
+Hybrid                                     1
+research_type: 100 documents -> <PROJECT_ROOT>/Data/Validation_and_Audit/validation_research_type_labels_only.csv

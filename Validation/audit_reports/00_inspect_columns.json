@@ -1,0 +1,840 @@
+{
+  "main_columns": [
+    {
+      "coluna": "Publication Type",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 3,
+      "exemplo": "J"
+    },
+    {
+      "coluna": "Authors",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 123835,
+      "exemplo": "Ungurean, L; Cârstoiu, G; Micea, MV; Groza, V"
+    },
+    {
+      "coluna": "Book Authors",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 23,
+      "exemplo": ""
+    },
+    {
+      "coluna": "Editors",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 100,
+      "exemplo": ""
+    },
+    {
+      "coluna": "Book Group Authors",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 2,
+      "exemplo": ""
+    },
+    {
+      "coluna": "Author Full Name",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 124200,
+      "exemplo": "Ungurean, Lucian; Carstoiu, Gabriel; Micea, Mihai V.; Gro..."
+    },
+    {
+      "coluna": "Book Authors Full Name",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 23,
+      "exemplo": ""
+    },
+    {
+      "coluna": "Group Authors",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 3,
+      "exemplo": ""
+    },
+    {
+      "coluna": "Document Title",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 128647,
+      "exemplo": "<texto, 97 chars>"
+    },
+    {
+      "coluna": "Publication Name",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 2154,
+      "exemplo": "INTERNATIONAL JOURNAL OF ENERGY RESEARCH"
+    },
+    {
+      "coluna": "Book Series Title",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 49,
+      "exemplo": "<texto, 0 chars>"
+    },
+    {
+      "coluna": "Book Series Subtitle",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 1,
+      "exemplo": "<texto, 0 chars>"
+    },
+    {
+      "coluna": "Language",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 2,
+      "exemplo": "English"
+    },
+    {
+      "coluna": "Document Type",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 17,
+      "exemplo": "Review"
+    },
+    {
+      "coluna": "Conference Title",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 651,
+      "exemplo": "<texto, 0 chars>"
+    },
+    {
+      "coluna": "Conference Date",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 612,
+      "exemplo": ""
+    },
+    {
+      "coluna": "Conference Location",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 463,
+      "exemplo": ""
+    },
+    {
+      "coluna": "Conference Sponsors",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 287,
+      "exemplo": ""
+    },
+    {
+      "coluna": "Conference Host",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 119,
+      "exemplo": ""
+    },
+    {
+      "coluna": "Author Keywords",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 97952,
+      "exemplo": "battery state estimation; state of health; remaining usef..."
+    },
+    {
+      "coluna": "Keywords Plus®",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 117181,
+      "exemplo": "LITHIUM-ION BATTERIES; USEFUL LIFE PREDICTION; ON-BOARD S..."
+    },
+    {
+      "coluna": "Abstract",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 128116,
+      "exemplo": "<texto, 1058 chars>"
+    },
+    {
+      "coluna": "Author Address",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 125649,
+      "exemplo": "[Ungurean, Lucian; Carstoiu, Gabriel; Micea, Mihai V.] Po..."
+    },
+    {
+      "coluna": "Affiliating Institutions",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 58190,
+      "exemplo": "Universitatea Politehnica Timisoara; University of Ottawa"
+    },
+    {
+      "coluna": "Reprint Address",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 96251,
+      "exemplo": "Micea, MV (corresponding author), Politech Univ Timisoara..."
+    },
+    {
+      "coluna": "E-mail Address",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 65795,
+      "exemplo": "mihai.micea@cs.upt.ro"
+    },
+    {
+      "coluna": "ResearcherID Number",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 91769,
+      "exemplo": "Ungurean, Lucian/J-1417-2018; Cârstoiu, Gabriel/ABC-1558-..."
+    },
+    {
+      "coluna": "ORCID",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 68044,
+      "exemplo": "Ungurean, Lucian/0000-0002-9799-7390; Carstoiu, Gabriel/0..."
+    },
+    {
+      "coluna": "Funding Agency and Grant Number",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 99068,
+      "exemplo": "Romanian National Authority for Scientific Research and I..."
+    },
+    {
+      "coluna": "Name Of The Funding Agencies",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 83030,
+      "exemplo": "Romanian National Authority for Scientific Research and I..."
+    },
+    {
+      "coluna": "Funding Text",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 107520,
+      "exemplo": "This work was supported by a grant of the Romanian Nation..."
+    },
+    {
+      "coluna": "Cited References",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 128591,
+      "exemplo": "<texto, 7424 chars>"
+    },
+    {
+      "coluna": "Cited Reference Count",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 579,
+      "exemplo": "99"
+    },
+    {
+      "coluna": "WOS Core Collection Times Cited Count",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 1120,
+      "exemplo": "199"
+    },
+    {
+      "coluna": "Total Times Cited Count",
+      "dtype": "int64",
+      "nao_nulos": 128675,
+      "n_unicos": 1197,
+      "exemplo": "223"
+    },
+    {
+      "coluna": "Usage Count Last 180 Days",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 257,
+      "exemplo": "3"
+    },
+    {
+      "coluna": "Usage Count Since 2013",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 1761,
+      "exemplo": "279"
+    },
+    {
+      "coluna": "Publisher",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 465,
+      "exemplo": "WILEY"
+    },
+    {
+      "coluna": "Publisher City",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 276,
+      "exemplo": "HOBOKEN"
+    },
+    {
+      "coluna": "Publisher Address",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 530,
+      "exemplo": "111 RIVER ST, HOBOKEN 07030-5774, NJ USA"
+    },
+    {
+      "coluna": "ISSN",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 1847,
+      "exemplo": "0363-907X"
+    },
+    {
+      "coluna": "eISSN",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 1676,
+      "exemplo": "1099-114X"
+    },
+    {
+      "coluna": "ISBN",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 130,
+      "exemplo": ""
+    },
+    {
+      "coluna": "29-Character Source Abbreviation",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 2047,
+      "exemplo": "INT J ENERG RES"
+    },
+    {
+      "coluna": "ISO Source Abbreviation",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 2012,
+      "exemplo": "Int. J. Energy Res."
+    },
+    {
+      "coluna": "Publication Date",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 924,
+      "exemplo": "FEB"
+    },
+    {
+      "coluna": "Year Published",
+      "dtype": "int64",
+      "nao_nulos": 128675,
+      "n_unicos": 35,
+      "exemplo": "2017"
+    },
+    {
+      "coluna": "Volume",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 1144,
+      "exemplo": "41"
+    },
+    {
+      "coluna": "Issue",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 331,
+      "exemplo": "2"
+    },
+    {
+      "coluna": "Part Number",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 20,
+      "exemplo": ""
+    },
+    {
+      "coluna": "Supplement",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 21,
+      "exemplo": ""
+    },
+    {
+      "coluna": "Special Issue",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 9,
+      "exemplo": ""
+    },
+    {
+      "coluna": "Meeting Abstract",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 1,
+      "exemplo": "<texto, 0 chars>"
+    },
+    {
+      "coluna": "Beginning Page",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 22605,
+      "exemplo": "151"
+    },
+    {
+      "coluna": "Ending Page",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 22500,
+      "exemplo": "181"
+    },
+    {
+      "coluna": "Article Number",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 35885,
+      "exemplo": ""
+    },
+    {
+      "coluna": "DOI",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 128675,
+      "exemplo": "10.1002/er.3598"
+    },
+    {
+      "coluna": "Link to full text",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 128675,
+      "exemplo": "http://dx.doi.org/10.1002/er.3598"
+    },
+    {
+      "coluna": "Book-DOI",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 60,
+      "exemplo": ""
+    },
+    {
+      "coluna": "Publication Stage",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 89,
+      "exemplo": ""
+    },
+    {
+      "coluna": "Page Count",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 118,
+      "exemplo": "31"
+    },
+    {
+      "coluna": "WOS Categories",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 655,
+      "exemplo": "Energy & Fuels; Nuclear Science & Technology"
+    },
+    {
+      "coluna": "WE",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 19,
+      "exemplo": "Science Citation Index Expanded (SCI-EXPANDED)"
+    },
+    {
+      "coluna": "Research Areas",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 369,
+      "exemplo": "Energy & Fuels; Nuclear Science & Technology"
+    },
+    {
+      "coluna": "Document Delivery Number",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 76024,
+      "exemplo": "EL7EQ"
+    },
+    {
+      "coluna": "PubMed ID",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 26421,
+      "exemplo": ""
+    },
+    {
+      "coluna": "Open Access",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 92,
+      "exemplo": ""
+    },
+    {
+      "coluna": "HC",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 1,
+      "exemplo": ""
+    },
+    {
+      "coluna": "HP",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 2,
+      "exemplo": ""
+    },
+    {
+      "coluna": "DA",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 2,
+      "exemplo": "2025-09-25"
+    },
+    {
+      "coluna": "Accession Number",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 128675,
+      "exemplo": "WOS:000394784300001"
+    },
+    {
+      "coluna": "authors_list",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 123835,
+      "exemplo": "['Ungurean, L', 'Cârstoiu, G', 'Micea, MV', 'Groza, V']"
+    },
+    {
+      "coluna": "authors_full_name_list",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 124200,
+      "exemplo": "['Ungurean, Lucian', 'Carstoiu, Gabriel', 'Micea, Mihai V..."
+    },
+    {
+      "coluna": "authors_institution",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 77028,
+      "exemplo": "['Politech Univ Timisoara', 'Politech Univ Timisoara', 'P..."
+    },
+    {
+      "coluna": "first_author",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 37942,
+      "exemplo": "Ungurean, L"
+    },
+    {
+      "coluna": "last_author",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 23574,
+      "exemplo": "Groza, V"
+    },
+    {
+      "coluna": "first_institution",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 7363,
+      "exemplo": "Politech Univ Timisoara"
+    },
+    {
+      "coluna": "last_institution",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 7823,
+      "exemplo": "Univ Ottawa"
+    },
+    {
+      "coluna": "authors_country",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 16722,
+      "exemplo": "['Romania', 'Romania', 'Romania', 'Canada']"
+    },
+    {
+      "coluna": "first_country",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 123,
+      "exemplo": "Romania"
+    },
+    {
+      "coluna": "last_country",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 107,
+      "exemplo": "Canada"
+    },
+    {
+      "coluna": "first_country_region",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 7,
+      "exemplo": "Europe"
+    },
+    {
+      "coluna": "last_country_region",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 7,
+      "exemplo": "North America"
+    },
+    {
+      "coluna": "first_author_full_name",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 60366,
+      "exemplo": "Ungurean, Lucian"
+    },
+    {
+      "coluna": "last_author_full_name",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 33994,
+      "exemplo": "Groza, Voicu"
+    },
+    {
+      "coluna": "topic_rank_index",
+      "dtype": "float64",
+      "nao_nulos": 128675,
+      "n_unicos": 23,
+      "exemplo": "7.111487363757647"
+    },
+    {
+      "coluna": "topic_rank_index_position",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 23,
+      "exemplo": "3rd"
+    },
+    {
+      "coluna": "topic_rank_index_wo_review",
+      "dtype": "float64",
+      "nao_nulos": 128675,
+      "n_unicos": 23,
+      "exemplo": "5.922124152208171"
+    },
+    {
+      "coluna": "topic_rank_index_wo_review_position",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 23,
+      "exemplo": "4th"
+    },
+    {
+      "coluna": "author_keywords_normalized_list",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 97852,
+      "exemplo": "['battery state estimation', 'state of health', 'remainin..."
+    },
+    {
+      "coluna": "research_type",
+      "dtype": "object",
+      "nao_nulos": 128141,
+      "n_unicos": 5,
+      "exemplo": "Review"
+    },
+    {
+      "coluna": "citations_per_year",
+      "dtype": "float64",
+      "nao_nulos": 128675,
+      "n_unicos": 5489,
+      "exemplo": "24.77777777777778"
+    },
+    {
+      "coluna": "journal_if",
+      "dtype": "float64",
+      "nao_nulos": 102554,
+      "n_unicos": 186,
+      "exemplo": "4.2"
+    },
+    {
+      "coluna": "category_group",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 4,
+      "exemplo": "Hidden Gem (Low IF, High Cit)"
+    },
+    {
+      "coluna": "JNIF",
+      "dtype": "float64",
+      "nao_nulos": 102554,
+      "n_unicos": 11502,
+      "exemplo": "53.095238095238095"
+    },
+    {
+      "coluna": "score_log",
+      "dtype": "float64",
+      "nao_nulos": 102554,
+      "n_unicos": 15560,
+      "exemplo": "4.282749823974742"
+    },
+    {
+      "coluna": "score_sqrt",
+      "dtype": "float64",
+      "nao_nulos": 128675,
+      "n_unicos": 9680,
+      "exemplo": "30.603921317373693"
+    },
+    {
+      "coluna": "topic_cluster_1",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 23,
+      "exemplo": "Li-ion battery SoH/aging, thermal & charging"
+    },
+    {
+      "coluna": "studied_metal_metal_label",
+      "dtype": "object",
+      "nao_nulos": 128675,
+      "n_unicos": 32,
+      "exemplo": "IRRELEVANT"
+    },
+    {
+      "coluna": "is_li_ion",
+      "dtype": "bool",
+      "nao_nulos": 128675,
+      "n_unicos": 2,
+      "exemplo": "False"
+    },
+    {
+      "coluna": "is_na_ion",
+      "dtype": "bool",
+      "nao_nulos": 128675,
+      "n_unicos": 2,
+      "exemplo": "False"
+    },
+    {
+      "coluna": "is_k_ion",
+      "dtype": "bool",
+      "nao_nulos": 128675,
+      "n_unicos": 2,
+      "exemplo": "False"
+    },
+    {
+      "coluna": "is_zn_ion",
+      "dtype": "bool",
+      "nao_nulos": 128675,
+      "n_unicos": 2,
+      "exemplo": "False"
+    },
+    {
+      "coluna": "is_other_metal",
+      "dtype": "bool",
+      "nao_nulos": 128675,
+      "n_unicos": 2,
+      "exemplo": "False"
+    },
+    {
+      "coluna": "is_irrelevant",
+      "dtype": "bool",
+      "nao_nulos": 128675,
+      "n_unicos": 2,
+      "exemplo": "True"
+    }
+  ],
+  "resolved": {
+    "doc_id": "Accession Number",
+    "title": "Document Title",
+    "abstract": "Abstract",
+    "year": "Year Published",
+    "citations": "Total Times Cited Count",
+    "citations_wos_core": "WOS Core Collection Times Cited Count",
+    "citations_per_year": "citations_per_year",
+    "doc_type": "Document Type",
+    "language": "Language",
+    "source": "Publication Name",
+    "authors": "Author Full Name",
+    "affiliations": "Author Address",
+    "doi": "DOI",
+    "author_keywords": "Author Keywords",
+    "keywords_plus": "Keywords Plus®",
+    "references": "Cited References",
+    "n_references": "Cited Reference Count",
+    "wos_categories": "WOS Categories",
+    "research_areas": "Research Areas",
+    "impact_factor": "journal_if",
+    "country": "first_country",
+    "institution": "first_institution",
+    "topic": "topic_cluster_1",
+    "research_type": "research_type",
+    "countries_all_authors": "authors_country",
+    "institutions_all_authors": "authors_institution",
+    "stored_ri": "topic_rank_index",
+    "stored_ri_wo_review": "topic_rank_index_wo_review",
+    "stored_jnif": "JNIF",
+    "stored_quadrant": "category_group"
+  },
+  "topic_layers": {
+    "topic_cluster_1": 23
+  },
+  "phrases_columns": [
+    {
+      "coluna": "doi_phrase",
+      "dtype": "object",
+      "nao_nulos": 910492,
+      "n_unicos": 910492,
+      "exemplo": "<texto, 24 chars>"
+    },
+    {
+      "coluna": "doi",
+      "dtype": "object",
+      "nao_nulos": 910492,
+      "n_unicos": 128127,
+      "exemplo": "10.1002/er.3598"
+    },
+    {
+      "coluna": "phrase",
+      "dtype": "object",
+      "nao_nulos": 910492,
+      "n_unicos": 877386,
+      "exemplo": "<texto, 165 chars>"
+    },
+    {
+      "coluna": "challenges_label",
+      "dtype": "object",
+      "nao_nulos": 910492,
+      "n_unicos": 188881,
+      "exemplo": "Complex Estimation Task"
+    },
+    {
+      "coluna": "controversies_label",
+      "dtype": "object",
+      "nao_nulos": 910492,
+      "n_unicos": 614101,
+      "exemplo": "Battery Parameter Estimation Difficulty"
+    },
+    {
+      "coluna": "directions_label",
+      "dtype": "object",
+      "nao_nulos": 910492,
+      "n_unicos": 322356,
+      "exemplo": "Improve Battery Parameter Estimation"
+    },
+    {
+      "coluna": "challenges_group",
+      "dtype": "object",
+      "nao_nulos": 910492,
+      "n_unicos": 13,
+      "exemplo": "Model Complexity Limitations"
+    },
+    {
+      "coluna": "controversies_group",
+      "dtype": "object",
+      "nao_nulos": 910492,
+      "n_unicos": 13,
+      "exemplo": "Disagreement over New Battery Materials"
+    },
+    {
+      "coluna": "directions_group",
+      "dtype": "object",
+      "nao_nulos": 910492,
+      "n_unicos": 13,
+      "exemplo": "Advanced Battery Technology Development"
+    }
+  ],
+  "phrases_common_columns": []
+}
