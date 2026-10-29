@@ -1,7 +1,6 @@
 # Data and Software Repository: Charting the Global Landscape of Metal-Ion Battery Research from 128,675 Publications Using AI-Driven Literature Mining
 
-**Authors**: Sara Barati, Luis C. M. Azevedo, and Juarez L. F. Da Silva  
-**Affiliation**: São Carlos Institute of Chemistry, University of São Paulo (IQSC/USP), PO Box 780, 13560-970, São Carlos, SP, Brazil  
+**Authors**: Sara Barati, Luis C. Azevedo, Jorge da Silva Shinohara, Tuanan C. Lorenço, Mayur P. Bonkile, Raissa Venâncio, Bruno Freitas, João Pedro Aguiar dos Santos, Maria Gabriella Detone Guaita, Carla G. Real, Luís G. Dias, Gustavo Doubek, Hudson Zanin, Ronaldo C. Prati, and Juarez L. F. Da Silva
 **Corresponding author**: juarez_dasilva@iqsc.usp.br (J. L. F. Da Silva)  
 
 ---
